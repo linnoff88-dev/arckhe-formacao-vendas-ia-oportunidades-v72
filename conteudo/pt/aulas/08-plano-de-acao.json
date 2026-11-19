@@ -1,0 +1,147 @@
+{
+  "slug": "plano-de-acao",
+  "num": 8,
+  "menu": "Plano",
+  "titulo": "Alavancas de audiência e o seu plano de 30 dias",
+  "titulo_curto": "37 a 43 e o seu plano",
+  "minutos": 18,
+  "lead": "Quarenta e três oportunidades lidas e nenhuma executada valem zero. Esta aula fecha o filtro com as sete últimas e transforma a primeira colocada da sua tabela num papel e num plano de quatro semanas, com tarefas fechadas e metas em número.",
+  "objetivo": "escolher um papel e sair com o plano de 30 dias datado, com metas em número e critério objetivo de continuar ou trocar.",
+  "competencias": ["classificar-oportunidade", "planejar-30-dias", "medir-por-lote"],
+  "aprende": [
+    {"t": "Onde caem as oportunidades 37 a 43"},
+    {"t": "As quatro semanas: escolher, isca, lote, proposta"},
+    {"t": "Medir por lote, mudando uma variável por vez"},
+    {"t": "Gerar o seu plano com datas"}
+  ],
+  "hero_alt": "Pessoa planeja numa mesa com um calendário de papel de quatro semanas e notas adesivas em branco, de manhã cedo.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "As oportunidades 37 a 43 no filtro",
+      "sub": "Duas sobem, cinco são construção. Clique em cada caixa.",
+      "nos": [
+        {"icone": "lupa", "titulo": "Consultor", "sub": "sobe",
+         "itens": [{"icone": "check", "t": "37 · Otimizar a prospecção fria"}],
+         "detalhe": "Começa por um diagnóstico de operação numa campanha real: quantos minutos humanos cada contato consome e o que dá para eliminar. A entrada é por comunidade e conversa, não por mensagem fria."},
+        {"icone": "escudo", "titulo": "Auditor", "sub": "sobe", "forte": true,
+         "itens": [{"icone": "check", "t": "41 · Revisar a triagem de candidatos"}],
+         "detalhe": "Os sistemas de triagem carregam vieses conhecidos, e a forma como as empresas os configuram costuma piorar isso. O valor está em explicar por que cada candidato foi classificado assim. Demonstração só com dados fictícios, nunca com currículos reais de terceiros."},
+        {"icone": "megafone", "titulo": "Treinador", "sub": "recebe a 40",
+         "detalhe": "A plataforma de treino e simulação (40) é o simulado de quem se prepara para um momento decisivo. Para escolas e empresas de formação, entra como ferramenta da turma."},
+        {"icone": "calendario", "titulo": "Mentor", "sub": "nenhuma neste grupo",
+         "detalhe": "Nenhuma das sete é acompanhamento de gestor. Mas a última dica do curso é de mentoria: é mais fácil alguém melhorar o seu rascunho do que responder \"o que eu deveria fazer?\"."},
+        {"icone": "chip", "titulo": "Construção", "sub": "perde valor",
+         "itens": [{"icone": "x", "t": "38 · Gestão de redes sociais"}, {"icone": "x", "t": "39 · Destravamento de audiência"}, {"icone": "x", "t": "40 · Treino e simulação"}, {"icone": "x", "t": "42 · Candidatura a vagas"}, {"icone": "x", "t": "43 · Comunidades turbinadas"}],
+         "detalhe": "Qualquer pessoa produz conteúdo genérico em volume, então o valor migrou para o que não parece feito por máquina. As outras montam motores e assistentes para terceiros: construção que exige manutenção constante."}
+      ],
+      "legenda": "Placar final do filtro: Consultor 5, Auditor 3, Mentor 3, Treinador 5, construção 27."
+    },
+    {
+      "tipo": "mapa",
+      "titulo": "O mapa do curso",
+      "sub": "As quatro semanas do plano e a aula de onde sai cada entrega. Clique num exercício para ver o \"pronto quando\".",
+      "degraus": [
+        {"aula": "escolha-o-papel", "icone": "alvo", "quando": "Semana 1", "titulo": "Escolher e provar", "sub": "papel e critérios",
+         "saida": "Um papel escolhido e uma execução gratuita para um caso real.",
+         "passo": "Passe as candidatas da tabela pelos cinco critérios e fique com uma. Execute uma vez, de graça, para um conhecido: você precisa de prova própria antes de qualquer conversa."},
+        {"aula": "portas-de-entrada", "icone": "arquivo", "quando": "Semana 2", "titulo": "Isca e lista", "sub": "diagnóstico curto",
+         "saida": "Isca repetível de 2 a 4 horas e lista de 20 empresas do mesmo nicho.",
+         "passo": "Transforme o que você fez numa isca repetível. Monte a lista de vinte empresas e escreva a mensagem de cinco linhas, sem link."},
+        {"aula": "funil-diagnostico", "icone": "relogio", "quando": "Semana 3", "titulo": "Lote e conversa", "sub": "15 minutos",
+         "saida": "Primeiro lote enviado e medido; conversas marcadas.",
+         "passo": "Envie para as vinte. Anote quantos responderam e quantos marcaram conversa. Não mude nada no meio do lote: sem lote fechado não existe informação, só sensação."},
+        {"aula": "plano-de-acao", "icone": "calendario", "quando": "Semana 4", "titulo": "Propor e ajustar", "sub": "uma variável",
+         "saida": "Pelo menos uma proposta com prazo e valor ditos em voz alta.",
+         "passo": "Conduza as conversas com o roteiro da aula 2. Mude uma variável para o próximo lote e faça pelo menos uma proposta, sem pedido de desculpas."}
+      ],
+      "resultado": {"titulo": "Ao final do curso", "texto": "Um papel de confiança escolhido, uma isca testada em lote e uma proposta feita.", "total": "17 exercícios"},
+      "rolagem_fim": {"titulo": "O ciclo inteiro", "texto": "Filtro, isca, conversa e proposta. As aulas 4 a 7 entram no plano gerado abaixo, com a tabela das 43 completa."},
+      "legenda": "Lote é fechado: mude uma variável só entre um lote e outro. Só depois de três lotes dá para dizer que \"não funciona\"."
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "O plano escrito com metas em número.",
+      "blocos": [
+        {"rot": "Prompt · seu plano de 30 dias", "icone": "calendario",
+         "conteudo": "Você é meu gestor de projeto e é duro comigo. Vou executar UM serviço nas próximas 4 semanas.\nPapel escolhido: <consultor, auditor, mentor ou treinador>\nServiço: <o que eu entrego, ex.: diagnóstico curto + mapa de rota>\nMeu contexto: tenho <horas por semana> livres, <caixa disponível>, e sei fazer <habilidades>.\nNicho alvo: <setor e recorte, ex.: clínicas odontológicas com 2 consultórios na minha cidade>\n\nMonte:\n1. As tarefas de cada semana, no máximo 3 por semana, cada uma cabendo no meu tempo real.\n2. As metas numéricas de cada semana (iscas produzidas, contatos, conversas).\n3. O que eu tenho que ter PRONTO no dia 30 para dizer que valeu, em fatos, não em sensação.\n4. Os 3 sinais de que escolhi errado e devo trocar no dia 30, cada um checável com um número.\n5. As 5 desculpas mais prováveis que eu vou usar para não fazer, e a resposta para cada uma.\nNada de \"dedique-se\". Quero tarefa com verbo, número e dia."}
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Prática",
+      "sub": "Os dois exercícios que fecham o curso.",
+      "exercicios": [
+        {"id": "e1", "titulo": "1 · Plano de 30 dias escrito", "min": "30 min",
+         "texto": "Termine a tabela das 43, ordene por número de \"sim\" e rode o prompt para a primeira colocada.",
+         "pronto": "nenhuma semana tem mais de 3 tarefas, cada meta tem número e os 3 sinais de troca se conferem com um número (não \"não gostei do processo\")."},
+        {"id": "e2", "titulo": "2 · Plano com datas e rascunho revisado", "min": "20 min",
+         "texto": "Gere o plano abaixo com a sua data de início. Escreva o rascunho da sua oferta, mesmo ruim, e leve para alguém olhar.",
+         "pronto": "o arquivo .md do plano está salvo, o .ics está na sua agenda e uma pessoa devolveu pelo menos um comentário sobre o rascunho."}
+      ]
+    },
+    {
+      "tipo": "gerador",
+      "titulo": "Gere o seu plano com datas",
+      "sub": "Escolha a data de início e quanto tempo você tem por semana. O plano inclui os 17 exercícios do curso.",
+      "curso": "Vendas com IA 1 · 43 Oportunidades",
+      "horas_padrao": 5,
+      "degraus": [
+        {"titulo": "Aula 1 · O filtro", "aula": "escolha-o-papel"},
+        {"titulo": "Aula 2 · Funil e conversa de 15 min", "aula": "funil-diagnostico"},
+        {"titulo": "Aula 3 · Oportunidades 1 a 5", "aula": "portas-de-entrada"},
+        {"titulo": "Aula 4 · Oportunidades 6 a 10", "aula": "do-pe-na-porta"},
+        {"titulo": "Aula 5 · Oportunidades 11 a 19", "aula": "produto-e-posicao"},
+        {"titulo": "Aula 6 · Oportunidades 20 a 29", "aula": "educacao-e-sistemas"},
+        {"titulo": "Aula 7 · Oportunidades 30 a 36", "aula": "nichos-com-barreira"},
+        {"titulo": "Aula 8 · 37 a 43 e o plano", "aula": "plano-de-acao"}
+      ],
+      "txt": {"titulo": "Plano — Vendas com IA 1 · 43 Oportunidades", "inicio": "Início", "ritmo": "Ritmo", "termino": "Término previsto", "ate": "até", "pronto": "pronto quando", "semanas": "semanas", "travou": "## O que travou e a regra que criei", "h": "h por semana", "exs": "exercícios"}
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Teste final",
+      "sub": "4 perguntas sobre o curso inteiro.",
+      "perguntas": [
+        {"p": "Terminou a semana 3 e ninguém respondeu. O que fazer?",
+         "opcoes": ["Trocar de oportunidade: essa não funciona", "Mudar uma variável só e rodar o próximo lote", "Mandar a mesma mensagem para duzentos contatos"],
+         "certa": 1, "ref": "mapa", "cert": true,
+         "explica": "Um lote só não decide nada. Mude uma variável (assunto, abertura, público, formato) e rode de novo; só depois de três lotes dá para concluir."},
+        {"p": "Qual das cinco caixas tem mais oportunidades nas 43?",
+         "opcoes": ["Consultor", "Construção que perde valor", "Treinador"],
+         "certa": 1, "ref": "diagrama",
+         "explica": "São 27 construções contra 16 papéis de confiança. Construção não some: vira peça de diagnóstico, revisão, acompanhamento ou ensino."},
+        {"p": "Você monta sites rápido com IA. Como transformar isso num serviço de confiança?",
+         "opcoes": ["Baixar o preço para ganhar volume", "Usar o site como isca de um diagnóstico e ensinar o dono a publicar e manter", "Prometer resultado em vendas"],
+         "certa": 1, "ref": "diagrama", "cert": true,
+         "explica": "O site virou mercadoria. Como isca, abre a conversa de diagnóstico; ensinar a manter é o que fica. Baixar preço é disputar com todos; prometer vendas sem linha de base é aposta."},
+        {"p": "O que o Auditor de IA não é?",
+         "opcoes": ["Quem faz inventário do que a empresa usa", "Pentest, resposta a incidente ou parecer jurídico", "Quem avalia permissões e dados"],
+         "certa": 1, "ref": "diagrama",
+         "explica": "O Auditor faz avaliação e triagem de riscos de IA: inventário, permissões, dados e relatório com plano de 30 dias. Pentest, incidente e parecer jurídico continuam com profissionais habilitados."}
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "O curso em quatro frases",
+      "itens": [
+        {"t": "Cinco caixas", "texto": "Quatro papéis de confiança e a construção que perde valor."},
+        {"t": "Construção vira peça", "texto": "Site, loja e agendamento entram num diagnóstico, numa revisão, num acompanhamento ou numa aula."},
+        {"t": "Uma escolha, quatro semanas", "texto": "Um papel, uma isca, um lote fechado e uma proposta dita em voz alta."},
+        {"t": "Profundidade", "texto": "Dois ou três clientes atendidos fundo valem mais que cinco rasos."}
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Continue por aqui",
+      "links": [
+        {"t": "Curso 3 · Fundamentos (próximo da ordem sugerida)", "href": "https://inematds.github.io/formacao-vendas-ia-fundamentos-v72/", "icone": "seta"},
+        {"t": "Curso 2 · Playbook de Consultoria (escada de preço)", "href": "https://inematds.github.io/formacao-vendas-ia-consultoria-v72/", "icone": "lupa"},
+        {"t": "Curso 4 · Do Zero ao Primeiro Cliente (faixas por serviço)", "href": "https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/", "icone": "escudo"},
+        {"t": "Área Profissional 2030: as quatro formações", "href": "https://eventos.inema.pro/prof2030/#formacoes", "icone": "camadas"},
+        {"t": "Laboratório: Horizonte Distribuidora (empresa fictícia)", "href": "https://inematds.github.io/prof2030-lab/", "icone": "pasta"}
+      ]
+    }
+  ]
+}

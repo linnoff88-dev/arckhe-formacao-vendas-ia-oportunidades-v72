@@ -1,0 +1,231 @@
+{
+  "slug": "portas-de-entrada",
+  "num": 3,
+  "menu": "1 to 5",
+  "titulo": "The entry doors: opportunities 1 to 5",
+  "titulo_curto": "Opportunities 1 to 5",
+  "minutos": 16,
+  "lead": "The 43 look like 43 businesses. In practice they are three verbs in different combinations: teach, diagnose and deliver the thing that was built. The five entry doors show the whole shift: training, roadmap and diagnostic move up; store and scheduling became a piece of a bigger service.",
+  "objetivo": "separate the doors that move up (teaching, roadmap, diagnostic) from the builds, and put together a short diagnostic with three wins.",
+  "competencias": [
+    "classificar-oportunidade",
+    "montar-diagnostico-curto",
+    "vender-julgamento"
+  ],
+  "aprende": [
+    {
+      "t": "The three verbs behind the 43"
+    },
+    {
+      "t": "Why training and roadmap move up"
+    },
+    {
+      "t": "Putting together a diagnostic with no access at all"
+    },
+    {
+      "t": "Where store and scheduling fit in now"
+    }
+  ],
+  "hero_alt": "An instructor teaches a small office team around a table with open laptops.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Opportunities 1 to 5 in the filter",
+      "sub": "Three move up, two become a piece. Click each box.",
+      "nos": [
+        {
+          "icone": "megafone",
+          "titulo": "Trainer",
+          "sub": "moves up",
+          "itens": [
+            {
+              "icone": "check",
+              "t": "1 · AI training for teams"
+            }
+          ],
+          "detalhe": "The most stable opportunity on the list: the tool changes every quarter and someone has to translate it for the team. It's not a talk about the future, it's \"this report from your Tuesday comes out in ten minutes\"."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Consultant",
+          "sub": "moves up",
+          "forte": true,
+          "itens": [
+            {
+              "icone": "check",
+              "t": "2 · AI roadmaps"
+            },
+            {
+              "icone": "check",
+              "t": "3 · AI diagnostics"
+            }
+          ],
+          "detalhe": "The roadmap sells judgment and order: the AI tool agrees with whoever asks and doesn't prioritize on its own. The short diagnostic has become the best lead magnet on the list; the money is in the next question: \"in what order do I fix this?\"."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Auditor",
+          "sub": "none in this group",
+          "detalhe": "None of the five is a risk review. But one item in opportunity 2 already is: companies that have a plan made by AI and need someone to audit it."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Mentor",
+          "sub": "gets the store",
+          "detalhe": "The online store (4) used to be a project of months and is now a weekend of assembly. The hard part is still product and taste. Instead of building it for the owner, go along with them while they build it."
+        },
+        {
+          "icone": "chip",
+          "titulo": "Building",
+          "sub": "becomes a piece",
+          "itens": [
+            {
+              "icone": "x",
+              "t": "4 · Online store built with AI"
+            },
+            {
+              "icone": "x",
+              "t": "5 · Automatic scheduling"
+            }
+          ],
+          "detalhe": "In scheduling (5), the decision is about the clock: a lot of sales die between someone writing and someone answering. Measuring that time is a diagnostic; the bot is just one item in the plan."
+        }
+      ],
+      "legenda": "Verb map from the source: teach (1, 20, 21, 23), diagnose (2, 3, 17, 37), deliver (4, 5, 9, 10). The more verbs together, the higher the barrier."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "The three that go up",
+      "sub": "What it is, who it's for, and the first step this week.",
+      "passos": [
+        {
+          "titulo": "1 · Training",
+          "sub": "Trainer",
+          "texto": [
+            "You teach the team to use AI in their own concrete work: an opening talk, a hands-on workshop, or training for the internal instructors. For mid-sized companies with lots of manual processes and teams that already use AI badly and know it.",
+            "First step: record yourself solving a boring task from your day with AI, with no fancy edits, and publish it. Then offer a free 45-minute session to a company you know."
+          ],
+          "exemplo": {
+            "rot": "Honest test",
+            "texto": "Record yourself teaching. If you end your sentences with \"does that make sense?\" and a rising tone, you don't understand it well enough yet to teach it."
+          }
+        },
+        {
+          "titulo": "2 · Roadmaps",
+          "sub": "Consultant",
+          "texto": [
+            "A plan with order, deadline and owner for 30, 60, 90 and 180 days, built from interviews, the real work and an inventory of the tools the company already pays for. Deliver it as a working session, never as a file sent by email.",
+            "Quarterly review: the market changes and the plan gets old. It's follow-up, not building."
+          ],
+          "exemplo": {
+            "rot": "The objection",
+            "texto": "\"AI knows me better than you do.\" Honest answer: it agrees with whoever asks, and it doesn't prioritize if nobody tells it to. I sell judgment and order."
+          }
+        },
+        {
+          "titulo": "3 · Diagnostics",
+          "sub": "Consultant",
+          "texto": [
+            "Look at the business from the outside and point out where time and money leak. The version that works best is the short, free one: three obvious wins, delivered without asking for anything in return.",
+            "You can gather material without a password: the systems the site uses, the public reviews, and the obvious thing not done (no way to book, no reply outside business hours)."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Template to copy",
+      "sub": "Use it with what you really observed. Nothing made up.",
+      "blocos": [
+        {
+          "rot": "Prompt · short diagnostic of a real business",
+          "icone": "lupa",
+          "conteudo": "You are an operations consultant. I'm going to give you what I was able to observe publicly about a company.\nDon't make up data: when information is missing, write \"not observable\" and say how I would confirm it.\n\nCompany: <segment and city>\nWhat I observed: <what the site has and doesn't have; how they respond; what customers complain about in reviews;\nwhat the public presence shows; roughly how many employees they seem to have>\n\nDeliver:\n1. The THREE most expensive leaks these signals suggest, each with an estimate of how much it may cost\n   per month and the math that supports the estimate.\n2. For each leak, the simplest possible fix, the one I can show working within a week.\n3. A 5-line message that I send along with the diagnostic, with no link and without asking for anything in return.\n4. The question they will probably ask after reading it, so I can arrive with the answer ready."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "This is the lead magnet you will use in the 30-day plan.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Short diagnostic of a real company",
+          "min": "45 min",
+          "texto": "Choose a local niche, list ten well-reviewed companies, and run the short diagnostic for one of them with what you observed.",
+          "pronto": "the diagnostic has 3 leaks, and each one cites an observable signal you actually saw; none of them is \"they probably have integration problems\"."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Classify the five in your table",
+          "min": "10 min",
+          "texto": "Enter opportunities 1 to 5 in the filter table, with the box and the five criteria. For 4 and 5, write which service they become part of.",
+          "pronto": "the 5 rows are in the table, with Y/N on the 5 criteria, and rows 4 and 5 say which role they become a piece of."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick test",
+      "sub": "3 questions.",
+      "perguntas": [
+        {
+          "p": "The client says they already made an AI plan by chatting with a tool. What does the roadmap offer that the tool doesn't?",
+          "opcoes": [
+            "More text",
+            "Judgment and order: prioritizing and saying what comes first",
+            "A newer tool"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "The tool hands the user's own opinion back in nicer clothes. The roadmap sells priority, deadline and owner. More text or a new tool doesn't solve that."
+        },
+        {
+          "p": "Why did automatic scheduling fall into the building box?",
+          "opcoes": [
+            "Because it doesn't work",
+            "Because building got easy; the value is in measuring response time and deciding in the diagnostic",
+            "Because it's forbidden"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "The pain (a sale that cools off in minutes) is real and measurable. But the bot itself became a cheap piece: the one who measures and prioritizes is the Consultant."
+        },
+        {
+          "p": "One leak in your diagnostic says \"they probably have integration problems,\" with no observed signal. What should you do?",
+          "opcoes": [
+            "Send it anyway",
+            "Cut or confirm: a diagnosis without an observable signal is a guess and burns the contact",
+            "Swap in a bigger number"
+          ],
+          "certa": 1,
+          "ref": "codigo",
+          "explica": "Every leak needs a signal you saw. A guess sent cold burns the contact for good."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Training is the most stable",
+          "texto": "The tool changes and someone has to translate."
+        },
+        {
+          "t": "Roadmap sells judgment",
+          "texto": "AI agrees with whoever is asking; it doesn't prioritize on its own."
+        },
+        {
+          "t": "Diagnostic became a lead magnet",
+          "texto": "Free, specific and repeatable for twenty companies in the same niche."
+        },
+        {
+          "t": "Store and scheduling become parts",
+          "texto": "The Mentor accompanies the owner; the Consultant measures the clock."
+        }
+      ]
+    }
+  ]
+}

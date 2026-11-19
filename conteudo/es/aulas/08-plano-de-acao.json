@@ -1,0 +1,350 @@
+{
+  "slug": "plano-de-acao",
+  "num": 8,
+  "menu": "Plan",
+  "titulo": "Palancas de audiencia y tu plan de 30 días",
+  "titulo_curto": "37 a 43 y tu plan",
+  "minutos": 18,
+  "lead": "Cuarenta y tres oportunidades leídas y ninguna ejecutada valen cero. Esta clase cierra el filtro con las últimas siete y convierte la primera de tu tabla en un rol y en un plan de cuatro semanas, con tareas cerradas y metas en número.",
+  "objetivo": "elegir un rol y salir con el plan de 30 días con fechas, con metas en número y un criterio objetivo para continuar o cambiar.",
+  "competencias": [
+    "clasificar-oportunidad",
+    "planejar-30-dias",
+    "medir-por-lote"
+  ],
+  "aprende": [
+    {
+      "t": "Dónde caen las oportunidades 37 a 43"
+    },
+    {
+      "t": "Las cuatro semanas: elegir, imán de clientes, lote, propuesta"
+    },
+    {
+      "t": "Medir por lote, cambiando una variable a la vez"
+    },
+    {
+      "t": "Generar tu plan con fechas"
+    }
+  ],
+  "hero_alt": "Una persona planifica en una mesa con un calendario de papel de cuatro semanas y notas adhesivas en blanco, temprano por la mañana.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Las oportunidades 37 a 43 en el filtro",
+      "sub": "Dos suben, cinco son construcción. Haz clic en cada caja.",
+      "nos": [
+        {
+          "icone": "lupa",
+          "titulo": "Consultor",
+          "sub": "sube",
+          "itens": [
+            {
+              "icone": "check",
+              "t": "37 · Optimizar la prospección en frío"
+            }
+          ],
+          "detalhe": "Empieza con un diagnóstico de operación en una campaña real: cuántos minutos humanos consume cada contacto y qué se puede eliminar. La entrada es por comunidad y conversación, no por mensaje en frío."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Auditor",
+          "sub": "sube",
+          "forte": true,
+          "itens": [
+            {
+              "icone": "check",
+              "t": "41 · Revisar la selección de candidatos"
+            }
+          ],
+          "detalhe": "Los sistemas de selección cargan sesgos conocidos, y la forma en que las empresas los configuran suele empeorarlos. El valor está en explicar por qué cada candidato fue clasificado así. Demostración solo con datos ficticios, nunca con currículos reales de terceros."
+        },
+        {
+          "icone": "megafone",
+          "titulo": "Formador",
+          "sub": "recibe la 40",
+          "detalhe": "La plataforma de entrenamiento y simulación (40) es el simulacro de quien se prepara para un momento decisivo. Para escuelas y empresas de formación, entra como herramienta del grupo."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Mentor",
+          "sub": "ninguna en este grupo",
+          "detalhe": "Ninguna de las siete es acompañamiento de gestor. Pero el último consejo del curso es de mentoría: es más fácil que alguien mejore tu borrador a que responda \"¿qué debería hacer?\"."
+        },
+        {
+          "icone": "chip",
+          "titulo": "Construcción",
+          "sub": "pierde valor",
+          "itens": [
+            {
+              "icone": "x",
+              "t": "38 · Gestión de redes sociales"
+            },
+            {
+              "icone": "x",
+              "t": "39 · Desbloqueo de audiencia"
+            },
+            {
+              "icone": "x",
+              "t": "40 · Entrenamiento y simulación"
+            },
+            {
+              "icone": "x",
+              "t": "42 · Postulación a vacantes"
+            },
+            {
+              "icone": "x",
+              "t": "43 · Comunidades potenciadas"
+            }
+          ],
+          "detalhe": "Cualquier persona produce contenido genérico en volumen, así que el valor migró hacia lo que no parece hecho por una máquina. Las otras montan motores y asistentes para terceros: construcción que exige mantenimiento constante."
+        }
+      ],
+      "legenda": "Marcador final del filtro: Consultor 5, Auditor 3, Mentor 3, Formador 5, construcción 27."
+    },
+    {
+      "tipo": "mapa",
+      "titulo": "El mapa del curso",
+      "sub": "Las cuatro semanas del plan y la clase de donde sale cada entrega. Haz clic en un ejercicio para ver el \"listo cuando\".",
+      "degraus": [
+        {
+          "aula": "escolha-o-papel",
+          "icone": "alvo",
+          "quando": "Semana 1",
+          "titulo": "Elegir y probar",
+          "sub": "rol y criterios",
+          "saida": "Un rol elegido y una ejecución gratuita para un caso real.",
+          "passo": "Pasa las candidatas de la tabla por los cinco criterios y quédate con una. Ejecútala una vez, gratis, para un conocido: necesitas una prueba propia antes de cualquier conversación."
+        },
+        {
+          "aula": "portas-de-entrada",
+          "icone": "arquivo",
+          "quando": "Semana 2",
+          "titulo": "Imán de clientes y lista",
+          "sub": "diagnóstico corto",
+          "saida": "Imán de clientes repetible de 2 a 4 horas y lista de 20 empresas del mismo nicho.",
+          "passo": "Convierte lo que hiciste en un imán de clientes repetible. Arma la lista de veinte empresas y escribe el mensaje de cinco líneas, sin enlace."
+        },
+        {
+          "aula": "funil-diagnostico",
+          "icone": "relogio",
+          "quando": "Semana 3",
+          "titulo": "Lote y conversación",
+          "sub": "15 minutos",
+          "saida": "Primer lote enviado y medido; conversaciones agendadas.",
+          "passo": "Envía a las veinte. Anota cuántas respondieron y cuántas agendaron conversación. No cambies nada a mitad del lote: sin lote cerrado no existe información, solo sensación."
+        },
+        {
+          "aula": "plano-de-acao",
+          "icone": "calendario",
+          "quando": "Semana 4",
+          "titulo": "Proponer y ajustar",
+          "sub": "una variable",
+          "saida": "Al menos una propuesta con plazo y precio dichos en voz alta.",
+          "passo": "Conduce las conversaciones con el guion de la clase 2. Cambia una variable para el próximo lote y haz al menos una propuesta, sin pedir disculpas."
+        }
+      ],
+      "resultado": {
+        "titulo": "Al final del curso",
+        "texto": "Un rol de confianza elegido, un imán de clientes probado en lote y una propuesta hecha.",
+        "total": "17 ejercicios"
+      },
+      "rolagem_fim": {
+        "titulo": "El ciclo completo",
+        "texto": "Filtro, imán de clientes, conversación y propuesta. Las clases 4 a 7 entran en el plan generado abajo, con la tabla de las 43 completa."
+      },
+      "legenda": "El lote es cerrado: cambia una sola variable entre un lote y otro. Solo después de tres lotes se puede decir que \"no funciona\"."
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "El plan escrito con metas en número.",
+      "blocos": [
+        {
+          "rot": "Prompt · tu plan de 30 días",
+          "icone": "calendario",
+          "conteudo": "Eres mi gestor de proyecto y eres duro conmigo. Voy a ejecutar UN servicio en las próximas 4 semanas.\nRol elegido: <consultor, auditor, mentor o formador>\nServicio: <lo que yo entrego, ej.: diagnóstico corto + hoja de ruta>\nMi contexto: tengo <horas por semana> libres, <caja disponible>, y sé hacer <habilidades>.\nNicho objetivo: <sector y recorte, ej.: clínicas odontológicas con 2 consultorios en mi ciudad>\n\nArma:\n1. Las tareas de cada semana, máximo 3 por semana, cada una cabiendo en mi tiempo real.\n2. Las metas numéricas de cada semana (imanes de clientes producidos, contactos, conversaciones).\n3. Lo que yo tengo que tener LISTO el día 30 para decir que valió la pena, en hechos, no en sensación.\n4. Las 3 señales de que elegí mal y debo cambiar el día 30, cada una verificable con un número.\n5. Las 5 excusas más probables que voy a usar para no hacerlo, y la respuesta para cada una.\nNada de \"dedícate\". Quiero tarea con verbo, número y día."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Los dos ejercicios que cierran el curso.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Plan de 30 días escrito",
+          "min": "30 min",
+          "texto": "Termina la tabla de las 43, ordénala por número de \"sí\" y ejecuta el prompt para la primera ubicada.",
+          "pronto": "ninguna semana tiene más de 3 tareas, cada meta tiene número y las 3 señales de cambio se verifican con un número (no \"no me gustó el proceso\")."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Plan con fechas y borrador revisado",
+          "min": "20 min",
+          "texto": "Genera el plan de abajo con tu fecha de inicio. Escribe el borrador de tu oferta, aunque sea malo, y llévalo para que alguien lo mire.",
+          "pronto": "el archivo .md del plan está guardado, el .ics está en tu agenda y una persona devolvió al menos un comentario sobre el borrador."
+        }
+      ]
+    },
+    {
+      "tipo": "gerador",
+      "titulo": "Genera tu plan con fechas",
+      "sub": "Elige la fecha de inicio y cuánto tiempo tienes por semana. El plan incluye los 17 ejercicios del curso.",
+      "curso": "Ventas con IA 1 · 43 Oportunidades",
+      "horas_padrao": 5,
+      "degraus": [
+        {
+          "titulo": "Clase 1 · El filtro",
+          "aula": "escolha-o-papel"
+        },
+        {
+          "titulo": "Clase 2 · Embudo y conversación de 15 min",
+          "aula": "funil-diagnostico"
+        },
+        {
+          "titulo": "Clase 3 · Oportunidades 1 a 5",
+          "aula": "portas-de-entrada"
+        },
+        {
+          "titulo": "Clase 4 · Oportunidades 6 a 10",
+          "aula": "do-pe-na-porta"
+        },
+        {
+          "titulo": "Clase 5 · Oportunidades 11 a 19",
+          "aula": "produto-e-posicao"
+        },
+        {
+          "titulo": "Clase 6 · Oportunidades 20 a 29",
+          "aula": "educacao-e-sistemas"
+        },
+        {
+          "titulo": "Lección 7 · Oportunidades 30 a 36",
+          "aula": "nichos-com-barreira"
+        },
+        {
+          "titulo": "Lección 8 · 37 a 43 y el plan",
+          "aula": "plano-de-acao"
+        }
+      ],
+      "txt": {
+        "titulo": "Plan — Ventas con IA 1 · 43 Oportunidades",
+        "inicio": "Inicio",
+        "ritmo": "Ritmo",
+        "termino": "Término previsto",
+        "ate": "hasta",
+        "pronto": "listo cuando",
+        "semanas": "semanas",
+        "travou": "## Qué se trabó y la regla que creé",
+        "h": "h por semana",
+        "exs": "ejercicios"
+      }
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba final",
+      "sub": "4 preguntas sobre todo el curso.",
+      "perguntas": [
+        {
+          "p": "Terminó la semana 3 y nadie respondió. ¿Qué haces?",
+          "opcoes": [
+            "Cambiar de oportunidad: esta no funciona",
+            "Cambiar una sola variable y correr el siguiente lote",
+            "Mandar el mismo mensaje a doscientos contactos"
+          ],
+          "certa": 1,
+          "ref": "mapa",
+          "cert": true,
+          "explica": "Un solo lote no decide nada. Cambia una variable (asunto, apertura, público, formato) y corre de nuevo; solo después de tres lotes puedes sacar conclusiones."
+        },
+        {
+          "p": "¿Cuál de las cinco cajas tiene más oportunidades entre las 43?",
+          "opcoes": [
+            "Consultor",
+            "Construcción que pierde valor",
+            "Formador"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Son 27 construcciones contra 16 roles de confianza. La construcción no desaparece: se vuelve pieza de diagnóstico, revisión, acompañamiento o enseñanza."
+        },
+        {
+          "p": "Armas sitios web rápido con IA. ¿Cómo lo conviertes en un servicio de confianza?",
+          "opcoes": [
+            "Bajar el precio para ganar volumen",
+            "Usar el sitio como imán de clientes de un diagnóstico y enseñarle al dueño a publicar y mantener",
+            "Prometer resultados en ventas"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "cert": true,
+          "explica": "El sitio se volvió un commodity. Como imán de clientes, abre la conversación de diagnóstico; enseñar a mantenerlo es lo que queda. Bajar el precio es competir con todos; prometer ventas sin línea base es una apuesta."
+        },
+        {
+          "p": "¿Qué no es el Auditor de IA?",
+          "opcoes": [
+            "Quien hace el inventario de lo que usa la empresa",
+            "Pentest, respuesta a incidentes o dictamen jurídico",
+            "Quien evalúa permisos y datos"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "El Auditor hace evaluación y triaje de riesgos de IA: inventario, permisos, datos e informe con plan de 30 días. El pentest, los incidentes y el dictamen jurídico siguen en manos de profesionales habilitados."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "El curso en cuatro frases",
+      "itens": [
+        {
+          "t": "Cinco cajas",
+          "texto": "Cuatro roles de confianza y la construcción que pierde valor."
+        },
+        {
+          "t": "La construcción pasa a ser una pieza",
+          "texto": "Sitio, tienda y agenda de citas entran en un diagnóstico, una revisión, un acompañamiento o una clase."
+        },
+        {
+          "t": "Una elección, cuatro semanas",
+          "texto": "Un rol, un imán de clientes, un lote cerrado y una propuesta dicha en voz alta."
+        },
+        {
+          "t": "Profundidad",
+          "texto": "Dos o tres clientes atendidos a fondo valen más que cinco superficiales."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Sigue por aquí",
+      "links": [
+        {
+          "t": "Curso 3 · Fundamentos (siguiente en el orden sugerido)",
+          "href": "https://inematds.github.io/formacao-vendas-ia-fundamentos-v72/",
+          "icone": "seta"
+        },
+        {
+          "t": "Curso 2 · Playbook de Consultoría (escalera de precios)",
+          "href": "https://inematds.github.io/formacao-vendas-ia-consultoria-v72/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Curso 4 · De Cero al Primer Cliente (franjas por servicio)",
+          "href": "https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/",
+          "icone": "escudo"
+        },
+        {
+          "t": "Área Profesional 2030: las cuatro formaciones",
+          "href": "https://eventos.inema.pro/prof2030/#formacoes",
+          "icone": "camadas"
+        },
+        {
+          "t": "Laboratorio: Horizonte Distribuidora (empresa ficticia)",
+          "href": "https://inematds.github.io/prof2030-lab/",
+          "icone": "pasta"
+        }
+      ]
+    }
+  ]
+}

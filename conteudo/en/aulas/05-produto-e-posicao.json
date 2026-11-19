@@ -1,0 +1,246 @@
+{
+  "slug": "produto-e-posicao",
+  "num": 5,
+  "menu": "11 to 19",
+  "titulo": "Product, content and position: opportunities 11 to 19",
+  "titulo_curto": "Opportunities 11 to 19",
+  "minutos": 17,
+  "lead": "This is the group with the most building on the list: ready-made programs, creatives, faceless channels, funnels. The tool is the same for everyone, so whoever only produces competes on price. Two opportunities move up, and not because of technique: because of position. Being the fractional owner of the plan and stepping in to fix what already exists.",
+  "objetivo": "recognize the saturated buildings and choose a position of trust: fractional owner of the plan or renovation specialist.",
+  "competencias": [
+    "classificar-oportunidade",
+    "posicionar-servico-de-confianca",
+    "analisar-funil-como-diagnostico"
+  ],
+  "aprende": [
+    {
+      "t": "Where building is saturated"
+    },
+    {
+      "t": "The fractional AI owner as ongoing support"
+    },
+    {
+      "t": "The AI renovation as inventory and before and after"
+    },
+    {
+      "t": "Analyzing a funnel as a diagnostic lead magnet"
+    }
+  ],
+  "hero_alt": "An experienced consultant walks through a small company's messy warehouse with the owner, clipboard in hand.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Opportunities 11 to 19 in the filter",
+      "sub": "Two move up by position, seven are building. Click each box.",
+      "nos": [
+        {
+          "icone": "lupa",
+          "titulo": "Consultant",
+          "sub": "moves up",
+          "itens": [
+            {
+              "icone": "check",
+              "t": "16 · Fractional AI director"
+            }
+          ],
+          "detalhe": "You are a company's AI owner a few days a month. For someone who has already received a diagnostic or roadmap from you: the plan needs an owner. The company doesn't open a job opening or pay payroll costs to have someone looking after the subject."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Auditor",
+          "sub": "moves up",
+          "forte": true,
+          "itens": [
+            {
+              "icone": "check",
+              "t": "17 · AI renovation specialist"
+            }
+          ],
+          "detalhe": "For companies that already tried AI on their own and ended up with messy instructions and loose tools: nobody knows what runs. You ask for the tour, note what is broken and hand back a before and after."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Mentor",
+          "sub": "none in this group",
+          "detalhe": "None of the nine is manager follow-up. The 90-day program appears in lesson 6 (opportunity 24)."
+        },
+        {
+          "icone": "megafone",
+          "titulo": "Trainer",
+          "sub": "none in this group",
+          "detalhe": "None of the nine is teaching. The Trainer's ladder is in lesson 6 (20 to 23)."
+        },
+        {
+          "icone": "chip",
+          "titulo": "Building",
+          "sub": "loses value",
+          "itens": [
+            {
+              "icone": "x",
+              "t": "11 · Ready-made SaaS"
+            },
+            {
+              "icone": "x",
+              "t": "12 · Creatives agency"
+            },
+            {
+              "icone": "x",
+              "t": "13 · Faceless channel"
+            },
+            {
+              "icone": "x",
+              "t": "14 · Faceless app"
+            },
+            {
+              "icone": "x",
+              "t": "15 · Leads"
+            },
+            {
+              "icone": "x",
+              "t": "18 · Local installations"
+            },
+            {
+              "icone": "x",
+              "t": "19 · Ready-made funnels"
+            }
+          ],
+          "detalhe": "The creatives agency is the most saturated on the list. Faceless channel and app sell attention, not service to a company. Three become a piece of work: leads (15) starts with a qualification diagnostic using today's numbers; the local installation (18) is sold through the question \"where does the data go?\", which is an Auditor's question; and the funnel analysis (19) is a diagnostic lead magnet."
+        }
+      ],
+      "legenda": "The tool is the same for everyone. What sets you apart is taste, position or trust."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "The two positions that move up",
+      "sub": "And the care that comes with it.",
+      "passos": [
+        {
+          "titulo": "16 · Fractional",
+          "sub": "Consultant, monthly follow-up",
+          "texto": [
+            "You split your week among a few companies and answer for each one's AI plan. A bonus per delivered milestone (\"triage system live by the end of the quarter\") aligns your work with the result.",
+            "First step: look for open AI leadership job postings and write that you don't want the job; you want to solve the problem without payroll costs, starting the following week."
+          ]
+        },
+        {
+          "titulo": "17 · Renovation",
+          "sub": "Auditor",
+          "texto": [
+            "The format of home renovation shows, applied to operations: tour, list of what is broken, before and after in a few weeks. Almost nobody presents themselves this way, so the question \"what is a renovation specialist?\" already opens the conversation.",
+            "Paid diagnostic first, deducted from the renovation price. One lever at a time, with a measured before and after."
+          ]
+        },
+        {
+          "titulo": "Guarantee",
+          "sub": "with care",
+          "texto": [
+            "\"If you're not satisfied in 90 days, you don't pay\" closes a contract and breaks whoever depends on that money. Only offer a full guarantee if you have the cash to honor it and the track record to predict the result.",
+            "Before that, prefer a partial, specific guarantee."
+          ]
+        },
+        {
+          "titulo": "Taste",
+          "sub": "the creatives filter",
+          "texto": [
+            "Small businesses think any generated image looks impressive, and they don't see the sloppy text in the piece. People with visual repertoire see it, and that is what you sell. Without repertoire, it's a price fight."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Template to copy",
+      "sub": "Funnel analysis is a diagnostic: it shows where a company loses people, before any building.",
+      "blocos": [
+        {
+          "rot": "Prompt · analysis of someone else's funnel",
+          "icone": "lupa",
+          "conteudo": "You are a conversion specialist, direct and with no flattery. I will describe a company's public funnel.\n\nWhat I observed: <what the home page promises; where the action button is and what it says;\nhow many fields the form has; what messages arrive afterward; what social proof exists; what the\noffer asks the person to do next>\n\nDeliver:\n1. The 5 points where this company is losing people, in ORDER of how much each one costs.\n2. For each point, the specific fix: not \"improve the copy\", but the exact sentence that goes in its place.\n3. An honest estimate of the gain from each fix, with the range and the uncertainty stated.\n4. What I do NOT know without internal data, and what question I ask to find out."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Two exercises.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Funnel analysis",
+          "min": "30 min",
+          "texto": "Pick a company in your niche with a public funnel and run the analysis with what you observed.",
+          "pronto": "you have 5 points in order of cost, each with the exact sentence that goes in its place, and the list of what can't be known without internal data."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Declared before and after",
+          "min": "20 min",
+          "texto": "Write a before and after of the operation of a fictional but realistic company, in the renovation format: the tour, what is broken, what changes. Log opportunities 11 to 19 in the filter table.",
+          "pronto": "the text says in plain words that it is hypothetical, has at most one lever, and the 9 rows are in the table."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick test",
+      "sub": "3 questions.",
+      "perguntas": [
+        {
+          "p": "What is the real prerequisite for an AI creatives agency?",
+          "opcoes": [
+            "Having the most expensive generation tools",
+            "Visual repertoire: seeing that something came out generic",
+            "A design degree"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "The tool is the same for everyone. What sets you apart is noticing what came out generic; without that, it's a price fight in an already saturated box."
+        },
+        {
+          "p": "Why does AI renovation fall into the Auditor's box?",
+          "opcoes": [
+            "Because it builds a new system",
+            "Because it starts by reviewing what the company already has, and nobody knows what is running",
+            "Because it does pentesting"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "It's an inventory of what exists and what is broken, with before and after. Reviewing what already exists is the Auditor's work, which is not pentesting."
+        },
+        {
+          "p": "You are just starting out and have no reserve. What guarantee should you offer on the renovation?",
+          "opcoes": [
+            "A full 90-day guarantee",
+            "A partial, specific guarantee",
+            "None, ever"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "A full guarantee requires cash to honor it and a track record to predict it. Before that, a partial, specific one protects both sides."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Saturated building",
+          "texto": "Creatives, SaaS, channels and funnels: the tool is the same for everyone."
+        },
+        {
+          "t": "Position is worth more",
+          "texto": "The fractional director owns the plan; the renovation reviews what already exists."
+        },
+        {
+          "t": "Funnel becomes diagnostic",
+          "texto": "Analyzing where a company loses people is a lead magnet, before building."
+        },
+        {
+          "t": "Guarantee backed by cash",
+          "texto": "Full only with a track record; before that, partial and specific."
+        }
+      ]
+    }
+  ]
+}

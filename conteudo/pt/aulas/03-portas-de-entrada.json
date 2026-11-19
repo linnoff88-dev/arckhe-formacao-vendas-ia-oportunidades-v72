@@ -1,0 +1,107 @@
+{
+  "slug": "portas-de-entrada",
+  "num": 3,
+  "menu": "1 a 5",
+  "titulo": "As portas de entrada: oportunidades 1 a 5",
+  "titulo_curto": "Oportunidades 1 a 5",
+  "minutos": 16,
+  "lead": "As 43 parecem 43 negócios. Na prática são três verbos em combinações diferentes: ensinar, diagnosticar e entregar a coisa construída. As cinco portas de entrada mostram a virada inteira: treinamento, mapa de rota e diagnóstico sobem; loja e agendamento viraram peça de um serviço maior.",
+  "objetivo": "separar as portas que sobem (ensinar, mapa de rota, diagnóstico) das construções e montar um diagnóstico curto de três ganhos.",
+  "competencias": ["classificar-oportunidade", "montar-diagnostico-curto", "vender-julgamento"],
+  "aprende": [
+    {"t": "Os três verbos por trás das 43"},
+    {"t": "Por que treinamento e mapa de rota sobem"},
+    {"t": "Levantar um diagnóstico sem acesso nenhum"},
+    {"t": "Onde loja e agendamento entram agora"}
+  ],
+  "hero_alt": "Instrutor ensina uma pequena equipe de escritório em volta de uma mesa com notebooks abertos.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "As oportunidades 1 a 5 no filtro",
+      "sub": "Três sobem, duas viram peça. Clique em cada caixa.",
+      "nos": [
+        {"icone": "megafone", "titulo": "Treinador", "sub": "sobe",
+         "itens": [{"icone": "check", "t": "1 · Treinamentos de IA para equipes"}],
+         "detalhe": "A oportunidade mais estável da lista: a ferramenta muda a cada trimestre e alguém precisa traduzir para a equipe. Não é palestra sobre o futuro, é \"este relatório da sua terça-feira sai em dez minutos\"."},
+        {"icone": "lupa", "titulo": "Consultor", "sub": "sobe", "forte": true,
+         "itens": [{"icone": "check", "t": "2 · Mapas de rota de IA"}, {"icone": "check", "t": "3 · Diagnósticos de IA"}],
+         "detalhe": "O mapa de rota vende julgamento e ordem: a ferramenta de IA concorda com quem pergunta e não prioriza sozinha. O diagnóstico curto virou a melhor isca da lista; o dinheiro está na pergunta seguinte: \"em que ordem eu resolvo isso?\"."},
+        {"icone": "escudo", "titulo": "Auditor", "sub": "nenhuma neste grupo",
+         "detalhe": "Nenhuma das cinco é revisão de risco. Mas um item da oportunidade 2 já é: empresas que têm um plano feito por IA e precisam de alguém para auditá-lo."},
+        {"icone": "calendario", "titulo": "Mentor", "sub": "recebe a loja",
+         "detalhe": "A loja virtual (4) era projeto de meses e hoje é um fim de semana de montagem. O difícil continua sendo produto e gosto. Em vez de montar por ele, acompanhe o dono enquanto ele monta."},
+        {"icone": "chip", "titulo": "Construção", "sub": "vira peça",
+         "itens": [{"icone": "x", "t": "4 · Loja virtual construída com IA"}, {"icone": "x", "t": "5 · Agendamento automático"}],
+         "detalhe": "No agendamento (5) a decisão é sobre relógio: muita venda morre entre alguém escrever e alguém responder. Medir esse tempo é diagnóstico; o robô é só um item do plano."}
+      ],
+      "legenda": "Mapa dos verbos da fonte: ensinar (1, 20, 21, 23), diagnosticar (2, 3, 17, 37), entregar (4, 5, 9, 10). Quanto mais verbos juntos, maior a barreira."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "As três que sobem",
+      "sub": "O que é, para quem e o primeiro passo desta semana.",
+      "passos": [
+        {"titulo": "1 · Treinamentos", "sub": "Treinador",
+         "texto": ["Você ensina a equipe a usar IA no trabalho concreto dela: palestra de abertura, oficina prática ou formação dos instrutores internos. Para empresas médias com muito processo manual e times que já usam IA mal e sabem disso.", "Primeiro passo: grave você mesmo resolvendo uma tarefa chata do seu dia com IA, sem cortes bonitos, e publique. Depois ofereça uma sessão gratuita de 45 minutos para uma empresa conhecida."],
+         "exemplo": {"rot": "Teste honesto", "texto": "Grave-se ensinando. Se você termina as frases com \"faz sentido?\" e o tom subindo, ainda não entendeu o suficiente para ensinar."}},
+        {"titulo": "2 · Mapas de rota", "sub": "Consultor",
+         "texto": ["Um plano com ordem, prazo e responsável para 30, 60, 90 e 180 dias, feito de entrevistas, do trabalho real e do inventário das ferramentas que a empresa já paga. Entregue como sessão de trabalho, nunca como arquivo por e-mail.", "Revisão trimestral: o mercado muda e o plano envelhece. É acompanhamento, não construção."],
+         "exemplo": {"rot": "A objeção", "texto": "\"A IA me conhece melhor que você.\" Resposta honesta: ela concorda com quem pergunta e não prioriza se ninguém mandar. Eu vendo julgamento e ordem."}},
+        {"titulo": "3 · Diagnósticos", "sub": "Consultor",
+         "texto": ["Olhar o negócio de fora e apontar onde vaza tempo e dinheiro. A versão que mais funciona é a curta e gratuita: três ganhos óbvios, entregues sem pedir nada em troca.", "Dá para levantar material sem senha: os sistemas que o site usa, as avaliações públicas e o óbvio não feito (sem forma de agendar, sem resposta fora do horário)."]}
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "Use com o que você observou de verdade. Nada inventado.",
+      "blocos": [
+        {"rot": "Prompt · diagnóstico curto de um negócio real", "icone": "lupa",
+         "conteudo": "Você é um consultor de operações. Vou te dar o que eu consegui observar publicamente sobre uma empresa.\nNão invente dados: quando faltar informação, escreva \"não observável\" e diga como eu confirmaria.\n\nEmpresa: <segmento e cidade>\nO que eu observei: <o que o site tem e não tem; como respondem; o que os clientes reclamam nas avaliações;\no que a presença pública mostra; quantos funcionários aparentam ter>\n\nEntregue:\n1. Os TRÊS vazamentos mais caros que esses sinais sugerem, cada um com a estimativa de quanto pode custar\n   por mês e a conta que sustenta a estimativa.\n2. Para cada vazamento, a correção mais simples possível, a que dá para mostrar funcionando em uma semana.\n3. Uma mensagem de 5 linhas que eu envio junto do diagnóstico, sem link e sem pedir nada em troca.\n4. A pergunta que ele provavelmente vai fazer depois de ler, para eu já chegar com a resposta pronta."}
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Prática",
+      "sub": "Esta é a isca que você vai usar no plano de 30 dias.",
+      "exercicios": [
+        {"id": "e1", "titulo": "1 · Diagnóstico curto de uma empresa real", "min": "45 min",
+         "texto": "Escolha um nicho local, liste dez empresas bem avaliadas e rode o diagnóstico curto para uma delas com o que você observou.",
+         "pronto": "o diagnóstico tem 3 vazamentos e cada um cita um sinal observável que você realmente viu; nenhum é \"provavelmente eles têm problemas de integração\"."},
+        {"id": "e2", "titulo": "2 · Classifique as cinco na sua tabela", "min": "10 min",
+         "texto": "Lance as oportunidades 1 a 5 na tabela do filtro, com a caixa e os cinco critérios. Para 4 e 5, escreva de qual serviço elas viram parte.",
+         "pronto": "as 5 linhas estão na tabela, com S/N nos 5 critérios, e as linhas 4 e 5 dizem o papel de que viram peça."}
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Teste rápido",
+      "sub": "3 perguntas.",
+      "perguntas": [
+        {"p": "O cliente diz que já fez um plano de IA conversando com uma ferramenta. O que o mapa de rota oferece que ela não oferece?",
+         "opcoes": ["Mais texto", "Julgamento e ordem: priorizar e dizer o que vem primeiro", "Uma ferramenta mais nova"],
+         "certa": 1, "ref": "passos",
+         "explica": "A ferramenta devolve a opinião do próprio usuário com roupa melhor. O mapa de rota vende prioridade, prazo e responsável. Mais texto ou ferramenta nova não resolvem isso."},
+        {"p": "Por que o agendamento automático caiu na caixa da construção?",
+         "opcoes": ["Porque não funciona", "Porque montar ficou fácil; o valor está em medir o tempo de resposta e decidir no diagnóstico", "Porque é proibido"],
+         "certa": 1, "ref": "diagrama",
+         "explica": "A dor (venda que esfria em minutos) é real e medível. Mas o robô em si virou peça barata: quem mede e prioriza é o Consultor."},
+        {"p": "Um vazamento do seu diagnóstico diz \"provavelmente eles têm problemas de integração\", sem sinal observado. O que fazer?",
+         "opcoes": ["Enviar assim mesmo", "Cortar ou confirmar: diagnóstico sem sinal observável é chute e queima o contato", "Trocar por um número maior"],
+         "certa": 1, "ref": "codigo",
+         "explica": "Cada vazamento precisa de um sinal que você viu. Chute enviado a frio queima o contato para sempre."}
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo",
+      "itens": [
+        {"t": "Treinamento é o mais estável", "texto": "A ferramenta muda e alguém precisa traduzir."},
+        {"t": "Mapa de rota vende julgamento", "texto": "A IA concorda com quem pergunta; ela não prioriza sozinha."},
+        {"t": "Diagnóstico virou isca", "texto": "Gratuito, específico e repetível para vinte empresas do mesmo nicho."},
+        {"t": "Loja e agendamento viram peça", "texto": "Mentor acompanha o dono; Consultor mede o relógio."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "slug": "educacao-e-sistemas",
+  "num": 6,
+  "menu": "20 a 29",
+  "titulo": "Educación, comunidad y sistemas: oportunidades 20 a 29",
+  "titulo_curto": "Oportunidades 20 a 29",
+  "minutos": 18,
+  "lead": "Este grupo es donde más aparecen los roles de confianza. Guías, cursos, comunidad y cohortes forman la escalera del Formador. El programa de 90 días es mentoría. Volver sólida la app improvisada es revisión. Y la empresa grande se cierra formando al equipo interno. La construcción que sobra perdió precio, y la fuente lo dice con todas las letras.",
+  "objetivo": "diseñar la escalera del Formador y reconocer dónde entran el Mentor (90 días), el Auditor (app improvisada) y el Consultor (empresa grande).",
+  "competencias": [
+    "clasificar-oportunidad",
+    "desenhar-escada-de-ensino",
+    "revisar-app-improvisado"
+  ],
+  "aprende": [
+    {
+      "t": "La escalera del Formador: guía, comunidad, cohorte"
+    },
+    {
+      "t": "El programa de 90 días como mentoría"
+    },
+    {
+      "t": "La app improvisada como trabajo de revisión"
+    },
+    {
+      "t": "Salir de la empresa grande sin quedar como rehén"
+    }
+  ],
+  "hero_alt": "Un pequeño grupo de adultos trabaja en parejas con notebooks y hojas impresas mientras el instructor circula entre las mesas.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Las oportunidades 20 a 29 en el filtro",
+      "sub": "Siete suben, tres son construcción. Haz clic en cada caja.",
+      "nos": [
+        {
+          "icone": "megafone",
+          "titulo": "Formador",
+          "sub": "sube",
+          "forte": true,
+          "itens": [
+            {
+              "icone": "check",
+              "t": "20 · Guías de estudio"
+            },
+            {
+              "icone": "check",
+              "t": "21 · Cursos en marketplace"
+            },
+            {
+              "icone": "check",
+              "t": "22 · Comunidad que se vuelve de pago"
+            },
+            {
+              "icone": "check",
+              "t": "23 · Grupos intensivos"
+            }
+          ],
+          "detalhe": "El comprador es quien está aprendiendo IA y no quiere aprender solo. En guía y curso, tú eres el primero o el mejor. En la comunidad, llénala antes de cobrar. En el grupo, cada alumno termina entregando algo visible."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Mentor",
+          "sub": "sube",
+          "itens": [
+            {
+              "icone": "check",
+              "t": "24 · Programa de 90 días para dueños"
+            }
+          ],
+          "detalhe": "Programa corto, normalmente de 90 días con un encuentro presencial, para dueños que quieren retomar el control de su propio negocio. Solo para quien ya te pagó antes. Jamás como primer producto."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Auditor",
+          "sub": "sube",
+          "itens": [
+            {
+              "icone": "check",
+              "t": "25 · Dejar sólida la app interna"
+            }
+          ],
+          "detalhe": "Muchas empresas armaron aplicaciones a las apuradas con herramientas de construcción fácil y ahora nadie puede tocarlas sin que se rompan. Tú entras para revisar y dejar eso sólido, o reconstruirlo bien."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Consultor",
+          "sub": "sube",
+          "itens": [
+            {
+              "icone": "check",
+              "t": "29 · Sistemas para empresas grandes"
+            }
+          ],
+          "detalhe": "Empieza con un descubrimiento pagado en una división, nunca con la empresa completa. La puerta de entrada es la charla o taller para la dirección. La salida es capacitar al equipo interno y entregar todo documentado."
+        },
+        {
+          "icone": "chip",
+          "titulo": "Construcción",
+          "sub": "pierde valor",
+          "itens": [
+            {
+              "icone": "x",
+              "t": "26 · Diseño contra la estética genérica"
+            },
+            {
+              "icone": "x",
+              "t": "27 · Negocio en una caja"
+            },
+            {
+              "icone": "x",
+              "t": "28 · Agentes de voz"
+            }
+          ],
+          "detalhe": "El agente de voz es el ejemplo más claro de la lista: el precio se desplomó porque hasta el jardinero del barrio conoce el nombre de las herramientas. Trátalo como imán de clientes. En el diseño, el ingreso que queda es el taller que enseña al equipo a mantener el estándar. La caja (27) solo después de ganar el estándar dos o tres veces."
+        }
+      ],
+      "legenda": "En una empresa grande, traspasar la responsabilidad con claridad vale más que la mensualidad que dejas de cobrar."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Cuatro reglas de este grupo",
+      "sub": "Una por rol.",
+      "passos": [
+        {
+          "titulo": "Formador",
+          "sub": "llénala antes de cobrar",
+          "texto": [
+            "Abrir la comunidad cobrando te deja con pocas personas en un espacio vacío. Reúne gente gratis, deja que la actividad ocurra y solo entonces agrega niveles de pago.",
+            "Antes de crear tu formación, ve a trabajar como instructor en una que ya existe: ves la economía desde adentro."
+          ]
+        },
+        {
+          "titulo": "Mentor",
+          "sub": "la regla ética",
+          "texto": [
+            "Cobra un valor solo si crees que entregas varias veces ese monto en retorno. La selección filtra también para el candidato, no solo para ti: rechazar a quien no va a lograr resultado protege a ambos lados.",
+            "Antes de definir el formato, pregunta a tres clientes antiguos qué tendría que estar incluido."
+          ]
+        },
+        {
+          "titulo": "Auditor",
+          "sub": "entrada tibia",
+          "texto": [
+            "Busca a quien publicó que armó una app con una herramienta fácil y comenta con una pregunta útil sobre lo que suele romperse después.",
+            "No le hablas solo a quien publicó: le hablas a las personas silenciosas que leen los comentarios y tienen el mismo problema."
+          ]
+        },
+        {
+          "titulo": "Consultor",
+          "sub": "salir sin quedar como rehén",
+          "texto": [
+            "Ser el responsable eterno del sistema de una empresa grande es entrar en una fila infinita de política interna y responsabilidad jurídica.",
+            "Capacita al equipo interno de tecnología, entrega todo documentado y deja por escrito lo que ellos necesitan mantener y revisar."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "La ficha clasifica el grupo. La pregunta abre la conversación de la app improvisada.",
+      "blocos": [
+        {
+          "rot": "Ficha de clasificación de un grupo",
+          "icone": "lista",
+          "conteudo": "FICHA DE CLASIFICACIÓN · grupo <20 a 29> · <fecha>\n\nPara cada oportunidad:\n- Verbo dominante: enseñar / diagnosticar / revisar lo que existe / acompañar a quien crea / construir\n- Caja: Formador / Consultor / Auditor / Mentor / Construcción\n- Si es Construcción: ¿pasa a ser parte de qué servicio? ______\n- Frase de la fuente que sustenta la clasificación: \"______\"\n- ¿Pasa los 5 criterios? S/N S/N S/N S/N S/N\n\nRegla: si no encuentras una frase que sustente la caja, la clasificación es una corazonada."
+        },
+        {
+          "rot": "Comentario para quien publicó una app improvisada",
+          "icone": "chat",
+          "conteudo": "Felicitaciones por la app. Una duda práctica: cuando necesitan cambiar <una regla / un campo / una pantalla>,\n¿quién lo hace hoy y qué suele romperse junto con eso?\nPregunto porque es el punto en que las apps hechas rápido más se traban después."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Dos ejercicios.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Ficha del grupo 20 a 29",
+          "min": "25 min",
+          "texto": "Completa la ficha para las diez oportunidades y pasa las líneas a tu tabla del filtro.",
+          "pronto": "las 10 oportunidades tienen caja, verbo dominante y una frase que sustenta la clasificación; las 3 construcciones dicen de qué servicio pasan a ser parte."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Una pregunta útil en público",
+          "min": "15 min",
+          "texto": "Encuentra una publicación de alguien que armó una app o automatización con una herramienta fácil. Adapta el comentario del modelo y publícalo.",
+          "pronto": "el comentario está publicado, hace una pregunta específica sobre lo que se rompe después y no ofrece ningún servicio."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas.",
+      "perguntas": [
+        {
+          "p": "Quieres abrir una comunidad sobre IA. ¿Cuál es el orden correcto?",
+          "opcoes": [
+            "Cobrar desde el primer día, para filtrar a quien va en serio",
+            "Llenar gratis, generar resultados visibles y solo entonces poner capas de pago",
+            "Empezar por el programa de ticket alto"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Quien llega y ve un espacio vacío se va. Una comunidad llena y activa es lo que hace que la capa de pago parezca valer la pena."
+        },
+        {
+          "p": "¿El programa de 90 días para dueños puede ser tu primer producto?",
+          "opcoes": [
+            "Sí, es el de mayor margen",
+            "No: solo para quien ya te pagó antes",
+            "Sí, si el precio es bajo"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Sin historial, un programa caro destruye la reputación. Es el último nivel, por encima de quien ya te compró."
+        },
+        {
+          "p": "¿Por qué el agente de voz cayó en la caja de la construcción?",
+          "opcoes": [
+            "Porque no funciona",
+            "Porque el precio se desplomó: las herramientas se hicieron conocidas y la ventaja se acabó",
+            "Porque es ilegal"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Cuando todo el mundo conoce la herramienta, construir se vuelve una guerra de precios. Aún sirve como imán de clientes y prueba en un diagnóstico."
+        },
+        {
+          "p": "¿Cómo salir de un proyecto en una empresa grande sin quedar como rehén?",
+          "opcoes": [
+            "Cobrar una mensualidad alta para siempre",
+            "Capacitar al equipo interno, entregar todo documentado y dejar por escrito lo que ellos mantienen",
+            "Irte sin avisar"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Transferir la responsabilidad con claridad es la salida inteligente: es Formador y Mentor en el cierre del trabajo del Consultor."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "Escalera del Formador",
+          "texto": "Guía, curso, comunidad y grupo: primero o mejor, y llena antes de cobrar."
+        },
+        {
+          "t": "Mentor en la cima",
+          "texto": "Noventa días solo para quien ya te pagó antes."
+        },
+        {
+          "t": "Auditor sobre la marcha",
+          "texto": "La app que nadie puede tocar sin que se rompa."
+        },
+        {
+          "t": "Salida limpia",
+          "texto": "Equipo interno capacitado y lo que mantienen registrado por escrito."
+        }
+      ]
+    }
+  ]
+}

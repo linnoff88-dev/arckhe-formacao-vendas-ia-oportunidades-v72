@@ -1,0 +1,246 @@
+{
+  "slug": "produto-e-posicao",
+  "num": 5,
+  "menu": "11 a 19",
+  "titulo": "Producto, contenido y posición: oportunidades 11 a 19",
+  "titulo_curto": "Oportunidades 11 a 19",
+  "minutos": 17,
+  "lead": "Este es el grupo con más construcción de la lista: programas listos, creativos, canales sin rostro, embudos. La herramienta es la misma para todos, así que quien solo produce compite por precio. Dos oportunidades suben, y no por técnica: por posición. Ser el responsable fraccional del plan y entrar a arreglar lo que ya existe.",
+  "objetivo": "reconocer las construcciones saturadas y elegir una posición de confianza: responsable fraccional del plan o especialista en reforma.",
+  "competencias": [
+    "clasificar-oportunidad",
+    "posicionar-servico-de-confianca",
+    "analisar-funil-como-diagnostico"
+  ],
+  "aprende": [
+    {
+      "t": "Dónde la construcción está saturada"
+    },
+    {
+      "t": "El responsable de IA fraccional como acompañamiento"
+    },
+    {
+      "t": "La reforma de IA como inventario y antes y después"
+    },
+    {
+      "t": "Analizar un embudo como imán de clientes de diagnóstico"
+    }
+  ],
+  "hero_alt": "Consultor con experiencia recorre con el dueño el depósito desordenado de una pequeña empresa, con una tablilla en la mano.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Las oportunidades 11 a 19 en el filtro",
+      "sub": "Dos suben por posición, siete son construcción. Haz clic en cada caja.",
+      "nos": [
+        {
+          "icone": "lupa",
+          "titulo": "Consultor",
+          "sub": "sube",
+          "itens": [
+            {
+              "icone": "check",
+              "t": "16 · Director de IA fraccional"
+            }
+          ],
+          "detalhe": "Eres el responsable de IA de una empresa unos días al mes. Para quien ya recibió de ti un diagnóstico u hoja de ruta: el plan necesita un dueño. La empresa no abre una vacante ni paga cargas sociales para tener a alguien que se ocupe del tema."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Auditor",
+          "sub": "sube",
+          "forte": true,
+          "itens": [
+            {
+              "icone": "check",
+              "t": "17 · Especialista en reforma de IA"
+            }
+          ],
+          "detalhe": "Para empresas que ya intentaron la IA por su cuenta y quedaron con instrucciones desordenadas y herramientas sueltas: nadie sabe qué está funcionando. Pides el recorrido, anotas lo que está roto y devuelves un antes y después."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Mentor",
+          "sub": "ninguna en este grupo",
+          "detalhe": "Ninguna de las nueve es acompañamiento de gestor. El programa de 90 días aparece en la clase 6 (oportunidad 24)."
+        },
+        {
+          "icone": "megafone",
+          "titulo": "Formador",
+          "sub": "ninguna en este grupo",
+          "detalhe": "Ninguna de las nueve es enseñanza. La escalera del Formador está en la clase 6 (20 a 23)."
+        },
+        {
+          "icone": "chip",
+          "titulo": "Construcción",
+          "sub": "pierde valor",
+          "itens": [
+            {
+              "icone": "x",
+              "t": "11 · SaaS listo"
+            },
+            {
+              "icone": "x",
+              "t": "12 · Agencia de creativos"
+            },
+            {
+              "icone": "x",
+              "t": "13 · Canal sin rostro"
+            },
+            {
+              "icone": "x",
+              "t": "14 · App sin rostro"
+            },
+            {
+              "icone": "x",
+              "t": "15 · Leads"
+            },
+            {
+              "icone": "x",
+              "t": "18 · Instalaciones locales"
+            },
+            {
+              "icone": "x",
+              "t": "19 · Embudos listos"
+            }
+          ],
+          "detalhe": "La agencia de creativos es la más saturada de la lista. Canal y app sin rostro venden atención, no servicio a empresas. Tres se convierten en pieza: leads (15) empieza por un diagnóstico de calificación con los números de hoy; la instalación local (18) se vende con la pregunta \"¿a dónde va el dato?\", que es de Auditor; y el análisis de embudo (19) es un diagnóstico-imán de clientes."
+        }
+      ],
+      "legenda": "La herramienta es igual para todos. Lo que separa es gusto, posición o confianza."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Las dos posiciones que suben",
+      "sub": "Y el cuidado que viene junto.",
+      "passos": [
+        {
+          "titulo": "16 · Fraccional",
+          "sub": "Consultor, acompañamiento mensual",
+          "texto": [
+            "Divides la semana entre algunas empresas y respondes por el plan de IA de cada una. Un bono por hito entregado (\"sistema de triaje en marcha antes del trimestre\") alinea tu trabajo con el resultado.",
+            "Primer paso: busca vacantes abiertas de liderazgo en IA y escribe que no quieres el empleo; quieres resolver el problema sin cargas sociales, empezando la semana siguiente."
+          ]
+        },
+        {
+          "titulo": "17 · Reforma",
+          "sub": "Auditor",
+          "texto": [
+            "El formato de los programas de remodelación de casas, aplicado a operaciones: recorrido, lista de lo que está roto, antes y después en algunas semanas. Casi nadie se presenta así, por eso la pregunta \"¿qué es un especialista en reforma?\" ya abre la conversación.",
+            "Primero un diagnóstico pago, descontado del valor de la reforma. Una sola palanca a la vez, con antes y después medido."
+          ]
+        },
+        {
+          "titulo": "Garantía",
+          "sub": "con cuidado",
+          "texto": [
+            "\"Si en 90 días no estás satisfecho, no pagas\" cierra contrato y quiebra a quien depende de ese dinero. Ofrece garantía total solo si tienes caja para cumplirla e historial para prever el resultado.",
+            "Antes de eso, prefiere una garantía parcial y específica."
+          ]
+        },
+        {
+          "titulo": "Gusto",
+          "sub": "el filtro de los creativos",
+          "texto": [
+            "Las empresas pequeñas encuentran impresionante cualquier imagen generada y no ven el texto mal hecho en la pieza. Quien tiene repertorio visual lo ve, y eso es lo que se vende. Sin repertorio, es una disputa de precio."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "El análisis de embudo es un diagnóstico: muestra dónde la empresa pierde gente, antes de cualquier construcción.",
+      "blocos": [
+        {
+          "rot": "Prompt · análisis del embudo de otra empresa",
+          "icone": "lupa",
+          "conteudo": "Eres un especialista en conversión, directo y sin elogios. Voy a describir el embudo público de una empresa.\n\nLo que observé: <lo que promete la página de inicio; dónde está el botón de acción y qué dice;\ncuántos campos tiene el formulario; qué mensajes llegan después; qué prueba social existe; qué le\npide la oferta a la persona que haga a continuación>\n\nEntrega:\n1. Los 5 puntos donde esta empresa está perdiendo gente, en ORDEN de cuánto cuesta cada uno.\n2. Para cada punto, la corrección específica: no \"mejora el copy\", sino la frase exacta que entra en su lugar.\n3. Una estimación honesta de ganancia por corrección, con el rango y la incertidumbre declarada.\n4. Lo que NO sé sin datos internos, y qué pregunta hago para descubrirlo."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Dos ejercicios.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Análisis de embudo",
+          "min": "30 min",
+          "texto": "Elige una empresa de tu nicho con embudo público y ejecuta el análisis con lo que observaste.",
+          "pronto": "tienes 5 puntos en orden de costo, cada uno con la frase exacta que entra en su lugar, y la lista de lo que no se puede saber sin datos internos."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Antes y después declarado",
+          "min": "20 min",
+          "texto": "Escribe un antes y después de la operación de una empresa ficticia pero realista, en el formato de la reforma: el recorrido, lo que está roto, lo que cambia. Registra del 11 al 19 en la tabla del filtro.",
+          "pronto": "el texto dice con todas las letras que es hipotético, tiene como máximo una palanca, y las 9 líneas están en la tabla."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "3 preguntas.",
+      "perguntas": [
+        {
+          "p": "¿Cuál es el requisito previo real de una agencia de creativos con IA?",
+          "opcoes": [
+            "Tener las herramientas de generación más caras",
+            "Repertorio visual: ver que algo quedó genérico",
+            "Formación en diseño"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "La herramienta es igual para todos. Lo que separa es notar qué quedó genérico; sin eso, es disputa de precio en una caja ya saturada."
+        },
+        {
+          "p": "¿Por qué la reforma de IA cae en la caja del Auditor?",
+          "opcoes": [
+            "Porque construye un sistema nuevo",
+            "Porque empieza revisando lo que la empresa ya tiene y nadie sabe qué corre",
+            "Porque hace pentest"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Es un inventario de lo que existe y de lo que está roto, con antes y después. Revisar lo que ya existe es el trabajo del Auditor, que no es pentest."
+        },
+        {
+          "p": "Estás empezando y sin reserva. ¿Qué garantía ofrecer en la reforma?",
+          "opcoes": [
+            "Garantía total de 90 días",
+            "Una garantía parcial y específica",
+            "Ninguna, nunca"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Una garantía total exige caja para cumplirla e historial para predecir. Antes de eso, la parcial y específica protege a ambos lados."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "Construcción saturada",
+          "texto": "Creativos, SaaS, canales y embudos: la herramienta es igual para todos."
+        },
+        {
+          "t": "La posición vale más",
+          "texto": "El fraccional es dueño del plan; la reforma revisa lo que ya existe."
+        },
+        {
+          "t": "El embudo se vuelve diagnóstico",
+          "texto": "Analizar dónde la empresa pierde gente es un imán de clientes, antes de construir."
+        },
+        {
+          "t": "Garantía con caja",
+          "texto": "Total solo con historial; antes, parcial y específica."
+        }
+      ]
+    }
+  ]
+}

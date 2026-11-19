@@ -1,0 +1,355 @@
+{
+  "slug": "funil-diagnostico",
+  "num": 2,
+  "menu": "Embudo",
+  "titulo": "El embudo de confianza y la conversación de 15 minutos",
+  "titulo_curto": "Embudo y conversación de 15 min",
+  "minutos": 18,
+  "lead": "Nadie compra con la primera frase. Entre \"esa persona existe\" y \"esa persona va a recibir mi dinero\" hay pasos pequeños, y cada uno es una venta aparte. En las 43 oportunidades el camino es el mismo: prueba, imán de clientes, conversación, diagnóstico y seguimiento. La pieza que decide todo es la conversación de 15 minutos.",
+  "objetivo": "conducir la conversación de diagnóstico de 15 minutos y proponer el siguiente paso de pago sin vender construcción antes de tiempo.",
+  "competencias": [
+    "conduzir-conversa-de-diagnostico",
+    "quantificar-a-dor",
+    "separar-diagnostico-de-mapa-de-rota"
+  ],
+  "aprende": [
+    {
+      "t": "Las cinco etapas del embudo que aparecen en las 43"
+    },
+    {
+      "t": "Por qué el buen imán de clientes es trabajo ya hecho"
+    },
+    {
+      "t": "El guion de la conversación de 15 minutos"
+    },
+    {
+      "t": "Diagnóstico y hoja de ruta: dos servicios distintos"
+    }
+  ],
+  "hero_alt": "Consultora en una videollamada con el dueño de una distribuidora, tomando notas a mano en un cuaderno, con un pequeño temporizador sobre la mesa.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "El embudo de confianza",
+      "sub": "Cinco etapas. Solo las dos últimas implican pago. Haz clic en cada una.",
+      "nos": [
+        {
+          "icone": "megafone",
+          "titulo": "Prueba pública",
+          "sub": "cuesta solo tiempo",
+          "detalhe": "Muestras trabajo real en público: una tarea resuelta de principio a fin, un diagnóstico de ejemplo, un antes y después. Es lo que hace que un desconocido te reconozca después."
+        },
+        {
+          "icone": "arquivo",
+          "titulo": "Imán de clientes",
+          "sub": "valor antes del cobro",
+          "detalhe": "Trabajo ya hecho y específico para ese negocio, con su nombre y sus datos visibles, entregado sin condiciones. Bueno de verdad: si lo gratuito es malo, se presume que lo pago es peor. Suele llevarte de dos a cuatro horas."
+        },
+        {
+          "icone": "relogio",
+          "titulo": "Conversación de 15 minutos",
+          "sub": "¿hay encaje?",
+          "forte": true,
+          "detalhe": "Objetivo único: descubrir si tiene sentido trabajar juntos. Enmarcar, reducir el dolor a una frase, cuantificar, proponer el siguiente paso de pago y terminar a la hora."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Diagnóstico y hoja de ruta",
+          "sub": "el dinero cambia de manos",
+          "detalhe": "El diagnóstico identifica lo que existe hoy y dónde se escapan tiempo e ingresos. La hoja de ruta resuelve: qué hacer, en qué orden, a 30, 60, 90 y 180 días. El primero abre la puerta; la segunda es donde está el valor."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Seguimiento",
+          "sub": "la puerta queda abierta",
+          "detalhe": "Capacitación continua del equipo, revisión trimestral con un informe corto, mentoría. Vale menos por el monto y más por el motivo para seguir conversando: de una conversación sale el próximo proyecto."
+        }
+      ],
+      "legenda": "Las tres primeras etapas no facturan nada, y son ellas las que hacen que existan las dos últimas."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "El guion de los 15 minutos",
+      "sub": "Cinco movimientos. El tiempo de cada uno va entre paréntesis.",
+      "passos": [
+        {
+          "titulo": "Enmarca",
+          "sub": "30 segundos",
+          "texto": [
+            "Di la regla de la conversación desde el comienzo. Quita la presión a ambos lados."
+          ],
+          "exemplo": {
+            "rot": "Frase",
+            "texto": "Son 15 minutos para ver si tiene sentido trabajar juntos. Si no lo tiene, te lo digo en el momento."
+          }
+        },
+        {
+          "titulo": "Reduce",
+          "sub": "5 minutos",
+          "texto": [
+            "El error clásico es abrir con \"¿cómo piensas usar la IA?\" y recibir cinco minutos de desahogo, en el que buena parte es queja. La herramienta es la restricción de una frase."
+          ],
+          "exemplo": {
+            "rot": "Frase",
+            "texto": "En una sola frase: ¿cuál es el problema que estamos tratando de resolver?"
+          }
+        },
+        {
+          "titulo": "Cuantifica",
+          "sub": "5 minutos",
+          "texto": [
+            "Cuántas veces por semana ocurre esto, cuánto tiempo consume, cuánto deja de entrar. Cada pregunta se responde con un número, no con una opinión."
+          ]
+        },
+        {
+          "titulo": "Propón y termina",
+          "sub": "3 minutos + hora de cierre",
+          "texto": [
+            "Propón el diagnóstico de pago con plazo y valor dichos en voz alta, sin rodeos. Terminar antes de lo acordado comunica más competencia que alargar por una hora.",
+            "La postura es de indiferencia tranquila: conduces como quien tiene otros compromisos. No es arrogancia, es estructura."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "simconversa",
+      "titulo": "Conversación simulada: el dueño de la distribuidora",
+      "sub": "Conversación ficticia para practicar, con la empresa del laboratorio de Profesional 2030. Elige la respuesta que darías; el comentario aparece enseguida.",
+      "personagem": {
+        "nome": "Carlos, dueño de Horizonte Distribuidora",
+        "papel": "empresa ficticia · 40 personas · decide solo"
+      },
+      "inicio": "abre",
+      "falas": {
+        "abre": {
+          "cliente": "El agente de WhatsApp vende de madrugada y no pide comisión. Ahora quiero uno igual para la cobranza. ¿Cuánto cobras por montarlo?",
+          "opcoes": [
+            {
+              "t": "Monto el agente de cobranza con el mismo modelo del de ventas. Te mando el valor hoy.",
+              "vai": "fim-construcao",
+              "nota": 0,
+              "comenta": "Vendiste construcción antes de saber si la primera dio resultado. Se volvió una disputa de precio con cualquier persona que monta agentes."
+            },
+            {
+              "t": "Son 15 minutos para ver si tiene sentido trabajar juntos. Si no lo tiene, te lo digo en el momento. ¿Te parece?",
+              "vai": "restringe",
+              "nota": 3,
+              "comenta": "Enmarca en 30 segundos. Sacaste la conversación del precio y asumiste la conducción."
+            },
+            {
+              "t": "Cuéntame: ¿cómo usan la IA hoy en la empresa?",
+              "vai": "desabafo",
+              "nota": 1,
+              "comenta": "Pregunta demasiado abierta. Suele rendir cinco minutos de desahogo y poca información útil."
+            }
+          ]
+        },
+        "desabafo": {
+          "cliente": "Ah, está la app de pedidos que hizo Rafael, la planilla de Patricia, el resumen de atención… y el equipo se queja de todo. El correo también es un desastre.",
+          "opcoes": [
+            {
+              "t": "Entiendo. En una sola frase: ¿cuál es el problema que estamos tratando de resolver hoy?",
+              "vai": "restringe",
+              "nota": 1,
+              "comenta": "Restricción de una frase: recuperaste la conversación. Va a usar tres, y está bien: tres, no trescientas. Solo que ya pasaron cinco minutos."
+            },
+            {
+              "t": "Continúa, quiero oírlo todo.",
+              "vai": "fim-tempo",
+              "nota": 0,
+              "comenta": "Escuchar está bien, pero sin rumbo se acaba el tiempo y sales sin número y sin siguiente paso."
+            }
+          ]
+        },
+        "restringe": {
+          "cliente": "¿En una frase? Quiero saber si el agente vale lo que cuesta antes de poner otro en la cobranza.",
+          "opcoes": [
+            {
+              "t": "Por semana: ¿cuántas atenciones hace el agente y cuántas se vuelven pedido? ¿Y cómo era antes de él?",
+              "vai": "quantifica",
+              "nota": 3,
+              "comenta": "Preguntas que piden número y frecuencia. La última pide la línea base, el \"antes\"."
+            },
+            {
+              "t": "Claro, seguro. La IA siempre vale la pena.",
+              "vai": "fim-construcao",
+              "nota": 0,
+              "comenta": "Respondiste con una opinión a una pregunta que pide una medida. Quien lo garantiza sin medir pierde la confianza con el primer número malo."
+            }
+          ]
+        },
+        "quantifica": {
+          "cliente": "El panel muestra las atenciones por semana. Ahora, cuántas se convirtieron en pedido y cómo era antes… nadie lo sabe.",
+          "opcoes": [
+            {
+              "t": "Entonces el primer paso es un diagnóstico: medir el antes y el después del agente y entregar una hoja de ruta de qué hacer, en qué orden. Dos semanas, valor cerrado. Después tú decides el cobro con el número en la mano.",
+              "vai": "fecho",
+              "nota": 3,
+              "comenta": "Próximo paso pago, con plazo y valor dichos sin rodeos. Vendes criterio y orden, no un agente más."
+            },
+            {
+              "t": "Puedo revisarlo gratis y decirte lo que pienso.",
+              "vai": "fecho",
+              "nota": 1,
+              "comenta": "El imán de clientes gratuito tiene su lugar antes de la conversación. Aquí él ya tiene el dolor y la decisión; el diagnóstico que mide el antes y el después es trabajo pago."
+            }
+          ]
+        },
+        "fecho": {
+          "cliente": "¿Y si ya resolvemos todo junto ahora? Tengo media hora más.",
+          "opcoes": [
+            {
+              "t": "Prefiero respetar los 15 minutos. Hoy te envío el alcance de una página y empezamos en la fecha que elijas.",
+              "vai": "fim-bom",
+              "nota": 3,
+              "comenta": "Cerrar a la hora comunica que ya hiciste esto antes. El próximo paso salió con fecha."
+            },
+            {
+              "t": "Claro, aprovechemos y diseñemos la solución completa.",
+              "vai": "fim-tempo",
+              "nota": 0,
+              "comenta": "Regalaste, en una llamada extendida, la hoja de ruta que era el servicio."
+            }
+          ]
+        },
+        "fim-construcao": {
+          "fim": true,
+          "titulo": "Construcción sin diagnóstico",
+          "texto": "Vas a montar un segundo agente sin saber si el primero ayudó. Si el cobro no rinde, la culpa cae sobre tu trabajo, y el próximo presupuesto se decide por precio."
+        },
+        "fim-tempo": {
+          "fim": true,
+          "titulo": "Conversación larga, ningún paso",
+          "texto": "Fue una buena conversación y nadie salió con una tarea. Sin número y sin fecha, la decisión vuelve a ser \"lo voy a pensar\"."
+        },
+        "fim-bom": {
+          "fim": true,
+          "titulo": "Diagnóstico antes del segundo agente",
+          "texto": "Carlos sale con una frase del problema, la pregunta que falta responder (cuántas atenciones se convierten en pedido) y un diagnóstico con plazo y valor. Tú entras como quien mide y prioriza, no como un proveedor de agentes más."
+        }
+      },
+      "licao": "En la conversación de 15 minutos, enmarca, restringe a una frase, pide el número y propón el diagnóstico: la construcción viene después, si el número lo pide."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "¿Y el precio?",
+      "paragrafos": [
+        "El precio tiene su lugar en la formación. La escalera de precios y el menú de opciones están en el <a href=\"https://inematds.github.io/formacao-vendas-ia-consultoria-v72/\">curso 2, Playbook de Consultoría</a>. Los rangos por servicio y el \"precio es prueba\" están en el <a href=\"https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/\">curso 4, Del Cero al Primer Cliente</a>.",
+        "De aquí, llévate una regla: el precio viene del valor que el cliente recibe, no de las horas que tú gastas. Y el diagnóstico corto hoy funciona mejor como imán de clientes, porque el propio cliente consigue algo parecido por su cuenta con una herramienta de IA. Lo que sigue valiendo es el criterio: qué priorizar, en qué se equivoca la IA y el orden correcto."
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "Ejecútalo antes de tu próxima conversación de verdad.",
+      "blocos": [
+        {
+          "rot": "Prompt · tu guion de 15 minutos",
+          "icone": "chat",
+          "conteudo": "Arma el guion de una conversación de diagnóstico de 15 minutos.\nYo ofrezco <el rol que elegiste: consultor, auditor, mentor o formador> para <tipo de empresa>.\n\nEntrega, en este orden:\n1. La frase de apertura que enmarca la conversación en 30 segundos.\n2. La pregunta de restricción en una frase, escrita como yo la diría en voz alta.\n3. Cinco preguntas de cuantificación que conviertan su dolor en número por mes.\n   Cada una tiene que poder responderse con un número, no con una opinión.\n4. La frase que propone el próximo paso pago (diagnóstico u hoja de ruta), con plazo y valor dichos sin pedir disculpas.\n5. Tres señales, durante la conversación, de que esa persona NO va a comprar, para que yo cierre temprano."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Tres ejercicios cortos. El tercero usa la empresa ficticia del laboratorio.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Tu guion de 15 minutos",
+          "min": "20 min",
+          "texto": "Ejecuta el prompt para el rol que está arriba de tu tabla. Lee en voz alta las cinco preguntas de cuantificación.",
+          "pronto": "el guion está guardado y ninguna de las 5 preguntas puede responderse con \"creo que sí\": todas piden número, frecuencia o valor."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Conversación simulada con puntaje",
+          "min": "10 min",
+          "texto": "Haz la conversación simulada de esta clase. Si no llegas al puntaje máximo, lee los comentarios, haz clic en reiniciar e inténtalo de nuevo.",
+          "pronto": "terminaste la conversación con el puntaje máximo y puedes decir por qué la opción \"armo el agente\" era la más débil."
+        },
+        {
+          "id": "e3",
+          "titulo": "3 · El número que falta",
+          "min": "15 min",
+          "texto": "Abre el <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">panel del agente de Horizonte Distribuidora</a> (empresa ficticia del laboratorio). Escribe qué número necesitaría Carlos para responder \"¿el agente ayudó o no?\" y cómo medirías el antes.",
+          "pronto": "tienes por escrito el indicador que falta en el panel, de dónde vendría el dato y cuál sería la línea base (el período \"antes\")."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "El cliente empieza a desahogarse sobre todo lo que sale mal en la empresa. ¿Qué haces?",
+          "opcoes": [
+            "Lo escuchas hasta que termine, sin interrumpir",
+            "Le pides el problema en una sola frase",
+            "Presentas enseguida tu solución"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "La restricción de una frase corta el desahogo y devuelve el foco. Escuchar sin rumbo gasta los 15 minutos; presentar una solución antes de entender es vender construcción a ciegas."
+        },
+        {
+          "p": "¿Cuál es la diferencia entre diagnóstico y hoja de ruta?",
+          "opcoes": [
+            "Son el mismo servicio con nombres diferentes",
+            "El diagnóstico identifica dónde se fuga; la hoja de ruta dice qué hacer, en qué orden y en cuánto tiempo",
+            "La hoja de ruta es la versión gratuita del diagnóstico"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Son dos servicios. El diagnóstico mira el presente; la hoja de ruta mira el futuro a 30, 60, 90 y 180 días. Confundirlos cuesta dinero."
+        },
+        {
+          "p": "¿Por qué el diagnóstico corto funciona hoy como imán de clientes gratuito?",
+          "opcoes": [
+            "Porque no da ningún trabajo",
+            "Porque el cliente consigue algo parecido solo con IA; lo que vale es el criterio y el orden",
+            "Porque cobrar por un diagnóstico es antiético"
+          ],
+          "certa": 1,
+          "ref": "texto",
+          "explica": "El cliente ya saca un informe razonable conversando con una herramienta de IA. El valor migró hacia priorizar, decir en qué se equivoca la IA y el orden correcto."
+        },
+        {
+          "p": "La conversación llegó a los 15 minutos y el cliente ofrece media hora más. ¿Cuál es la mejor jugada?",
+          "opcoes": [
+            "Aprovechar y diseñar la solución completa",
+            "Cerrar a la hora con el próximo paso y la fecha acordados",
+            "Pedir descuento en el diagnóstico a cambio del tiempo"
+          ],
+          "certa": 1,
+          "ref": "simconversa",
+          "explica": "Cerrar a la hora comunica competencia y protege el servicio: diseñar todo en la llamada es regalar la hoja de ruta."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "Cinco etapas",
+          "texto": "Prueba pública, imán de clientes, conversación, diagnóstico y hoja de ruta, seguimiento."
+        },
+        {
+          "t": "El imán de clientes es trabajo terminado",
+          "texto": "Específico de ese negocio, realmente bueno y sin condiciones."
+        },
+        {
+          "t": "Quince minutos",
+          "texto": "Encuadre, una frase, un número, próximo paso pago y fin a la hora."
+        },
+        {
+          "t": "El precio tiene dueño",
+          "texto": "Escalera en el curso 2, rangos por servicio en el curso 4."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "slug": "nichos-com-barreira",
+  "num": 7,
+  "menu": "30 a 36",
+  "titulo": "Nichos con barrera: oportunidades 30 a 36",
+  "titulo_curto": "Oportunidades 30 a 36",
+  "minutos": 15,
+  "lead": "Las siete de este grupo son construcción: reactivación de base, finanzas, eventos, salud, licitaciones, visualización y extracción de datos. Lo que tienen en común es la barrera, y la barrera es de confianza: contacto que autorizó, aviso dicho en letra grande, decisión que no es tuya y garantía solo con línea base medida.",
+  "objetivo": "revisar la autorización de los contactos, los avisos, los límites y la línea base antes de proponer cualquier cosa en un nicho con barrera.",
+  "competencias": [
+    "clasificar-oportunidad",
+    "checar-barreiras-de-confianca",
+    "medir-linha-de-base"
+  ],
+  "aprende": [
+    {
+      "t": "Por qué las siete son construcción"
+    },
+    {
+      "t": "La pieza de confianza que pide cada una"
+    },
+    {
+      "t": "Vender investigación y herramienta, nunca la decisión"
+    },
+    {
+      "t": "Medir la línea base antes de prometer"
+    }
+  ],
+  "hero_alt": "Un profesional revisa un consentimiento impreso y una lista de verificación con la dueña de una clínica, en el mostrador de recepción.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Las oportunidades 30 a 36 en el filtro",
+      "sub": "Todas son construcción. Tres de ellas traen una pieza de papel de confianza. Haz clic en cada caja.",
+      "nos": [
+        {
+          "icone": "chip",
+          "titulo": "Construcción",
+          "sub": "las siete",
+          "forte": true,
+          "itens": [
+            {
+              "icone": "x",
+              "t": "30 · Reactivación de base inactiva"
+            },
+            {
+              "icone": "x",
+              "t": "31 · Mercado financiero"
+            },
+            {
+              "icone": "x",
+              "t": "32 · Gestión de eventos"
+            },
+            {
+              "icone": "x",
+              "t": "33 · Salud y bienestar"
+            },
+            {
+              "icone": "x",
+              "t": "34 · Propuestas y licitaciones"
+            },
+            {
+              "icone": "x",
+              "t": "35 · Aplicaciones de visualización"
+            },
+            {
+              "icone": "x",
+              "t": "36 · Utilidades de extracción"
+            }
+          ],
+          "detalhe": "Cada una es una entrega construida para un nicho. Finanzas y salud aún exigen una base real en el área: \"solo entra si eres del área\" y \"los avisos no son un detalle\"."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Auditor",
+          "sub": "la pieza de la 30",
+          "detalhe": "Antes de proponer una reactivación, confirma si esos contactos autorizaron recibir mensajes. Esa verificación de datos y permisos es trabajo de Auditor, y vale para cualquier base de clientes."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Consultor",
+          "sub": "la pieza de la 35",
+          "detalhe": "Garantía solo con línea base: cuántos cierres por semana había antes, en la misma época del año, y cuatro semanas con la herramienta sin que cambie nada más. Medir el antes y el después es trabajo de Consultor."
+        },
+        {
+          "icone": "megafone",
+          "titulo": "Formador",
+          "sub": "la pieza de la 34",
+          "detalhe": "En las licitaciones, las firmas más pequeñas suelen preferir instalar una vez y capacitar al equipo. Es la opción más cómoda para ambas partes."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Mentor",
+          "sub": "ninguna en este grupo",
+          "detalhe": "Ninguna de las siete es acompañamiento de un gestor que crea."
+        }
+      ],
+      "legenda": "Una barrera no es motivo para huir del nicho. Es lo que separa a quien tiene confianza de quien solo tiene herramienta."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Las cuatro barreras",
+      "sub": "Una pregunta para cada una, antes de cualquier propuesta.",
+      "passos": [
+        {
+          "titulo": "Autorización",
+          "sub": "reactivación (30)",
+          "texto": [
+            "¿Los contactos antiguos autorizaron recibir mensajes? Sin eso no hay propuesta.",
+            "Y antes de decir un porcentaje, entiende sus números: margen bruto no es margen neto, y hay un costo por atender cada venta."
+          ]
+        },
+        {
+          "titulo": "La decisión no es tuya",
+          "sub": "finanzas (31)",
+          "texto": [
+            "Vende herramienta e investigación, nunca recomendación de inversión. Quien vende investigación para que otros decidan tiene un negocio; quien vende la decisión tiene exposición.",
+            "Esto no es asesoría jurídica ni financiera: es la frontera entre producto y riesgo."
+          ]
+        },
+        {
+          "titulo": "Avisos",
+          "sub": "salud (33)",
+          "texto": [
+            "Si no eres profesional de la salud, eso debe decirse en todas partes, en letra grande: cada persona se atiende con su propio médico, nada allí es orientación clínica."
+          ]
+        },
+        {
+          "titulo": "Línea base",
+          "sub": "visualización (35)",
+          "texto": [
+            "Mide cuántos cierres por semana había antes, haz seguimiento durante cuatro semanas sin cambiar nada más y declara la comparación completa.",
+            "Promete un número absoluto, no un porcentaje: un porcentaje es fácil de discutir después."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "Complétalo antes de proponer en un nicho con barrera.",
+      "blocos": [
+        {
+          "rot": "Checklist de barrera antes de proponer",
+          "icone": "escudo",
+          "conteudo": "CHECKLIST DE BARRERA · <empresa> · <fecha>\n\n[ ] DATOS: ¿los contactos/datos que voy a usar fueron autorizados para ese uso? ¿Quién lo confirmó, por escrito?\n[ ] LÍMITE: ¿estoy vendiendo herramienta/investigación o estoy decidiendo por el cliente? (decidir = fuera)\n[ ] AVISOS: ¿necesito un aviso de que no soy profesional del área? ¿Dónde aparece?\n[ ] MATEMÁTICA: ¿conozco el margen neto y el costo de atender cada venta antes de decir un número?\n[ ] LÍNEA BASE: ¿cuál es el número de antes, en qué período, y qué no puede cambiar durante la medición?\n[ ] ESPECIALISTA: ¿en qué punto llamo a alguien habilitado (jurídico, salud, finanzas)?\n\nSi algún ítem quedó sin respuesta, la propuesta espera."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Dos ejercicios.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Checklist en un negocio real",
+          "min": "25 min",
+          "texto": "Elige un negocio que conozcas con una base de contactos parada hace más de seis meses (tienda, clínica, escuela). Completa el checklist con lo que sabes y marca lo que necesitas preguntar.",
+          "pronto": "los 6 ítems tienen respuesta o la pregunta exacta que vas a hacer, y el ítem DATOS dice quién confirma la autorización."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Una línea base definida",
+          "min": "15 min",
+          "texto": "Para ese negocio, escribe qué número medirías antes de cualquier promesa y registra de la 30 a la 36 en la tabla del filtro.",
+          "pronto": "tienes el indicador, el período \"antes\", la duración del seguimiento y lo que no puede cambiar en el medio; las 7 filas están en la tabla."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "3 preguntas.",
+      "perguntas": [
+        {
+          "p": "Vas a proponer una reactivación de base por comisión. ¿Qué necesitas saber antes de decir el porcentaje?",
+          "opcoes": [
+            "Cuántos contactos existen",
+            "Si los contactos dieron su autorización y la estructura de costos del negocio: margen bruto, neto y costo de atender cada venta",
+            "Cuánto cobran los competidores"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Sin autorización no hay propuesta. Y una comisión que ignora el margen neto puede dejarlo sin nada, y el contrato muere pronto."
+        },
+        {
+          "p": "En el mercado financiero, ¿qué puedes vender con seguridad?",
+          "opcoes": [
+            "Recomendación de inversión",
+            "Herramienta e investigación para que otros decidan mejor",
+            "Garantía de retorno"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Quien vende la decisión asume la exposición. Herramienta e investigación quedan del lado del producto, y solo si eres del área."
+        },
+        {
+          "p": "¿Cuándo se puede ofrecer garantía de resultado en una herramienta de visualización?",
+          "opcoes": [
+            "Siempre, para cerrar más rápido",
+            "Después de medir la línea base y hacer seguimiento durante cuatro semanas sin cambiar nada más",
+            "Nunca"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Con el antes medido y la comparación declarada completa, la garantía es segura. Sin línea base, es una apuesta."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "Siete construcciones",
+          "texto": "Todas entregan algo construido para un nicho."
+        },
+        {
+          "t": "La barrera es la confianza",
+          "texto": "Autorización, límite, aviso y línea base."
+        },
+        {
+          "t": "Piezas de papel",
+          "texto": "Auditor en la autorización, Consultor en la medición, Formador en el equipo."
+        },
+        {
+          "t": "Especialista en el punto justo",
+          "texto": "Jurídico, salud y finanzas siguen con quien está habilitado."
+        }
+      ]
+    }
+  ]
+}

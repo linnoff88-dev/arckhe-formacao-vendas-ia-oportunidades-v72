@@ -1,0 +1,135 @@
+{
+  "slug": "escolha-o-papel",
+  "num": 1,
+  "menu": "Filtro",
+  "titulo": "O filtro: quatro papéis e uma armadilha",
+  "titulo_curto": "O filtro de 5 caixas",
+  "minutos": 16,
+  "lead": "As 43 oportunidades parecem 43 negócios diferentes. Quase todas cabem em poucas caixas. Construir ficou fácil e barato, então quem só entrega a construção disputa preço. O que a empresa compra é confiança: alguém que diagnostica, revisa, acompanha e ensina. Esta aula monta o filtro que você vai usar no curso inteiro.",
+  "objetivo": "classificar uma oportunidade num dos 4 papéis ou na construção que perde valor e cortar as candidatas pelos 5 critérios.",
+  "competencias": ["classificar-oportunidade", "aplicar-criterios-de-escolha", "mapear-vantagem-injusta"],
+  "aprende": [
+    {"t": "Reconhecer as cinco caixas do filtro"},
+    {"t": "Cortar oportunidades pelos cinco critérios"},
+    {"t": "Achar a sua vantagem injusta na própria biografia"},
+    {"t": "Escrever uma oferta sem jargão técnico"}
+  ],
+  "hero_alt": "Homem sentado a uma mesa de madeira separa cartões em branco em cinco pilhas, com caderno e caneta ao lado.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "O filtro de cinco caixas",
+      "sub": "Toda oportunidade cai numa delas. Clique em cada caixa.",
+      "nos": [
+        {"icone": "lupa", "titulo": "Consultor", "sub": "diagnostica e prioriza",
+         "detalhe": "Mostra à empresa onde a IA dá resultado: diagnóstico, mapa de rota, plano de adoção e resultado medido. Trabalha com donos e diretoria. Nas 43: oportunidades 2, 3, 16, 29 e 37."},
+        {"icone": "escudo", "titulo": "Auditor", "sub": "revisa o que já existe",
+         "detalhe": "Faz o inventário do que a empresa já usa de IA, avalia riscos de dados, permissões e chaves e entrega um relatório com plano de 30 dias. É avaliação e triagem de riscos: não é pentest. Nas 43: 17, 25 e 41."},
+        {"icone": "calendario", "titulo": "Mentor", "sub": "acompanha quem cria",
+         "detalhe": "Acompanha gestores que passam a criar as próprias ferramentas, do protótipo até a passagem segura para a TI, em geral em 90 dias. Nas 43: 7, 8 e 24."},
+        {"icone": "megafone", "titulo": "Treinador", "sub": "ensina equipes",
+         "detalhe": "Conduz workshops, turmas e formações com exercícios práticos e avaliação do que a turma aprendeu. A ferramenta muda a cada trimestre e alguém precisa traduzir. Nas 43: 1, 20, 21, 22 e 23."},
+        {"icone": "chip", "titulo": "Construção", "sub": "perde valor", "forte": true,
+         "detalhe": "Site, loja, agendamento, agente de voz, criativos. Quando o cliente consegue fazer sozinho com IA, entregar só a construção vira disputa de preço. Não some: vira parte de um dos quatro serviços. Nas 43: as outras 27."}
+      ],
+      "legenda": "Quatro papéis vendem confiança. A quinta caixa não é proibida: é peça de um serviço, não o serviço inteiro.",
+      "dica": "Mais sobre cada papel na <a href=\"https://eventos.inema.pro/prof2030/#formacoes\">área Profissional 2030</a>."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Antes de escolher",
+      "sub": "Três perguntas honestas que vêm antes da lista.",
+      "passos": [
+        {"titulo": "Quatro caminhos", "sub": "nem todo mundo precisa fundar",
+         "texto": ["Fundador (controle total, renda zero por meses), sócio número 2 (metade do palco, renda dividida), intraempreendedor (projeto de IA de dentro, com salário) e fim de semana (emprego de dia, negócio à noite).", "Os quatro ensinam quase o mesmo. Só o de fundador cobra o preço inteiro de cara. Se há gente dependendo da sua renda, começar pelo de menor risco é sequência, não covardia."]},
+        {"titulo": "Combustível", "sub": "fugir de algo + correr para algo",
+         "texto": ["Escreva do que você foge e para o que você corre. Sem os dois lados nomeados, a desistência costuma chegar nas primeiras semanas sem resultado.", "Combustível demais também cobra: tenha um horário em que o trabalho acaba, mesmo que seja um dia por semana."]},
+        {"titulo": "A escada", "sub": "fazer, fazer melhor, escolher onde, ensinar o método",
+         "texto": ["Toda oportunidade tem quatro degraus. Os três primeiros trocam hora por dinheiro e são obrigatórios: ninguém ensina um método que nunca executou.", "Repare no degrau 4: ensinar o método. É exatamente onde o Treinador e o Mentor entram."]},
+        {"titulo": "IA num negócio", "sub": "não um \"negócio de IA\"",
+         "texto": ["Dizer \"faço agência de IA\" não abre porta: o cliente ouve isso toda semana. O que funciona é descobrir a dor mais cara e resolvê-la, com IA se ela for a melhor ferramenta. Às vezes não é.", "Teste: escreva a oferta em uma frase e apague as palavras técnicas. Se sobrar uma frase que o dono de uma padaria entende, você tem oferta."],
+         "exemplo": {"rot": "Compare", "texto": "\"Implanto IA na sua empresa\" é ignorada. \"Você recupera 12 horas por semana\" é lida."}}
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Os cinco critérios",
+      "sub": "Cada candidata passa por eles. Duas respostas negativas e ela sai da lista.",
+      "passos": [
+        {"titulo": "O cliente tem dinheiro?", "sub": "e está limitado por demanda ou capacidade",
+         "texto": ["Quem está com a cabeça fora d'água por pouco não investe em melhoria. Prefira quem já fatura."]},
+        {"titulo": "A dor é cara e mensurável?", "sub": "dá para estimar por mês",
+         "texto": ["Se você não consegue estimar quanto o problema custa por mês, também não vai conseguir defender o seu trabalho."]},
+        {"titulo": "Você tem vantagem injusta?", "sub": "setor, contatos, habilidade",
+         "texto": ["Bagagem de setor, contatos ou uma habilidade que a maioria não tem. Sem isso, você compete só por preço."]},
+        {"titulo": "Dá para provar em uma semana?", "sub": "e aguenta fazer cem vezes?",
+         "texto": ["Se a primeira demonstração exige três meses, você desiste antes do retorno. E a oportunidade que você suporta repetir é a que gera o histórico.", "Erro que anula o filtro: escolher a mais empolgante em vez da mais provável."]}
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "Troque o texto entre < > pelo seu. Use num assistente de IA de sua escolha.",
+      "blocos": [
+        {"rot": "Prompt · inventário de vantagem injusta", "icone": "chat",
+         "conteudo": "Você é um consultor de posicionamento. Vou te dar a minha biografia profissional completa, incluindo\nbicos, empregos ruins, negócios que fracassaram e hobbies. Não elogie nada.\n\nMinha biografia: <liste em uma linha cada trabalho, bico, negócio ou hobby, com quanto tempo durou>\n\nFaça três coisas:\n1. Para cada item, escreva em uma frase o que ele me ensinou sobre GENTE, sobre PROCESSO ou sobre um SETOR.\n   Se não ensinou nada aproveitável, escreva \"descartável\" e siga.\n2. Liste os 3 setores em que eu consigo entrar numa conversa e soar de dentro, não de fora.\n   Justifique cada um com o item da biografia que sustenta isso.\n3. Para o setor número 1, liste as 5 dores caras que eu provavelmente já vi acontecer lá dentro\n   e que hoje poderiam ser resolvidas com automação ou IA.\nSeja específico. Nada de \"habilidades de comunicação\"."},
+        {"rot": "Tabela do filtro (planilha ou nota)", "icone": "lista",
+         "conteudo": "TABELA DO FILTRO · <seu nome> · <data>\n\nOportunidade | Caixa (Consultor/Auditor/Mentor/Treinador/Construção) | Cliente tem dinheiro? | Dor cara e medida? | Vantagem injusta? | Prova em 1 semana? | Aguenta 100 vezes? | Nº de SIM\n------------|------|-----|-----|-----|-----|-----|---\n<nº e nome> | <caixa> | S/N | S/N | S/N | S/N | S/N | <0-5>\n\nRegra: 2 ou mais N = sai da lista.\nConstrução: escreva ao lado de qual papel ela vira parte."}
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Prática",
+      "sub": "Faça antes da aula 2. A tabela acompanha você até a aula 8.",
+      "exercicios": [
+        {"id": "e1", "titulo": "1 · Inventário de vantagem injusta", "min": "25 min",
+         "texto": "Rode o prompt com a sua biografia completa, incluindo os trabalhos que você tem vergonha de citar: costumam ser os mais úteis.",
+         "pronto": "você tem 3 setores, cada um amarrado a um item concreto da sua biografia, e nenhum deles serve para qualquer pessoa."},
+        {"id": "e2", "titulo": "2 · Tabela do filtro aberta", "min": "15 min",
+         "texto": "Copie a tabela para uma planilha ou nota. Preencha a primeira linha com a oportunidade que mais atrai você hoje, classificando a caixa e os cinco critérios.",
+         "pronto": "a tabela existe, tem as colunas de caixa e dos 5 critérios, e a primeira linha está preenchida com S/N em todas."}
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Teste rápido",
+      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "perguntas": [
+        {"p": "Um conhecido quer vender \"sites com IA\" para negócios locais. Em que caixa isso cai?",
+         "opcoes": ["Consultor, porque usa IA", "Construção, que perde valor: vira parte de um serviço", "Auditor, porque mexe com site"],
+         "certa": 1, "ref": "diagrama",
+         "explica": "Site virou mercadoria barata: o cliente consegue fazer quase sozinho. A construção não some, mas vira isca de um diagnóstico ou parte de um serviço de ensino. Usar IA não faz de nada um serviço de Consultor."},
+        {"p": "Duas oportunidades atraem você igualmente. O que decide primeiro?",
+         "opcoes": ["A que usa a tecnologia mais nova", "A que tem cliente com dinheiro e dor que você mede por mês", "A que tem menos concorrentes"],
+         "certa": 1, "ref": "passos",
+         "explica": "Os dois primeiros critérios são caixa do cliente e dor mensurável. Tecnologia nova não paga conta; pouca concorrência pode ser só falta de mercado."},
+        {"p": "A candidata 1 da sua tabela é chata e a 4 é fascinante. O que fazer?",
+         "opcoes": ["Começar pela 4: empolgação sustenta", "Começar pela 1 e usar o que ela render para financiar a 4", "Descartar as duas"],
+         "certa": 1, "ref": "passos",
+         "explica": "Empolgação some no segundo mês; probabilidade sustenta. Escolher a mais empolgante em vez da mais provável é o erro que anula o filtro."},
+        {"p": "O que diferencia o Auditor do Consultor?",
+         "opcoes": ["O Auditor revisa o que a empresa já usa de IA e os riscos; o Consultor diagnostica onde a IA dá resultado e planeja", "O Auditor faz pentest", "Não há diferença"],
+         "certa": 0, "ref": "diagrama",
+         "explica": "O Auditor faz inventário e triagem de riscos (dados, permissões, chaves) e não é pentest. O Consultor olha processo e resultado: diagnóstico, plano e medição."}
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo",
+      "itens": [
+        {"t": "Cinco caixas", "texto": "Consultor, Auditor, Mentor, Treinador e construção que perde valor."},
+        {"t": "Construção vira peça", "texto": "Não é proibida: é parte de um serviço de confiança, não o serviço inteiro."},
+        {"t": "Cinco critérios", "texto": "Dinheiro, dor medida, vantagem injusta, prova em uma semana e tolerância à repetição."},
+        {"t": "Oferta sem jargão", "texto": "Se o dono da padaria entende, é oferta. Se sobrou só vocabulário, não é."}
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir além",
+      "links": [
+        {"t": "Área Profissional 2030: as quatro formações", "href": "https://eventos.inema.pro/prof2030/#formacoes", "icone": "camadas"},
+        {"t": "Área Consultoria de IA", "href": "https://eventos.inema.pro/consultoria-ia/", "icone": "seta"}
+      ]
+    }
+  ]
+}

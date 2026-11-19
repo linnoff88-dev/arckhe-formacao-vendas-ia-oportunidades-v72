@@ -1,0 +1,237 @@
+{
+  "slug": "do-pe-na-porta",
+  "num": 4,
+  "menu": "6 a 10",
+  "titulo": "Del pie en la puerta al sistema: oportunidades 6 a 10",
+  "titulo_curto": "Oportunidades 6 a 10",
+  "minutos": 16,
+  "lead": "Aquí la entrega se vuelve infraestructura: sitio web, segundo cerebro, sistema de la empresa, prototipos y micro-SaaS. Tres de ellas son construcción pura y perdieron valor. Dos se vuelven trabajo de Mentor, porque lo difícil no es armarlo: es que la persona de la empresa se vuelva dueña de lo que se armó y que el traspaso a TI salga limpio.",
+  "objetivo": "convertir una construcción (sitio web, prototipo) en parte de un servicio de Mentor o Consultor y escribir el encuadre de empoderamiento.",
+  "competencias": [
+    "clasificar-oportunidad",
+    "enquadrar-empoderamento",
+    "inventariar-assinaturas"
+  ],
+  "aprende": [
+    {
+      "t": "Por qué el sitio web se volvió imán de clientes y no producto"
+    },
+    {
+      "t": "Segundo cerebro y sistema de la empresa como mentoría"
+    },
+    {
+      "t": "Vender empoderamento, nunca sustitución"
+    },
+    {
+      "t": "Clasificar suscripciones sin prometer de más"
+    }
+  ],
+  "hero_alt": "Una gerente de oficina escribe en una laptop mientras el mentor, a su lado, señala un diagrama de flujo impreso.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Las oportunidades 6 a 10 en el filtro",
+      "sub": "Dos suben como mentoría, tres son construcción. Haz clic en cada caja.",
+      "nos": [
+        {
+          "icone": "calendario",
+          "titulo": "Mentor",
+          "sub": "sube",
+          "forte": true,
+          "itens": [
+            {
+              "icone": "check",
+              "t": "7 · Segundo cerebro como servicio"
+            },
+            {
+              "icone": "check",
+              "t": "8 · Sistema operativo de la empresa"
+            }
+          ],
+          "detalhe": "Armarlo es la parte fácil y única. Lo que el cliente subestima es mantenerlo vivo cuando la rutina se traga a todos. En el sistema de la empresa, quien lo sabe todo y nunca documentó se vuelve dueña del sistema: es mentoría, no sustitución."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Consultor",
+          "sub": "recibe piezas",
+          "detalhe": "La pregunta que abre los prototipos (9) es de diagnóstico: \"¿qué suscripciones van a renovar en los próximos doce meses y cuánto cuesta cada una?\". Elegir el departamento del piloto, mostrando el costo de cada opción, ya es consultoría."
+        },
+        {
+          "icone": "megafone",
+          "titulo": "Formador",
+          "sub": "recibe el sitio web",
+          "detalhe": "En el sitio web (6), la frase que cierra es \"con o sin negocio entre nosotros, el sitio es tuyo; yo te enseño a publicarlo\". Lo que enseñas es lo que queda."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Auditor",
+          "sub": "ninguna en este grupo",
+          "detalhe": "Ninguna de las cinco es revisión de riesgo. La oportunidad 25, en la clase 6, es la que toma la app improvisada que nadie puede tocar sin romperla."
+        },
+        {
+          "icone": "chip",
+          "titulo": "Construcción",
+          "sub": "pierde valor",
+          "itens": [
+            {
+              "icone": "x",
+              "t": "6 · Sitios web de ticket bajo"
+            },
+            {
+              "icone": "x",
+              "t": "9 · Prototipos de apps internas"
+            },
+            {
+              "icone": "x",
+              "t": "10 · Micro-SaaS para una empresa"
+            }
+          ],
+          "detalhe": "El sitio web se volvió una mercancía barata, por eso funciona como imán de clientes. En el prototipo, la propia fuente manda incluir la formación y preferir el traspaso pagado al mantenimiento eterno. El micro-SaaS solo nace después de dolores repetidos, y esos vienen del diagnóstico."
+        }
+      ],
+      "legenda": "Cuando alguien en el mercado anuncia \"haz X y cobra una fortuna\", es señal de que X ya se volvió una mercancía."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Las dos que suben y la trampa",
+      "sub": "Haz clic en cada pestaña.",
+      "passos": [
+        {
+          "titulo": "7 · Segundo cerebro",
+          "sub": "Mentor",
+          "texto": [
+            "Reunir el conocimiento disperso (cabezas, carpetas sueltas, hojas de cálculo viejas) en un repositorio consultable en lenguaje natural. Para empresas con mucha gente antigua y poca documentación.",
+            "La prueba que importa es la tuya: nadie compra organización de quien es desorganizado. Construye el tuyo en público antes."
+          ]
+        },
+        {
+          "titulo": "8 · Sistema de la empresa",
+          "sub": "Mentor",
+          "texto": [
+            "Armar la capa que hace funcionar un departamento con IA: procedimientos, herramientas conectadas, responsables. Para probar valor rápido, elige el departamento con más procedimientos escritos; para valor máximo, el más desordenado."
+          ],
+          "exemplo": {
+            "rot": "El encuadre",
+            "texto": "No se trata de crear un sustituto por si esa persona se va. Se trata de que deje de apagar el mismo incendio, se vuelva dueña del sistema y gane estatus."
+          }
+        },
+        {
+          "titulo": "La política interna",
+          "sub": "lo que tumba el proyecto",
+          "texto": [
+            "El empleado que lo sabe todo y nunca documentó nada no es perezoso: eso es su protección. Llega diciendo \"vamos a crear un sustituto\" y te hiciste un enemigo dentro del cliente.",
+            "No es para quien empieza de cero: exige leer la dinámica de una oficina."
+          ]
+        },
+        {
+          "titulo": "Sé honesto",
+          "sub": "ética y límites",
+          "texto": [
+            "En el sitio web, el cliente te va a preguntar por búsqueda y por anuncios. Tener una buena herramienta de IA no te convierte en especialista en eso.",
+            "Di que puedes señalar mejoras y contrata una o dos horas de un especialista de verdad para revisar. Entregas bien y aprendes en el proceso."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "El primero es el inventario que abre la conversación de los prototipos. El segundo es la frase de la clase.",
+      "blocos": [
+        {
+          "rot": "Prompt · inventario de suscripciones",
+          "icone": "lista",
+          "conteudo": "Eres un arquitecto de soluciones pragmático y escéptico. Mi cliente es <tipo de empresa, nº de empleados>.\nEstas son las suscripciones de programas que paga por año:\n<lista: categoría genérica, para qué sirve, cuánto cuesta por año, cuántas personas la usan>\n\nHaz, en este orden:\n1. Clasifica cada una en: SUSTITUIBLE (se puede reconstruir a medida en hasta 2 semanas),\n   ARRIESGADO (reconstruir es posible pero caro de mantener) o NO TOCAR (integración, cumplimiento\n   o volumen que no compensa). Justifica cada clasificación en una línea.\n2. Para las SUSTITUIBLES, escribe el alcance mínimo que cubre el 80% del uso real y di qué 20% queda fuera.\n3. Di quién del equipo del cliente puede convertirse en dueño de cada herramienta y qué necesito enseñarle a esa persona.\n4. Lista las 3 objeciones que va a plantear y la respuesta honesta para cada una.\nNo me halagues. Si la mayoría es NO TOCAR, dilo."
+        },
+        {
+          "rot": "Frase de empoderamiento (adáptala)",
+          "icone": "caneta",
+          "conteudo": "<Nombre>, eres quien mejor sabe cómo funciona <proceso> aquí.\nLa idea no es sustituirte: es que dejes de resolver <incendio repetido> cada semana\ny te conviertas en la dueña del sistema que lo hace solo. Yo te acompaño hasta que funcione."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Dos ejercicios.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Inventario de suscripciones",
+          "min": "30 min",
+          "texto": "Ejecuta el prompt con las suscripciones de una empresa que conozcas (o de la tuya). Lee la clasificación con desconfianza.",
+          "pronto": "la lista tiene al menos una suscripción en NO TOCAR y cada SUSTITUIBLE tiene un dueño nombrado en el equipo; si todo salió sustituible, rehazla."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Tu frase de empoderamiento",
+          "min": "10 min",
+          "texto": "Adapta la frase a un proceso real de tu nicho y registra las oportunidades 6 a 10 en la tabla del filtro.",
+          "pronto": "la frase no contiene \"sustituir\" como objetivo, nombra el incendio repetido, y las 5 líneas están en la tabla."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "3 preguntas.",
+      "perguntas": [
+        {
+          "p": "En un proyecto de sistema de la empresa, la empleada que lo sabe todo se resiste a documentar. ¿Qué hacer?",
+          "opcoes": [
+            "Explicar que el sistema protege a la empresa en caso de que ella se vaya",
+            "Enmarcarlo como empoderamiento: ella se vuelve dueña del sistema y deja de apagar incendios",
+            "Documentar sin ella"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Eso es su protección contra el despido. Hablar de sustituto crea un enemigo; vender empoderamiento es la única forma de conseguir la información que solo ella tiene."
+        },
+        {
+          "p": "El cliente te pregunta si te encargas de los anuncios y no dominas el tema. ¿Cuál es la respuesta honesta?",
+          "opcoes": [
+            "Decir que sí y aprender después",
+            "Señalar mejoras y contratar una o dos horas de un especialista para revisar",
+            "Rechazar al cliente"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Ética y límites: di lo que sabes y lo que no sabes. Traer al especialista mantiene la calidad y te enseña."
+        },
+        {
+          "p": "¿Por qué el segundo cerebro cae en la caja del Mentor y no en la de construcción?",
+          "opcoes": [
+            "Porque es más caro",
+            "Porque el valor está en lograr que el equipo lo mantenga vivo una vez montado",
+            "Porque usa IA generativa"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Montarlo es la parte fácil y única; sin mantenimiento, el cerebro se pudre en semanas. Acompañar a quien lo mantiene es trabajo de Mentor."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "El sitio web es imán de clientes",
+          "texto": "Se volvió un producto básico; lo que queda es enseñar a publicar."
+        },
+        {
+          "t": "Mentor en el sistema",
+          "texto": "El segundo cerebro y el sistema de la empresa valen por el equipo que se vuelve dueño."
+        },
+        {
+          "t": "Empoderamiento",
+          "texto": "Nunca sustitución: así se consigue la información."
+        },
+        {
+          "t": "Traspaso",
+          "texto": "En el prototipo, enseñar y pasar el trabajo a otros vale más que un mantenimiento eterno."
+        }
+      ]
+    }
+  ]
+}

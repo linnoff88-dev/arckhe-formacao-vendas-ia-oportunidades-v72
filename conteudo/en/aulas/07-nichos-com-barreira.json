@@ -1,0 +1,234 @@
+{
+  "slug": "nichos-com-barreira",
+  "num": 7,
+  "menu": "30 to 36",
+  "titulo": "Niches with a barrier: opportunities 30 to 36",
+  "titulo_curto": "Opportunities 30 to 36",
+  "minutos": 15,
+  "lead": "All seven in this group are building: dormant-base reactivation, finance, events, health, public tenders, visualization, and data extraction. What they have in common is the barrier, and the barrier is trust: a contact who gave permission, a notice said in big letters, a decision that is not yours, and a guarantee only with a measured baseline.",
+  "objetivo": "check contact authorization, notices, limits, and baseline before proposing anything in a niche with a barrier.",
+  "competencias": [
+    "classificar-oportunidade",
+    "checar-barreiras-de-confianca",
+    "medir-linha-de-base"
+  ],
+  "aprende": [
+    {
+      "t": "Why all seven are building"
+    },
+    {
+      "t": "The trust piece each one requires"
+    },
+    {
+      "t": "Sell research and tools, never the decision"
+    },
+    {
+      "t": "Measure the baseline before you promise"
+    }
+  ],
+  "hero_alt": "Professional reviews a printed consent form and a checklist with the owner of a clinic, at the reception counter.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Opportunities 30 to 36 in the filter",
+      "sub": "All of them are building. Three of them carry a paper trust piece. Click each box.",
+      "nos": [
+        {
+          "icone": "chip",
+          "titulo": "Building",
+          "sub": "all seven",
+          "forte": true,
+          "itens": [
+            {
+              "icone": "x",
+              "t": "30 · Dormant-base reactivation"
+            },
+            {
+              "icone": "x",
+              "t": "31 · Financial market"
+            },
+            {
+              "icone": "x",
+              "t": "32 · Event management"
+            },
+            {
+              "icone": "x",
+              "t": "33 · Health and wellness"
+            },
+            {
+              "icone": "x",
+              "t": "34 · Proposals and bids"
+            },
+            {
+              "icone": "x",
+              "t": "35 · Dashboard apps"
+            },
+            {
+              "icone": "x",
+              "t": "36 · Extraction utilities"
+            }
+          ],
+          "detalhe": "Each one is a deliverable built for a niche. Finance and health still require real grounding in the field: \"only enter if you're from the field\" and \"the warnings are not a detail.\""
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Auditor",
+          "sub": "the piece from 30",
+          "detalhe": "Before proposing reactivation, confirm that those contacts agreed to receive messages. Checking data and permission is Auditor work, and it applies to any customer base."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Consultant",
+          "sub": "the piece from 35",
+          "detalhe": "Guarantee only with a baseline: how many closings per week before, at the same time of year, and four weeks with the tool with nothing else changing. Measuring the before and after is Consultant work."
+        },
+        {
+          "icone": "megafone",
+          "titulo": "Trainer",
+          "sub": "the piece from 34",
+          "detalhe": "In bids, smaller firms often prefer to install once and train the team. It's the most comfortable option for both sides."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Mentor",
+          "sub": "none in this group",
+          "detalhe": "None of the seven is ongoing support for a manager who builds."
+        }
+      ],
+      "legenda": "A barrier is not a reason to run from the niche. It's what separates the people who have confidence from the people who only have a tool."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "The four barriers",
+      "sub": "One question for each, before any proposal.",
+      "passos": [
+        {
+          "titulo": "Permission",
+          "sub": "reactivation (30)",
+          "texto": [
+            "Did the old contacts agree to receive messages? Without that there is no proposal.",
+            "And before you quote a percentage, understand their math: gross margin is not net margin, and there is a cost to serve each sale."
+          ]
+        },
+        {
+          "titulo": "The decision isn't yours",
+          "sub": "finance (31)",
+          "texto": [
+            "Sell tools and research, never investment recommendations. Whoever sells research so others can decide has a business; whoever sells the decision has exposure.",
+            "This is not legal or financial advice: it's the line between product and risk."
+          ]
+        },
+        {
+          "titulo": "Warnings",
+          "sub": "health (33)",
+          "texto": [
+            "If you are not a health professional, that has to be stated everywhere, in large type: each person follows up with their own doctor, and nothing there is clinical guidance."
+          ]
+        },
+        {
+          "titulo": "Baseline",
+          "sub": "dashboard (35)",
+          "texto": [
+            "Measure how many closings per week there were before, track four weeks without changing anything else, and state the whole comparison.",
+            "Promise an absolute number, not a percentage: a percentage is easy to argue about later."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Template to copy",
+      "sub": "Fill this in before you propose in a niche with a barrier.",
+      "blocos": [
+        {
+          "rot": "Barrier checklist before proposing",
+          "icone": "escudo",
+          "conteudo": "CHECKLIST DE BARREIRA · <empresa> · <data>\n\n[ ] DADOS: os contatos/dados que vou usar foram autorizados para esse uso? Quem confirmou, por escrito?\n[ ] LIMITE: estou vendendo ferramenta/pesquisa ou estou decidindo pelo cliente? (decidir = fora)\n[ ] AVISOS: preciso de aviso de que não sou profissional da área? Onde ele aparece?\n[ ] MATEMÁTICA: sei a margem líquida e o custo de atender cada venda antes de dizer um número?\n[ ] LINHA DE BASE: qual é o número de antes, em que período, e o que não pode mudar durante a medição?\n[ ] ESPECIALISTA: em que ponto eu chamo alguém habilitado (jurídico, saúde, finanças)?\n\nSe algum item ficou sem resposta, a proposta espera."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Two exercises.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Checklist on a real business",
+          "min": "25 min",
+          "texto": "Pick a business you know that has a contact list that has been idle for more than six months (store, clinic, school). Fill in the checklist with what you know and mark what you need to ask.",
+          "pronto": "all 6 items have an answer or the exact question you will ask, and the DADOS item says who confirms the permission."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · A defined baseline",
+          "min": "15 min",
+          "texto": "For that business, write which number you would measure before any promise, and enter 30 through 36 in the filter table.",
+          "pronto": "you have the metric, the \"before\" period, the length of the tracking, and what cannot change midway; the 7 rows are in the table."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick test",
+      "sub": "3 questions.",
+      "perguntas": [
+        {
+          "p": "You are going to propose commission-based list reactivation. What do you need to know before you quote the percentage?",
+          "opcoes": [
+            "How many contacts there are",
+            "Whether the contacts agreed to it, and their cost structure: gross margin, net margin, and the cost to serve each sale",
+            "How much competitors charge"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Without permission there is no proposal. And a commission that ignores net margin can leave them with nothing, and the contract dies early."
+        },
+        {
+          "p": "In the financial market, what can you safely sell?",
+          "opcoes": [
+            "Investment recommendation",
+            "Tools and research so others can decide better",
+            "Return guarantee"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Whoever sells the decision carries the exposure. Tools and research stay on the product side, and only if this is your field."
+        },
+        {
+          "p": "When can you offer a results guarantee on a visualization tool?",
+          "opcoes": [
+            "Always, to close faster",
+            "After measuring the baseline and tracking for four weeks without changing anything else",
+            "Never"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "With the before measured and the comparison fully stated, the guarantee is safe. Without a baseline, it's a bet."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Seven builds",
+          "texto": "All of them deliver something built for a niche."
+        },
+        {
+          "t": "The barrier is trust",
+          "texto": "Authorization, limit, notice and baseline."
+        },
+        {
+          "t": "Paper pieces",
+          "texto": "Auditor on authorization, Consultant on measurement, Trainer on the team."
+        },
+        {
+          "t": "Specialist at the right point",
+          "texto": "Legal, health and finance stay with those who are licensed."
+        }
+      ]
+    }
+  ]
+}

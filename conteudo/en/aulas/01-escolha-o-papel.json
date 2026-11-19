@@ -1,0 +1,278 @@
+{
+  "slug": "escolha-o-papel",
+  "num": 1,
+  "menu": "Filter",
+  "titulo": "The filter: four roles and a trap",
+  "titulo_curto": "The 5-box filter",
+  "minutos": 16,
+  "lead": "The 43 opportunities look like 43 different businesses. Almost all of them fit into a few boxes. Building became easy and cheap, so anyone who only delivers the building competes on price. What a company buys is trust: someone who diagnoses, reviews, follows up and teaches. This lesson builds the filter you will use throughout the whole course.",
+  "objetivo": "classify an opportunity into one of the 4 roles or into the building that loses value, and cut the candidates using the 5 criteria.",
+  "competencias": [
+    "classificar-oportunidade",
+    "aplicar-criterios-de-escolha",
+    "mapear-vantagem-injusta"
+  ],
+  "aprende": [
+    {
+      "t": "Recognize the five boxes of the filter"
+    },
+    {
+      "t": "Cut opportunities using the five criteria"
+    },
+    {
+      "t": "Find your unfair advantage in your own background"
+    },
+    {
+      "t": "Write an offer without technical jargon"
+    }
+  ],
+  "hero_alt": "A man sitting at a wooden table sorts blank cards into five piles, with a notebook and pen beside him.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The five-box filter",
+      "sub": "Every opportunity falls into one of them. Click each box.",
+      "nos": [
+        {
+          "icone": "lupa",
+          "titulo": "Consultant",
+          "sub": "diagnoses and prioritizes",
+          "detalhe": "Shows the company where AI delivers results: diagnostic, roadmap, adoption plan and measured results. Works with owners and the executive team. In the 43: opportunities 2, 3, 16, 29 and 37."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Auditor",
+          "sub": "reviews what already exists",
+          "detalhe": "Takes inventory of the AI the company already uses, assesses risks around data, permissions and keys, and delivers a report with a 30-day plan. It is risk assessment and triage: it is not a pentest. In the 43: 17, 25 and 41."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Mentor",
+          "sub": "guides those who build",
+          "detalhe": "Guides managers who start building their own tools, from prototype to a safe handoff to IT, usually in 90 days. In the 43: 7, 8 and 24."
+        },
+        {
+          "icone": "megafone",
+          "titulo": "Trainer",
+          "sub": "teaches teams",
+          "detalhe": "Leads workshops, classes and training programs with hands-on exercises and an assessment of what the class learned. The tools change every quarter and someone needs to translate. In the 43: 1, 20, 21, 22 and 23."
+        },
+        {
+          "icone": "chip",
+          "titulo": "Building",
+          "sub": "loses value",
+          "forte": true,
+          "detalhe": "Website, online store, scheduling, voice agent, creatives. When the client can do it alone with AI, delivering only the building turns into a price fight. It doesn't go away: it becomes part of one of the four services. In the 43: the other 27."
+        }
+      ],
+      "legenda": "Four roles sell trust. The fifth box is not forbidden: it is a piece of a service, not the whole service.",
+      "dica": "More about each role in the <a href=\"https://eventos.inema.pro/prof2030/#formacoes\">Professional 2030 area</a>."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Before you choose",
+      "sub": "Three honest questions that come before the list.",
+      "passos": [
+        {
+          "titulo": "Four paths",
+          "sub": "not everyone needs to found a company",
+          "texto": [
+            "Founder (full control, zero income for months), number 2 partner (half the stage, shared income), intrapreneur (an AI project from the inside, with a salary) and weekend (a day job, a business at night).",
+            "All four teach almost the same thing. Only the founder path charges the full price right away. If people depend on your income, starting with the lowest-risk path is sequencing, not cowardice."
+          ]
+        },
+        {
+          "titulo": "Fuel",
+          "sub": "running from something + running toward something",
+          "texto": [
+            "Write down what you are running from and what you are running toward. Without both sides named, giving up tends to arrive in the first weeks without results.",
+            "Too much fuel also has a cost: set a time when work ends, even if it is one day a week."
+          ]
+        },
+        {
+          "titulo": "The ladder",
+          "sub": "do it, do it better, choose where, teach the method",
+          "texto": [
+            "Every opportunity has four steps. The first three trade hours for money and are mandatory: nobody teaches a method they have never carried out.",
+            "Notice step 4: teaching the method. That is exactly where the Trainer and the Mentor come in."
+          ]
+        },
+        {
+          "titulo": "AI in a business",
+          "sub": "not an \"AI business\"",
+          "texto": [
+            "Saying \"I run an AI agency\" doesn't open doors: clients hear that every week. What works is finding the most expensive pain and solving it, with AI if it's the best tool. Sometimes it isn't.",
+            "Test: write your offer in one sentence and delete the technical words. If what's left is a sentence the owner of a bakery understands, you have an offer."
+          ],
+          "exemplo": {
+            "rot": "Compare",
+            "texto": "\"I deploy AI in your company\" gets ignored. \"You get back 12 hours a week\" gets read."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "The five criteria",
+      "sub": "Every candidate goes through them. Two negative answers and it's off the list.",
+      "passos": [
+        {
+          "titulo": "Does the client have money?",
+          "sub": "and are they limited by demand or by capacity",
+          "texto": [
+            "Someone barely keeping their head above water rarely invests in improvement. Prefer those who are already making revenue."
+          ]
+        },
+        {
+          "titulo": "Is the pain expensive and measurable?",
+          "sub": "you can estimate it per month",
+          "texto": [
+            "If you can't estimate how much the problem costs per month, you won't be able to defend your work either."
+          ]
+        },
+        {
+          "titulo": "Do you have an unfair advantage?",
+          "sub": "industry, contacts, skill",
+          "texto": [
+            "Industry background, contacts, or a skill most people don't have. Without that, you compete on price alone."
+          ]
+        },
+        {
+          "titulo": "Can you prove it in one week?",
+          "sub": "and can you stand doing it a hundred times?",
+          "texto": [
+            "If the first demo takes three months, you give up before the payoff. And the opportunity you can stand to repeat is the one that builds a track record.",
+            "Mistake that breaks the filter: picking the most exciting one instead of the most likely one."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "Replace the text between < > with your own. Use it in an AI assistant of your choice.",
+      "blocos": [
+        {
+          "rot": "Prompt · unfair advantage inventory",
+          "icone": "chat",
+          "conteudo": "You are a positioning consultant. I'm going to give you my complete professional biography, including\nodd jobs, bad jobs, failed businesses and hobbies. Don't praise anything.\n\nMy biography: <list each job, odd job, business or hobby on one line, with how long it lasted>\n\nDo three things:\n1. For each item, write in one sentence what it taught me about PEOPLE, about PROCESS or about an INDUSTRY.\n   If it taught nothing useful, write \"disposable\" and move on.\n2. List the 3 industries where I can join a conversation and sound like an insider, not an outsider.\n   Justify each one with the item from the biography that supports it.\n3. For industry number 1, list the 5 expensive pains I have probably already seen happen in there\n   and that could be solved today with automation or AI.\nBe specific. No \"communication skills\"."
+        },
+        {
+          "rot": "Filter table (spreadsheet or note)",
+          "icone": "lista",
+          "conteudo": "FILTER TABLE · <your name> · <date>\n\nOpportunity | Box (Consultant/Auditor/Mentor/Trainer/Building) | Client has money? | Expensive, measured pain? | Unfair advantage? | Proof in 1 week? | Can do it 100 times? | No. of YES\n------------|------|-----|-----|-----|-----|-----|---\n<no. and name> | <box> | Y/N | Y/N | Y/N | Y/N | Y/N | <0-5>\n\nRule: 2 or more N = off the list.\nBuilding: write next to it which role it becomes part of."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Do this before lesson 2. The table stays with you through lesson 8.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Unfair advantage inventory",
+          "min": "25 min",
+          "texto": "Run the prompt with your complete biography, including the jobs you're embarrassed to mention: they tend to be the most useful.",
+          "pronto": "you have 3 industries, each tied to a concrete item from your biography, and none of them fits just anyone."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Filter table open",
+          "min": "15 min",
+          "texto": "Copy the table into a spreadsheet or note. Fill in the first row with the opportunity that attracts you most today, classifying the box and the five criteria.",
+          "pronto": "the table exists, has the box and 5-criteria columns, and the first row is filled in with Y/N in all of them."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick test",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "An acquaintance wants to sell \"AI websites\" to local businesses. Which box does that fall into?",
+          "opcoes": [
+            "Consultant, because it uses AI",
+            "Building, which loses value: it becomes part of a service",
+            "Auditor, because it deals with websites"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Websites have become a cheap commodity: the client can do almost all of it alone. Building doesn't go away, but it becomes a lead magnet for a diagnostic or part of a training service. Using AI doesn't make anything a Consultant service."
+        },
+        {
+          "p": "Two opportunities attract you equally. What decides first?",
+          "opcoes": [
+            "The one that uses the newest technology",
+            "The one with a client who has money and a pain you can measure per month",
+            "The one with the fewest competitors"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "The first two criteria are the client's cash and measurable pain. New technology doesn't pay the bills; little competition can just mean there's no market."
+        },
+        {
+          "p": "Candidate 1 in your table is boring and candidate 4 is fascinating. What do you do?",
+          "opcoes": [
+            "Start with 4: excitement keeps you going",
+            "Start with 1 and use what it earns to fund 4",
+            "Discard both"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Excitement fades by the second month; probability sustains. Choosing the most exciting one instead of the most likely one is the mistake that cancels the filter."
+        },
+        {
+          "p": "What sets the Auditor apart from the Consultant?",
+          "opcoes": [
+            "The Auditor reviews the AI the company already uses and its risks; the Consultant diagnoses where AI delivers results and plans",
+            "The Auditor does pentesting",
+            "There is no difference"
+          ],
+          "certa": 0,
+          "ref": "diagrama",
+          "explica": "The Auditor takes inventory and screens for risks (data, permissions, keys) and does not do pentesting. The Consultant looks at process and results: diagnostic, plan and measurement."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Five boxes",
+          "texto": "Consultant, Auditor, Mentor, Trainer and building that loses value."
+        },
+        {
+          "t": "Building becomes a component",
+          "texto": "It isn't forbidden: it's part of a trust-based service, not the whole service."
+        },
+        {
+          "t": "Five criteria",
+          "texto": "Money, measured pain, unfair advantage, proof in one week and tolerance for repetition."
+        },
+        {
+          "t": "Offer without jargon",
+          "texto": "If the bakery owner understands it, it's an offer. If all that's left is vocabulary, it isn't."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "To go further",
+      "links": [
+        {
+          "t": "Professional 2030 Area: the four programs",
+          "href": "https://eventos.inema.pro/prof2030/#formacoes",
+          "icone": "camadas"
+        },
+        {
+          "t": "AI Consulting Area",
+          "href": "https://eventos.inema.pro/consultoria-ia/",
+          "icone": "seta"
+        }
+      ]
+    }
+  ]
+}

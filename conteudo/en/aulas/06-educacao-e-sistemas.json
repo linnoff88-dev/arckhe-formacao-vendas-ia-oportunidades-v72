@@ -1,0 +1,271 @@
+{
+  "slug": "educacao-e-sistemas",
+  "num": 6,
+  "menu": "20 to 29",
+  "titulo": "Education, community and systems: opportunities 20 to 29",
+  "titulo_curto": "Opportunities 20 to 29",
+  "minutos": 18,
+  "lead": "This group is where the trust roles show up the most. Guides, courses, community and cohorts form the Trainer's ladder. The 90-day program is mentoring. Making the improvised app solid is review. And the large company is closed by training the internal team. The building that's left has lost its price, and the source says so in plain words.",
+  "objetivo": "design the Trainer's ladder and recognize where the Mentor (90 days), the Auditor (improvised app) and the Consultant (large company) come in.",
+  "competencias": [
+    "classificar-oportunidade",
+    "desenhar-escada-de-ensino",
+    "revisar-app-improvisado"
+  ],
+  "aprende": [
+    {
+      "t": "The Trainer's ladder: guide, community, cohort"
+    },
+    {
+      "t": "The 90-day program as mentoring"
+    },
+    {
+      "t": "The improvised app as review work"
+    },
+    {
+      "t": "Getting out of the large company without becoming a hostage"
+    }
+  ],
+  "hero_alt": "A small cohort of adults works in pairs with laptops and printed sheets while the instructor circulates among the tables.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Opportunities 20 to 29 in the filter",
+      "sub": "Seven move up, three are building. Click each box.",
+      "nos": [
+        {
+          "icone": "megafone",
+          "titulo": "Trainer",
+          "sub": "moves up",
+          "forte": true,
+          "itens": [
+            {
+              "icone": "check",
+              "t": "20 · Study guides"
+            },
+            {
+              "icone": "check",
+              "t": "21 · Courses on marketplaces"
+            },
+            {
+              "icone": "check",
+              "t": "22 · Community that turns paid"
+            },
+            {
+              "icone": "check",
+              "t": "23 · Intensive cohorts"
+            }
+          ],
+          "detalhe": "The buyer is someone learning AI who doesn't want to learn alone. In guides and courses, you are the first or the best. In a community, fill it before you charge. In a cohort, each student finishes by delivering something visible."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Mentor",
+          "sub": "moves up",
+          "itens": [
+            {
+              "icone": "check",
+              "t": "24 · 90-day program for owners"
+            }
+          ],
+          "detalhe": "A short program, usually 90 days with one in-person meeting, for owners who want to take back control of their own business. Only for people who have already paid you before. Never as a first product."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Auditor",
+          "sub": "moves up",
+          "itens": [
+            {
+              "icone": "check",
+              "t": "25 · Make the internal app solid"
+            }
+          ],
+          "detalhe": "Many companies built apps in a rush with easy-to-use building tools, and now nobody can touch them without breaking something. You step in to review and make it solid, or to rebuild it properly."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Consultant",
+          "sub": "moves up",
+          "itens": [
+            {
+              "icone": "check",
+              "t": "29 · Systems for large companies"
+            }
+          ],
+          "detalhe": "It starts with a paid discovery in one division, never with the whole company. The door is a talk or workshop for the leadership team. The exit is training the internal team and handing over documented work."
+        },
+        {
+          "icone": "chip",
+          "titulo": "Building",
+          "sub": "loses value",
+          "itens": [
+            {
+              "icone": "x",
+              "t": "26 · Design against generic aesthetics"
+            },
+            {
+              "icone": "x",
+              "t": "27 · Business in a box"
+            },
+            {
+              "icone": "x",
+              "t": "28 · Voice agents"
+            }
+          ],
+          "detalhe": "Voice agents are the clearest example on the list: the price collapsed because even the neighborhood gardener knows the names of the tools. Treat it as a lead magnet. In design, the revenue that lasts is the workshop that teaches the team to keep the standard. The box (27) only after you've won the standard two or three times."
+        }
+      ],
+      "legenda": "In a large company, handing over responsibility clearly is worth more than the monthly fee you give up."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Four rules for this group",
+      "sub": "One per role.",
+      "passos": [
+        {
+          "titulo": "Trainer",
+          "sub": "fill it before you charge",
+          "texto": [
+            "Opening the community with a price leaves you with a few people in an empty space. Bring people in for free, let the activity happen, and only then add paid layers.",
+            "Before creating your own program, go work as an instructor in one that already exists: you see the economics from the inside."
+          ]
+        },
+        {
+          "titulo": "Mentor",
+          "sub": "the ethical ruler",
+          "texto": [
+            "Only charge an amount if you believe you deliver that much in return several times over. The selection filters for the candidate, not just for you: turning away someone who won't get results protects both sides.",
+            "Before you define the format, ask three past clients what would need to be included."
+          ]
+        },
+        {
+          "titulo": "Auditor",
+          "sub": "warm entry",
+          "texto": [
+            "Look for someone who posted about having built an app with an easy tool, and comment with a useful question about what usually breaks later.",
+            "You're not only talking to the person who posted: you're talking to the silent people who read the comments and have the same problem."
+          ]
+        },
+        {
+          "titulo": "Consultant",
+          "sub": "exit without becoming a hostage",
+          "texto": [
+            "Being the eternal person responsible for a large company's system means stepping into an endless queue of internal politics and legal liability.",
+            "Train the internal technology team, hand over documented work, and put in writing what they need to maintain and review."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "The sheet classifies the group. The question opens the conversation about the improvised app.",
+      "blocos": [
+        {
+          "rot": "Classification sheet for a group",
+          "icone": "lista",
+          "conteudo": "CLASSIFICATION SHEET · group <20 to 29> · <date>\n\nFor each opportunity:\n- Dominant verb: teach / diagnose / review what exists / guide those who build / build\n- Box: Trainer / Consultant / Auditor / Mentor / Building\n- If Building: which service does it become part of? ______\n- Sentence from the source that supports the classification: \"______\"\n- Passes the 5 criteria? Y/N Y/N Y/N Y/N Y/N\n\nRule: if you can't find a sentence that supports the box, the classification is a guess."
+        },
+        {
+          "rot": "Comment for someone who posted an improvised app",
+          "icone": "chat",
+          "conteudo": "Congrats on the app. One practical question: when you need to change <a rule / a field / a screen>,\nwho does that today, and what usually breaks along with it?\nI ask because that's the point where quickly built apps get stuck most later on."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Two exercises.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Sheet for group 20 to 29",
+          "min": "25 min",
+          "texto": "Fill in the sheet for all ten opportunities and move the rows into your filter table.",
+          "pronto": "all 10 opportunities have a box, a dominant verb and a sentence that supports the classification; the 3 buildings say which service they become part of."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · A useful question in public",
+          "min": "15 min",
+          "texto": "Find a post by someone who built an app or automation with an easy tool. Adapt the template comment and post it.",
+          "pronto": "the comment is posted, asks a specific question about what breaks later, and doesn't offer any service."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick test",
+      "sub": "4 questions.",
+      "perguntas": [
+        {
+          "p": "You want to open a community about AI. What is the right order?",
+          "opcoes": [
+            "Charge from day one, to filter out who is serious",
+            "Fill it for free, produce visible results, and only then add paid layers",
+            "Start with the high-ticket program"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Someone who arrives and sees an empty space leaves. A full, active community is what makes the paid layer feel worth it."
+        },
+        {
+          "p": "Can the 90-day program for owners be your first product?",
+          "opcoes": [
+            "Yes, it has the highest margin",
+            "No: only for people who have already paid you before",
+            "Yes, if the price is low"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "With no track record, an expensive program destroys your reputation. It is the last step, above those who have already bought from you."
+        },
+        {
+          "p": "Why did the voice agent land in the building box?",
+          "opcoes": [
+            "Because it doesn't work",
+            "Because the price collapsed: the tools became well known and the advantage is gone",
+            "Because it is illegal"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "When everyone knows the tool, building turns into a price fight. It still works as a lead magnet and as proof in a diagnostic."
+        },
+        {
+          "p": "How do you leave a project at a large company without becoming a hostage?",
+          "opcoes": [
+            "Charge a high monthly fee forever",
+            "Train the internal team, hand over documented work, and put in writing what they maintain",
+            "Leave without warning"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Handing over responsibility clearly is the smart way out: it is Trainer and Mentor work at the close of the Consultant's job."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Trainer's ladder",
+          "texto": "Guide, course, community, and class: be first or be better, and fill it before you charge."
+        },
+        {
+          "t": "Mentor at the top",
+          "texto": "Ninety days only for those who have already paid you before."
+        },
+        {
+          "t": "Auditor on the fly",
+          "texto": "The app nobody can touch without breaking it."
+        },
+        {
+          "t": "Clean exit",
+          "texto": "Internal team trained and what they maintain put in writing."
+        }
+      ]
+    }
+  ]
+}

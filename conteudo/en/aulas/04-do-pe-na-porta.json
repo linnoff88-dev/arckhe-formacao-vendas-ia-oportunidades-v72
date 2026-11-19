@@ -1,0 +1,237 @@
+{
+  "slug": "do-pe-na-porta",
+  "num": 4,
+  "menu": "6 to 10",
+  "titulo": "From foot in the door to system: opportunities 6 to 10",
+  "titulo_curto": "Opportunities 6 to 10",
+  "minutos": 16,
+  "lead": "Here the deliverable becomes infrastructure: website, second brain, company system, prototypes and micro-SaaS. Three of them are pure building and have lost value. Two become Mentor work, because the hard part is not assembling: it's getting someone at the company to own what was assembled and getting the handoff to IT done cleanly.",
+  "objetivo": "turn a building (website, prototype) into part of a Mentor or Consultant service and write the empowerment framing.",
+  "competencias": [
+    "classificar-oportunidade",
+    "enquadrar-empoderamento",
+    "inventariar-assinaturas"
+  ],
+  "aprende": [
+    {
+      "t": "Why the website became a lead magnet and not a product"
+    },
+    {
+      "t": "Second brain and company system as mentoring"
+    },
+    {
+      "t": "Sell empowerment, never replacement"
+    },
+    {
+      "t": "Classify subscriptions without overpromising"
+    }
+  ],
+  "hero_alt": "An office manager types on a laptop while the mentor beside them points at a printed flowchart.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Opportunities 6 to 10 in the filter",
+      "sub": "Two rise as mentoring, three are building. Click each box.",
+      "nos": [
+        {
+          "icone": "calendario",
+          "titulo": "Mentor",
+          "sub": "moves up",
+          "forte": true,
+          "itens": [
+            {
+              "icone": "check",
+              "t": "7 · Second brain as a service"
+            },
+            {
+              "icone": "check",
+              "t": "8 · Company operating system"
+            }
+          ],
+          "detalhe": "Assembling is the easy, one-time part. What the client underestimates is keeping it alive after the routine swallows everyone. In the company system, the person who knows everything and never documented it becomes the owner of the system: it's mentoring, not replacement."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Consultant",
+          "sub": "receives parts",
+          "detalhe": "The question that opens the prototypes (9) is a diagnostic one: \"which subscriptions will you renew in the next twelve months, and how much does each one cost?\". Choosing the pilot department, showing the cost of each option, is already consulting."
+        },
+        {
+          "icone": "megafone",
+          "titulo": "Trainer",
+          "sub": "receives the website",
+          "detalhe": "On the website (6), the closing line is \"with or without a deal between us, the website is yours; I'll teach you to publish it\". The teaching is what lasts."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Auditor",
+          "sub": "none in this group",
+          "detalhe": "None of the five is a risk review. Opportunity 25, in lesson 6, is the one that takes on the improvised app nobody can touch without breaking it."
+        },
+        {
+          "icone": "chip",
+          "titulo": "Building",
+          "sub": "loses value",
+          "itens": [
+            {
+              "icone": "x",
+              "t": "6 · Low-ticket websites"
+            },
+            {
+              "icone": "x",
+              "t": "9 · Internal app prototypes"
+            },
+            {
+              "icone": "x",
+              "t": "10 · Micro-SaaS for one company"
+            }
+          ],
+          "detalhe": "The website became a cheap commodity, which is why it works as a lead magnet. In the prototype, the source itself says to include the training and to prefer the paid handoff over endless maintenance. Micro-SaaS is only born after repeated pains, and they come from the diagnostic."
+        }
+      ],
+      "legenda": "When someone in the market advertises \"do X and charge a fortune\", it's a sign that X has already become a commodity."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "The two that rise and the trap",
+      "sub": "Click each tab.",
+      "passos": [
+        {
+          "titulo": "7 · Second brain",
+          "sub": "Mentor",
+          "texto": [
+            "Gather scattered knowledge (people's heads, loose folders, old spreadsheets) into a repository you can query in natural language. For companies with a lot of long-time staff and little documentation.",
+            "The proof that matters is your own: nobody buys organization from someone disorganized. Build yours in public first."
+          ]
+        },
+        {
+          "titulo": "8 · Company system",
+          "sub": "Mentor",
+          "texto": [
+            "Build the layer that makes a department run with AI: procedures, connected tools, owners. To prove value fast, pick the department with the most written procedures; for maximum value, the messiest one."
+          ],
+          "exemplo": {
+            "rot": "The framing",
+            "texto": "It's not about creating a replacement in case this person leaves. It's about them no longer putting out the same fire, becoming the owner of the system and gaining status."
+          }
+        },
+        {
+          "titulo": "Office politics",
+          "sub": "what sinks the project",
+          "texto": [
+            "The employee who knows everything and never documented anything isn't lazy: that is their protection. Show up saying \"let's create a replacement\" and you've made an enemy inside the client.",
+            "Not for people starting from zero: it takes reading office dynamics."
+          ]
+        },
+        {
+          "titulo": "Be honest",
+          "sub": "ethics and limits",
+          "texto": [
+            "On the website, the client will ask about search and ads. Having a good AI tool doesn't make you an expert in that.",
+            "Say you can point out improvements, and hire one or two hours of a real specialist to review. You deliver well and learn along the way."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "The first is the inventory that opens the prototype conversation. The second is the line from the lesson.",
+      "blocos": [
+        {
+          "rot": "Prompt · subscription inventory",
+          "icone": "lista",
+          "conteudo": "You are a pragmatic, skeptical solutions architect. My client is <type of company, number of employees>.\nThese are the software subscriptions he pays for each year:\n<list: generic category, what it is for, how much it costs per year, how many people use it>\n\nDo the following, in this order:\n1. Classify each one as: REPLACEABLE (can be rebuilt custom within 2 weeks),\n   RISKY (rebuilding is possible but expensive to maintain) or DO NOT TOUCH (integration, compliance\n   or volume that doesn't pay off). Justify each classification in one line.\n2. For the REPLACEABLE ones, write the minimum scope that covers 80% of real use and say which 20% is left out.\n3. Say who on the client's team can become the owner of each tool and what I need to teach that person.\n4. List the 3 objections he will raise and the honest answer to each.\nDon't flatter me. If most are DO NOT TOUCH, say so."
+        },
+        {
+          "rot": "Empowerment line (adapt it)",
+          "icone": "caneta",
+          "conteudo": "<Name>, you are the person who knows best how <process> works here.\nThe idea is not to replace you: it's for you to stop dealing with <repeated fire> every week\nand become the owner of the system that does it on its own. I'll work with you until it runs."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Two exercises.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Subscription inventory",
+          "min": "30 min",
+          "texto": "Run the prompt with the subscriptions of a company you know (or your own). Read the classification with suspicion.",
+          "pronto": "the list has at least one subscription marked DO NOT TOUCH and each REPLACEABLE one has a named owner on the team; if everything came out replaceable, redo it."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Your empowerment line",
+          "min": "10 min",
+          "texto": "Adapt the line to a real process in your niche and log opportunities 6 to 10 in the filter table.",
+          "pronto": "the line does not contain \"replace\" as a goal, names the repeated fire, and the 5 rows are in the table."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick test",
+      "sub": "3 questions.",
+      "perguntas": [
+        {
+          "p": "In a company system project, the employee who knows everything resists documenting. What should you do?",
+          "opcoes": [
+            "Explain that the system protects the company in case she leaves",
+            "Frame it as empowerment: she becomes the owner of the system and stops putting out fires",
+            "Document without her"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "That is her protection against being fired. Talking about a replacement creates an enemy; selling empowerment is the only way to get the information that only she has."
+        },
+        {
+          "p": "The client asks whether you handle ads and you don't know the subject well. What's the honest answer?",
+          "opcoes": [
+            "Say yes and learn later",
+            "Point out improvements and hire one or two hours of a specialist to review",
+            "Turn the client down"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Ethics and limits: say what you know and what you don't. Bringing in the specialist keeps quality up and teaches you."
+        },
+        {
+          "p": "Why does the second brain fall in the Mentor box and not in the building box?",
+          "opcoes": [
+            "Because it costs more",
+            "Because the value is in getting the team to keep it alive after it's set up",
+            "Because it uses generative AI"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Setting it up is the easy, one-time part; without maintenance, the brain rots in weeks. Supporting the people who maintain it is Mentor work."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Website is a lead magnet",
+          "texto": "It became a commodity; what lasts is teaching them to publish."
+        },
+        {
+          "t": "Mentor in the system",
+          "texto": "Second brain and company system are worth it for the team that becomes the owner."
+        },
+        {
+          "t": "Empowerment",
+          "texto": "Never replacement: that's how you get the information."
+        },
+        {
+          "t": "Handoff",
+          "texto": "In the prototype, teaching and handing off is worth more than endless maintenance."
+        }
+      ]
+    }
+  ]
+}

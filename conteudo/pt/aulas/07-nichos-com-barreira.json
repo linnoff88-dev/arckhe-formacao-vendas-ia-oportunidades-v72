@@ -1,0 +1,105 @@
+{
+  "slug": "nichos-com-barreira",
+  "num": 7,
+  "menu": "30 a 36",
+  "titulo": "Nichos com barreira: oportunidades 30 a 36",
+  "titulo_curto": "Oportunidades 30 a 36",
+  "minutos": 15,
+  "lead": "As sete deste grupo são construção: reativação de base, finanças, eventos, saúde, licitações, visualização e extração de dados. O que elas têm de comum é a barreira, e a barreira é de confiança: contato que autorizou, aviso dito em letra grande, decisão que não é sua e garantia só com linha de base medida.",
+  "objetivo": "checar autorização dos contatos, avisos, limites e linha de base antes de propor qualquer coisa num nicho com barreira.",
+  "competencias": ["classificar-oportunidade", "checar-barreiras-de-confianca", "medir-linha-de-base"],
+  "aprende": [
+    {"t": "Por que as sete são construção"},
+    {"t": "A peça de confiança que cada uma pede"},
+    {"t": "Vender pesquisa e ferramenta, nunca a decisão"},
+    {"t": "Medir a linha de base antes de prometer"}
+  ],
+  "hero_alt": "Profissional revisa um termo de consentimento impresso e uma lista de verificação com a dona de uma clínica, no balcão da recepção.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "As oportunidades 30 a 36 no filtro",
+      "sub": "Todas são construção. Três delas trazem uma peça de papel de confiança. Clique em cada caixa.",
+      "nos": [
+        {"icone": "chip", "titulo": "Construção", "sub": "as sete", "forte": true,
+         "itens": [{"icone": "x", "t": "30 · Reativação de base parada"}, {"icone": "x", "t": "31 · Mercado financeiro"}, {"icone": "x", "t": "32 · Gestão de eventos"}, {"icone": "x", "t": "33 · Saúde e bem-estar"}, {"icone": "x", "t": "34 · Propostas e licitações"}, {"icone": "x", "t": "35 · Aplicativos de visualização"}, {"icone": "x", "t": "36 · Utilitários de extração"}],
+         "detalhe": "Cada uma é uma entrega construída para um nicho. Finanças e saúde ainda exigem base real na área: \"só entre se você é da área\" e \"os avisos não são detalhe\"."},
+        {"icone": "escudo", "titulo": "Auditor", "sub": "a peça da 30",
+         "detalhe": "Antes de propor reativação, confirme se aqueles contatos autorizaram receber mensagem. Essa checagem de dado e permissão é trabalho de Auditor, e vale para qualquer base de clientes."},
+        {"icone": "lupa", "titulo": "Consultor", "sub": "a peça da 35",
+         "detalhe": "Garantia só com linha de base: quantos fechamentos por semana antes, na mesma época do ano, e quatro semanas com a ferramenta sem mais nada mudando. Medir o antes e o depois é trabalho de Consultor."},
+        {"icone": "megafone", "titulo": "Treinador", "sub": "a peça da 34",
+         "detalhe": "Em licitações, firmas menores costumam preferir instalar uma vez e treinar a equipe. É a opção mais confortável para os dois lados."},
+        {"icone": "calendario", "titulo": "Mentor", "sub": "nenhuma neste grupo",
+         "detalhe": "Nenhuma das sete é acompanhamento de gestor que cria."}
+      ],
+      "legenda": "Barreira não é motivo para fugir do nicho. É o que separa quem tem confiança de quem só tem ferramenta."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "As quatro barreiras",
+      "sub": "Uma pergunta para cada, antes de qualquer proposta.",
+      "passos": [
+        {"titulo": "Autorização", "sub": "reativação (30)",
+         "texto": ["Os contatos antigos autorizaram receber mensagem? Sem isso não há proposta.", "E antes de dizer uma porcentagem, entenda a matemática dele: margem bruta não é margem líquida, e há custo de atender cada venda."]},
+        {"titulo": "A decisão não é sua", "sub": "finanças (31)",
+         "texto": ["Venda ferramenta e pesquisa, nunca recomendação de investimento. Quem vende pesquisa para que outros decidam tem um negócio; quem vende a decisão tem exposição.", "Isto não é orientação jurídica nem financeira: é a fronteira entre produto e risco."]},
+        {"titulo": "Avisos", "sub": "saúde (33)",
+         "texto": ["Se você não é profissional de saúde, isso precisa estar dito em todo lugar, em letra grande: cada pessoa acompanha com o próprio médico, nada ali é orientação clínica."]},
+        {"titulo": "Linha de base", "sub": "visualização (35)",
+         "texto": ["Meça quantos fechamentos por semana havia antes, acompanhe quatro semanas sem mudar mais nada e declare a comparação inteira.", "Prometa número absoluto, não porcentagem: porcentagem é fácil de discutir depois."]}
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "Preencha antes de propor num nicho com barreira.",
+      "blocos": [
+        {"rot": "Checklist de barreira antes de propor", "icone": "escudo",
+         "conteudo": "CHECKLIST DE BARREIRA · <empresa> · <data>\n\n[ ] DADOS: os contatos/dados que vou usar foram autorizados para esse uso? Quem confirmou, por escrito?\n[ ] LIMITE: estou vendendo ferramenta/pesquisa ou estou decidindo pelo cliente? (decidir = fora)\n[ ] AVISOS: preciso de aviso de que não sou profissional da área? Onde ele aparece?\n[ ] MATEMÁTICA: sei a margem líquida e o custo de atender cada venda antes de dizer um número?\n[ ] LINHA DE BASE: qual é o número de antes, em que período, e o que não pode mudar durante a medição?\n[ ] ESPECIALISTA: em que ponto eu chamo alguém habilitado (jurídico, saúde, finanças)?\n\nSe algum item ficou sem resposta, a proposta espera."}
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Prática",
+      "sub": "Dois exercícios.",
+      "exercicios": [
+        {"id": "e1", "titulo": "1 · Checklist num negócio real", "min": "25 min",
+         "texto": "Escolha um negócio que você conhece com base de contatos parada há mais de seis meses (loja, clínica, escola). Preencha o checklist com o que você sabe e marque o que precisa perguntar.",
+         "pronto": "os 6 itens têm resposta ou a pergunta exata que você vai fazer, e o item DADOS diz quem confirma a autorização."},
+        {"id": "e2", "titulo": "2 · Uma linha de base definida", "min": "15 min",
+         "texto": "Para esse negócio, escreva qual número você mediria antes de qualquer promessa e lance 30 a 36 na tabela do filtro.",
+         "pronto": "você tem o indicador, o período \"antes\", a duração do acompanhamento e o que não pode mudar no meio; as 7 linhas estão na tabela."}
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Teste rápido",
+      "sub": "3 perguntas.",
+      "perguntas": [
+        {"p": "Você vai propor reativação de base por comissão. O que precisa saber antes de dizer a porcentagem?",
+         "opcoes": ["Quantos contatos existem", "Se os contatos autorizaram e a estrutura de custos dele: margem bruta, líquida e custo de atender cada venda", "Quanto os concorrentes cobram"],
+         "certa": 1, "ref": "passos",
+         "explica": "Sem autorização não há proposta. E uma comissão que ignora a margem líquida pode deixá-lo sem nada, e o contrato morre cedo."},
+        {"p": "No mercado financeiro, o que você pode vender com segurança?",
+         "opcoes": ["Recomendação de investimento", "Ferramenta e pesquisa para que outros decidam melhor", "Garantia de retorno"],
+         "certa": 1, "ref": "passos",
+         "explica": "Quem vende a decisão assume a exposição. Ferramenta e pesquisa ficam do lado do produto, e só se você é da área."},
+        {"p": "Quando dá para oferecer garantia de resultado numa ferramenta de visualização?",
+         "opcoes": ["Sempre, para fechar mais rápido", "Depois de medir a linha de base e acompanhar quatro semanas sem mudar mais nada", "Nunca"],
+         "certa": 1, "ref": "passos",
+         "explica": "Com o antes medido e a comparação declarada inteira, a garantia é segura. Sem linha de base, é aposta."}
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo",
+      "itens": [
+        {"t": "Sete construções", "texto": "Todas entregam algo construído para um nicho."},
+        {"t": "A barreira é confiança", "texto": "Autorização, limite, aviso e linha de base."},
+        {"t": "Peças de papel", "texto": "Auditor na autorização, Consultor na medição, Treinador na equipe."},
+        {"t": "Especialista no ponto certo", "texto": "Jurídico, saúde e finanças continuam com quem é habilitado."}
+      ]
+    }
+  ]
+}

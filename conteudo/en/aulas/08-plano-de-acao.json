@@ -1,0 +1,350 @@
+{
+  "slug": "plano-de-acao",
+  "num": 8,
+  "menu": "Plan",
+  "titulo": "Audience levers and your 30-day plan",
+  "titulo_curto": "37 to 43 and your plan",
+  "minutos": 18,
+  "lead": "Forty-three opportunities read and none carried out are worth zero. This lesson closes the filter with the last seven and turns the top one in your table into a role and a four-week plan, with closed tasks and goals in numbers.",
+  "objetivo": "choose a role and leave with a dated 30-day plan, with goals in numbers and an objective criterion to continue or switch.",
+  "competencias": [
+    "classificar-oportunidade",
+    "planejar-30-dias",
+    "medir-por-lote"
+  ],
+  "aprende": [
+    {
+      "t": "Where opportunities 37 to 43 land"
+    },
+    {
+      "t": "The four weeks: choose, lead magnet, batch, proposal"
+    },
+    {
+      "t": "Measure by batch, changing one variable at a time"
+    },
+    {
+      "t": "Generate your plan with dates"
+    }
+  ],
+  "hero_alt": "A person plans at a desk with a four-week paper calendar and blank sticky notes, early in the morning.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Opportunities 37 to 43 in the filter",
+      "sub": "Two move up, five are building. Click each box.",
+      "nos": [
+        {
+          "icone": "lupa",
+          "titulo": "Consultant",
+          "sub": "moves up",
+          "itens": [
+            {
+              "icone": "check",
+              "t": "37 · Optimize cold prospecting"
+            }
+          ],
+          "detalhe": "It starts with an operations diagnostic on a real campaign: how many human minutes each contact takes and what can be eliminated. The way in is through community and conversation, not cold messages."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Auditor",
+          "sub": "moves up",
+          "forte": true,
+          "itens": [
+            {
+              "icone": "check",
+              "t": "41 · Review candidate screening"
+            }
+          ],
+          "detalhe": "Screening systems carry known biases, and the way companies configure them often makes this worse. The value is in explaining why each candidate was ranked that way. Demo only with fictional data, never with real résumés of third parties."
+        },
+        {
+          "icone": "megafone",
+          "titulo": "Trainer",
+          "sub": "gets the 40",
+          "detalhe": "The training and simulation platform (40) is the practice run for someone preparing for a decisive moment. For schools and training companies, it comes in as a tool for the class."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Mentor",
+          "sub": "none in this group",
+          "detalhe": "None of the seven is manager coaching. But the course's last tip is about mentoring: it's easier for someone to improve your draft than to answer \"what should I do?\"."
+        },
+        {
+          "icone": "chip",
+          "titulo": "Building",
+          "sub": "loses value",
+          "itens": [
+            {
+              "icone": "x",
+              "t": "38 · Social media management"
+            },
+            {
+              "icone": "x",
+              "t": "39 · Audience unlocking"
+            },
+            {
+              "icone": "x",
+              "t": "40 · Training and simulation"
+            },
+            {
+              "icone": "x",
+              "t": "42 · Job applications"
+            },
+            {
+              "icone": "x",
+              "t": "43 · Supercharged communities"
+            }
+          ],
+          "detalhe": "Anyone can produce generic content in volume, so the value has moved to what doesn't look machine-made. The others build engines and assistants for third parties: building that demands constant maintenance."
+        }
+      ],
+      "legenda": "Final filter score: Consultant 5, Auditor 3, Mentor 3, Trainer 5, building 27."
+    },
+    {
+      "tipo": "mapa",
+      "titulo": "The course map",
+      "sub": "The four weeks of the plan and the lesson each deliverable comes from. Tap an exercise to see its \"done when\".",
+      "degraus": [
+        {
+          "aula": "escolha-o-papel",
+          "icone": "alvo",
+          "quando": "Week 1",
+          "titulo": "Choose and prove",
+          "sub": "role and criteria",
+          "saida": "One role chosen and one free run for a real case.",
+          "passo": "Run the candidates from the table through the five criteria and keep one. Run it once, for free, for someone you know: you need your own proof before any conversation."
+        },
+        {
+          "aula": "portas-de-entrada",
+          "icone": "arquivo",
+          "quando": "Week 2",
+          "titulo": "Lead magnet and list",
+          "sub": "short diagnostic",
+          "saida": "A repeatable 2-to-4-hour lead magnet and a list of 20 companies in the same niche.",
+          "passo": "Turn what you did into a repeatable lead magnet. Build the list of twenty companies and write the five-line message, with no link."
+        },
+        {
+          "aula": "funil-diagnostico",
+          "icone": "relogio",
+          "quando": "Week 3",
+          "titulo": "Batch and conversation",
+          "sub": "15 minutes",
+          "saida": "First batch sent and measured; conversations scheduled.",
+          "passo": "Send to all twenty. Note how many replied and how many booked a conversation. Don't change anything in the middle of the batch: without a closed batch there is no information, only feeling."
+        },
+        {
+          "aula": "plano-de-acao",
+          "icone": "calendario",
+          "quando": "Week 4",
+          "titulo": "Propose and adjust",
+          "sub": "one variable",
+          "saida": "At least one proposal with the timeline and price said out loud.",
+          "passo": "Run the conversations with the script from lesson 2. Change one variable for the next batch and make at least one proposal, with no apology."
+        }
+      ],
+      "resultado": {
+        "titulo": "At the end of the course",
+        "texto": "One role you trust, chosen; one lead magnet tested in a batch; and one proposal made.",
+        "total": "17 exercises"
+      },
+      "rolagem_fim": {
+        "titulo": "The whole cycle",
+        "texto": "Filter, lead magnet, conversation and proposal. Lessons 4 to 7 go into the plan generated below, with the full table of the 43."
+      },
+      "legenda": "A batch is closed: change only one variable between one batch and the next. Only after three batches can you say \"it doesn't work\"."
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Template to copy",
+      "sub": "The written plan with goals in numbers.",
+      "blocos": [
+        {
+          "rot": "Prompt · your 30-day plan",
+          "icone": "calendario",
+          "conteudo": "You are my project manager and you are tough on me. I am going to run ONE service over the next 4 weeks.\nChosen role: <consultant, auditor, mentor or trainer>\nService: <what I deliver, e.g.: short diagnostic + roadmap>\nMy context: I have <hours per week> free, <available cash>, and I know how to do <skills>.\nTarget niche: <sector and focus, e.g.: dental clinics with 2 offices in my city>\n\nBuild:\n1. The tasks for each week, at most 3 per week, each one fitting my real time.\n2. The numeric goals for each week (lead magnets produced, contacts, conversations).\n3. What I must have DONE on day 30 to say it was worth it, in facts, not in feeling.\n4. The 3 signs that I chose wrong and should switch on day 30, each one checkable with a number.\n5. The 5 most likely excuses I will use to avoid doing it, and the answer to each one.\nNo \"stay committed\". I want tasks with a verb, a number and a day."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "The two exercises that close the course.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Written 30-day plan",
+          "min": "30 min",
+          "texto": "Finish the table of the 43, sort it by number of \"yes\", and run the prompt for the first one.",
+          "pronto": "no week has more than 3 tasks, every goal has a number, and the 3 switch signs can be checked with a number (not \"I didn't like the process\")."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Plan with dates and a revised draft",
+          "min": "20 min",
+          "texto": "Generate the plan below with your start date. Write the draft of your offer, even a bad one, and take it to someone to look at.",
+          "pronto": "the plan's .md file is saved, the .ics is in your calendar, and one person has given back at least one comment on the draft."
+        }
+      ]
+    },
+    {
+      "tipo": "gerador",
+      "titulo": "Generate your plan with dates",
+      "sub": "Choose the start date and how much time you have per week. The plan includes the 17 exercises in the course.",
+      "curso": "Selling with AI 1 · 43 Opportunities",
+      "horas_padrao": 5,
+      "degraus": [
+        {
+          "titulo": "Lesson 1 · The filter",
+          "aula": "escolha-o-papel"
+        },
+        {
+          "titulo": "Lesson 2 · Funnel and the 15-minute conversation",
+          "aula": "funil-diagnostico"
+        },
+        {
+          "titulo": "Lesson 3 · Opportunities 1 to 5",
+          "aula": "portas-de-entrada"
+        },
+        {
+          "titulo": "Lesson 4 · Opportunities 6 to 10",
+          "aula": "do-pe-na-porta"
+        },
+        {
+          "titulo": "Lesson 5 · Opportunities 11 to 19",
+          "aula": "produto-e-posicao"
+        },
+        {
+          "titulo": "Lesson 6 · Opportunities 20 to 29",
+          "aula": "educacao-e-sistemas"
+        },
+        {
+          "titulo": "Lesson 7 · Opportunities 30 to 36",
+          "aula": "nichos-com-barreira"
+        },
+        {
+          "titulo": "Lesson 8 · 37 to 43 and the plan",
+          "aula": "plano-de-acao"
+        }
+      ],
+      "txt": {
+        "titulo": "Plan — Selling with AI 1 · 43 Opportunities",
+        "inicio": "Start",
+        "ritmo": "Pace",
+        "termino": "Expected finish",
+        "ate": "by",
+        "pronto": "done when",
+        "semanas": "weeks",
+        "travou": "## What got stuck and the rule I created",
+        "h": "h per week",
+        "exs": "exercises"
+      }
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Final test",
+      "sub": "4 questions about the whole course.",
+      "perguntas": [
+        {
+          "p": "Week 3 ended and nobody replied. What should you do?",
+          "opcoes": [
+            "Switch opportunities: this one doesn't work",
+            "Change one variable only and run the next batch",
+            "Send the same message to two hundred contacts"
+          ],
+          "certa": 1,
+          "ref": "mapa",
+          "cert": true,
+          "explica": "One batch decides nothing. Change one variable (subject line, opening, audience, format) and run again; only after three batches can you draw a conclusion."
+        },
+        {
+          "p": "Which of the five boxes has the most opportunities among the 43?",
+          "opcoes": [
+            "Consultant",
+            "Building that loses value",
+            "Trainer"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "That's 27 buildings against 16 trust roles. Building doesn't go away: it becomes a piece of a diagnostic, a review, ongoing support or teaching."
+        },
+        {
+          "p": "You build websites fast with AI. How do you turn that into a trusted service?",
+          "opcoes": [
+            "Lower the price to win volume",
+            "Use the website as a lead magnet for a diagnostic and teach the owner to publish and maintain it",
+            "Promise sales results"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "cert": true,
+          "explica": "The website became a commodity. As a lead magnet, it opens the diagnostic conversation; teaching how to maintain it is what lasts. Lowering the price means competing with everyone; promising sales without a baseline is a gamble."
+        },
+        {
+          "p": "What is the AI Auditor not?",
+          "opcoes": [
+            "Someone who takes inventory of what the company uses",
+            "Pentest, incident response or legal opinion",
+            "Someone who evaluates permissions and data"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "The Auditor does AI risk assessment and triage: inventory, permissions, data and a report with a 30-day plan. Pentest, incident response and legal opinion remain with qualified professionals."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "The course in four sentences",
+      "itens": [
+        {
+          "t": "Five boxes",
+          "texto": "Four trust roles and the building that loses value."
+        },
+        {
+          "t": "Building becomes a component",
+          "texto": "Website, store and scheduling go into a diagnostic, a review, ongoing support or a lesson."
+        },
+        {
+          "t": "One choice, four weeks",
+          "texto": "One role, one lead magnet, one closed batch and one proposal said out loud."
+        },
+        {
+          "t": "Depth",
+          "texto": "Two or three clients served in depth are worth more than five shallow ones."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Keep going here",
+      "links": [
+        {
+          "t": "Course 3 · Fundamentals (next in the suggested order)",
+          "href": "https://inematds.github.io/formacao-vendas-ia-fundamentos-v72/",
+          "icone": "seta"
+        },
+        {
+          "t": "Course 2 · Consulting Playbook (pricing ladder)",
+          "href": "https://inematds.github.io/formacao-vendas-ia-consultoria-v72/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Course 4 · From Zero to First Client (tracks by service)",
+          "href": "https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/",
+          "icone": "escudo"
+        },
+        {
+          "t": "Professional 2030 Area: the four programs",
+          "href": "https://eventos.inema.pro/prof2030/#formacoes",
+          "icone": "camadas"
+        },
+        {
+          "t": "Lab: Horizonte Distribuidora (fictional company)",
+          "href": "https://inematds.github.io/prof2030-lab/",
+          "icone": "pasta"
+        }
+      ]
+    }
+  ]
+}

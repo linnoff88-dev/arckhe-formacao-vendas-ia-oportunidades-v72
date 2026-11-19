@@ -1,0 +1,231 @@
+{
+  "slug": "portas-de-entrada",
+  "num": 3,
+  "menu": "1 a 5",
+  "titulo": "Las puertas de entrada: oportunidades 1 a 5",
+  "titulo_curto": "Oportunidades 1 a 5",
+  "minutos": 16,
+  "lead": "Las 43 parecen 43 negocios. En la práctica son tres verbos en combinaciones diferentes: enseñar, diagnosticar y entregar la cosa construida. Las cinco puertas de entrada muestran el giro completo: capacitación, hoja de ruta y diagnóstico suben; tienda y agendamiento pasaron a ser pieza de un servicio mayor.",
+  "objetivo": "separar las puertas que suben (enseñar, hoja de ruta, diagnóstico) de las construcciones y armar un diagnóstico corto de tres ganancias.",
+  "competencias": [
+    "clasificar-oportunidad",
+    "montar-diagnostico-curto",
+    "vender-julgamento"
+  ],
+  "aprende": [
+    {
+      "t": "Los tres verbos detrás de las 43"
+    },
+    {
+      "t": "Por qué la capacitación y la hoja de ruta suben"
+    },
+    {
+      "t": "Levantar un diagnóstico sin ningún acceso"
+    },
+    {
+      "t": "Dónde entran ahora la tienda y el agendamiento"
+    }
+  ],
+  "hero_alt": "Un instructor enseña a un pequeño equipo de oficina alrededor de una mesa con laptops abiertas.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Las oportunidades 1 a 5 en el filtro",
+      "sub": "Tres suben, dos pasan a ser pieza. Haz clic en cada caja.",
+      "nos": [
+        {
+          "icone": "megafone",
+          "titulo": "Formador",
+          "sub": "sube",
+          "itens": [
+            {
+              "icone": "check",
+              "t": "1 · Capacitaciones de IA para equipos"
+            }
+          ],
+          "detalhe": "La oportunidad más estable de la lista: la herramienta cambia cada trimestre y alguien tiene que traducirla para el equipo. No es una charla sobre el futuro, es \"este informe de tu martes sale en diez minutos\"."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Consultor",
+          "sub": "sube",
+          "forte": true,
+          "itens": [
+            {
+              "icone": "check",
+              "t": "2 · Hojas de ruta de IA"
+            },
+            {
+              "icone": "check",
+              "t": "3 · Diagnósticos de IA"
+            }
+          ],
+          "detalhe": "La hoja de ruta vende criterio y orden: la herramienta de IA le da la razón a quien pregunta y no prioriza por sí sola. El diagnóstico corto se volvió el mejor imán de clientes de la lista; el dinero está en la pregunta siguiente: \"¿en qué orden resuelvo esto?\"."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Auditor",
+          "sub": "ninguna en este grupo",
+          "detalhe": "Ninguna de las cinco es revisión de riesgo. Pero un ítem de la oportunidad 2 sí lo es: empresas que tienen un plan hecho por IA y necesitan a alguien que lo audite."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Mentor",
+          "sub": "se queda con la tienda",
+          "detalhe": "La tienda virtual (4) era un proyecto de meses y hoy es un fin de semana de armado. Lo difícil sigue siendo el producto y el gusto. En vez de armarla por el dueño, acompáñalo mientras la arma."
+        },
+        {
+          "icone": "chip",
+          "titulo": "Construcción",
+          "sub": "se vuelve pieza",
+          "itens": [
+            {
+              "icone": "x",
+              "t": "4 · Tienda virtual construida con IA"
+            },
+            {
+              "icone": "x",
+              "t": "5 · Agendamiento automático"
+            }
+          ],
+          "detalhe": "En el agendamiento (5) la decisión es sobre el reloj: muchas ventas mueren entre que alguien escribe y alguien responde. Medir ese tiempo es diagnóstico; el robot es solo un ítem del plan."
+        }
+      ],
+      "legenda": "Mapa de los verbos de la fuente: enseñar (1, 20, 21, 23), diagnosticar (2, 3, 17, 37), entregar (4, 5, 9, 10). Cuantos más verbos juntos, mayor la barrera."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Las tres que suben",
+      "sub": "Qué es, para quién y el primer paso de esta semana.",
+      "passos": [
+        {
+          "titulo": "1 · Capacitaciones",
+          "sub": "Formador",
+          "texto": [
+            "Tú enseñas al equipo a usar IA en su trabajo concreto: charla de apertura, taller práctico o formación de los instructores internos. Para empresas medianas con mucho proceso manual y equipos que ya usan IA mal y lo saben.",
+            "Primer paso: grábate resolviendo una tarea aburrida de tu día con IA, sin cortes bonitos, y publícalo. Después ofrece una sesión gratuita de 45 minutos a una empresa conocida."
+          ],
+          "exemplo": {
+            "rot": "Prueba honesta",
+            "texto": "Grábate enseñando. Si terminas las frases con \"¿tiene sentido?\" y con el tono subiendo, todavía no entiendes lo suficiente para enseñar."
+          }
+        },
+        {
+          "titulo": "2 · Hojas de ruta",
+          "sub": "Consultor",
+          "texto": [
+            "Un plan con orden, plazo y responsable para 30, 60, 90 y 180 días, hecho a partir de entrevistas, del trabajo real y del inventario de las herramientas que la empresa ya paga. Entrégalo como sesión de trabajo, nunca como archivo por correo.",
+            "Revisión trimestral: el mercado cambia y el plan envejece. Es acompañamiento, no construcción."
+          ],
+          "exemplo": {
+            "rot": "La objeción",
+            "texto": "\"La IA me conoce mejor que tú.\" Respuesta honesta: ella le da la razón a quien pregunta y no prioriza si nadie se lo pide. Yo vendo criterio y orden."
+          }
+        },
+        {
+          "titulo": "3 · Diagnósticos",
+          "sub": "Consultor",
+          "texto": [
+            "Mirar el negocio desde afuera y señalar dónde se escapan tiempo y dinero. La versión que mejor funciona es la corta y gratuita: tres mejoras obvias, entregadas sin pedir nada a cambio.",
+            "Se puede reunir material sin contraseña: los sistemas que usa el sitio, las reseñas públicas y lo obvio que no se hizo (sin forma de agendar, sin respuesta fuera del horario)."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "Úsalo con lo que realmente observaste. Nada inventado.",
+      "blocos": [
+        {
+          "rot": "Prompt · diagnóstico corto de un negocio real",
+          "icone": "lupa",
+          "conteudo": "Eres un consultor de operaciones. Te voy a dar lo que pude observar públicamente sobre una empresa.\nNo inventes datos: cuando falte información, escribe \"no observable\" y di cómo lo confirmaría.\n\nEmpresa: <segmento y ciudad>\nLo que observé: <lo que el sitio tiene y no tiene; cómo responden; de qué se quejan los clientes en las reseñas;\nlo que muestra la presencia pública; cuántos empleados parecen tener>\n\nEntrega:\n1. Las TRES fugas más caras que estas señales sugieren, cada una con la estimación de cuánto puede costar\n   por mes y la cuenta que sustenta la estimación.\n2. Para cada fuga, la corrección más simple posible, la que se pueda mostrar funcionando en una semana.\n3. Un mensaje de 5 líneas que yo envío junto con el diagnóstico, sin enlace y sin pedir nada a cambio.\n4. La pregunta que probablemente hará después de leer, para que yo llegue con la respuesta lista."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Este es el imán de clientes que vas a usar en el plan de 30 días.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Diagnóstico corto de una empresa real",
+          "min": "45 min",
+          "texto": "Elige un nicho local, haz una lista de diez empresas bien valoradas y ejecuta el diagnóstico corto para una de ellas con lo que observaste.",
+          "pronto": "el diagnóstico tiene 3 fugas y cada una cita una señal observable que realmente viste; ninguna es \"probablemente tienen problemas de integración\"."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Clasifica las cinco en tu tabla",
+          "min": "10 min",
+          "texto": "Anota las oportunidades 1 a 5 en la tabla del filtro, con la caja y los cinco criterios. Para 4 y 5, escribe de qué servicio se vuelven parte.",
+          "pronto": "las 5 filas están en la tabla, con S/N en los 5 criterios, y las filas 4 y 5 dicen de qué rol se vuelven pieza."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "3 preguntas.",
+      "perguntas": [
+        {
+          "p": "El cliente dice que ya hizo un plan de IA conversando con una herramienta. ¿Qué ofrece la hoja de ruta que ella no ofrece?",
+          "opcoes": [
+            "Más texto",
+            "Criterio y orden: priorizar y decir qué va primero",
+            "Una herramienta más nueva"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "La herramienta devuelve la opinión del propio usuario con mejor ropa. La hoja de ruta vende prioridad, plazo y responsable. Más texto o una herramienta nueva no resuelven eso."
+        },
+        {
+          "p": "¿Por qué el agendamiento automático cayó en la caja de la construcción?",
+          "opcoes": [
+            "Porque no funciona",
+            "Porque armarlo se volvió fácil; el valor está en medir el tiempo de respuesta y decidir en el diagnóstico",
+            "Porque está prohibido"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "El dolor (venta que se enfría en minutos) es real y medible. Pero el robot en sí se volvió una pieza barata: quien mide y prioriza es el Consultor."
+        },
+        {
+          "p": "Una fuga de tu diagnóstico dice \"probablemente tienen problemas de integración\", sin señal observada. ¿Qué haces?",
+          "opcoes": [
+            "Enviarlo así de todos modos",
+            "Cortar o confirmar: un diagnóstico sin señal observable es una corazonada y quema el contacto",
+            "Cambiarlo por un número más grande"
+          ],
+          "certa": 1,
+          "ref": "codigo",
+          "explica": "Cada fuga necesita una señal que tú hayas visto. Una corazonada enviada en frío quema el contacto para siempre."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "La formación es lo más estable",
+          "texto": "La herramienta cambia y alguien tiene que traducir."
+        },
+        {
+          "t": "La hoja de ruta vende criterio",
+          "texto": "La IA le da la razón a quien pregunta; no prioriza por sí sola."
+        },
+        {
+          "t": "El diagnóstico se volvió imán de clientes",
+          "texto": "Gratuito, específico y repetible para veinte empresas del mismo nicho."
+        },
+        {
+          "t": "La tienda y la agenda se vuelven una pieza",
+          "texto": "El Mentor acompaña al dueño; el Consultor mide el reloj."
+        }
+      ]
+    }
+  ]
+}

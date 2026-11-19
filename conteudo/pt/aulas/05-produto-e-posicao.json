@@ -1,0 +1,107 @@
+{
+  "slug": "produto-e-posicao",
+  "num": 5,
+  "menu": "11 a 19",
+  "titulo": "Produto, conteúdo e posição: oportunidades 11 a 19",
+  "titulo_curto": "Oportunidades 11 a 19",
+  "minutos": 17,
+  "lead": "Este é o grupo com mais construção da lista: programas prontos, criativos, canais sem rosto, funis. A ferramenta é a mesma para todo mundo, então quem só produz disputa preço. Duas oportunidades sobem, e não por técnica: por posição. Ser o responsável fracionado pelo plano e entrar para arrumar o que já existe.",
+  "objetivo": "reconhecer as construções saturadas e escolher uma posição de confiança: responsável fracionado pelo plano ou especialista em reforma.",
+  "competencias": ["classificar-oportunidade", "posicionar-servico-de-confianca", "analisar-funil-como-diagnostico"],
+  "aprende": [
+    {"t": "Onde a construção está saturada"},
+    {"t": "O responsável de IA fracionado como acompanhamento"},
+    {"t": "A reforma de IA como inventário e antes e depois"},
+    {"t": "Analisar um funil como isca de diagnóstico"}
+  ],
+  "hero_alt": "Consultor experiente percorre com o dono o depósito bagunçado de uma pequena empresa, com prancheta na mão.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "As oportunidades 11 a 19 no filtro",
+      "sub": "Duas sobem por posição, sete são construção. Clique em cada caixa.",
+      "nos": [
+        {"icone": "lupa", "titulo": "Consultor", "sub": "sobe",
+         "itens": [{"icone": "check", "t": "16 · Diretor de IA fracionado"}],
+         "detalhe": "Você é o responsável por IA de uma empresa alguns dias por mês. Para quem já recebeu de você um diagnóstico ou mapa de rota: o plano precisa de dono. A empresa não abre vaga nem paga encargos para ter alguém cuidando do assunto."},
+        {"icone": "escudo", "titulo": "Auditor", "sub": "sobe", "forte": true,
+         "itens": [{"icone": "check", "t": "17 · Especialista em reforma de IA"}],
+         "detalhe": "Para empresas que já tentaram IA sozinhas e ficaram com instruções bagunçadas e ferramentas soltas: ninguém sabe o que roda. Você pede o tour, anota o que está quebrado e devolve um antes e depois."},
+        {"icone": "calendario", "titulo": "Mentor", "sub": "nenhuma neste grupo",
+         "detalhe": "Nenhuma das nove é acompanhamento de gestor. O programa de 90 dias aparece na aula 6 (oportunidade 24)."},
+        {"icone": "megafone", "titulo": "Treinador", "sub": "nenhuma neste grupo",
+         "detalhe": "Nenhuma das nove é ensino. A escada do Treinador está na aula 6 (20 a 23)."},
+        {"icone": "chip", "titulo": "Construção", "sub": "perde valor",
+         "itens": [{"icone": "x", "t": "11 · SaaS pronto"}, {"icone": "x", "t": "12 · Agência de criativos"}, {"icone": "x", "t": "13 · Canal sem rosto"}, {"icone": "x", "t": "14 · App sem rosto"}, {"icone": "x", "t": "15 · Leads"}, {"icone": "x", "t": "18 · Instalações locais"}, {"icone": "x", "t": "19 · Funis prontos"}],
+         "detalhe": "A agência de criativos é a mais saturada da lista. Canal e app sem rosto vendem atenção, não serviço a empresa. Três viram peça: leads (15) começa por um diagnóstico de qualificação com os números de hoje; a instalação local (18) se vende pela pergunta \"para onde vai o dado?\", que é de Auditor; e a análise de funil (19) é diagnóstico-isca."}
+      ],
+      "legenda": "A ferramenta é igual para todos. O que separa é gosto, posição ou confiança."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "As duas posições que sobem",
+      "sub": "E o cuidado que vem junto.",
+      "passos": [
+        {"titulo": "16 · Fracionado", "sub": "Consultor, acompanhamento mensal",
+         "texto": ["Você divide a semana entre algumas empresas e responde pelo plano de IA de cada uma. Bônus por marco entregue (\"sistema de triagem no ar até o trimestre\") alinha o seu trabalho ao resultado.", "Primeiro passo: procure vagas abertas de liderança em IA e escreva que você não quer o emprego; quer resolver o problema sem encargos, começando na semana seguinte."]},
+        {"titulo": "17 · Reforma", "sub": "Auditor",
+         "texto": ["O formato dos programas de reforma de casa, aplicado a operações: tour, lista do que está quebrado, antes e depois em algumas semanas. Quase ninguém se apresenta assim, então a pergunta \"o que é um especialista em reforma?\" já abre a conversa.", "Diagnóstico pago primeiro, abatido do valor da reforma. Uma alavanca só por vez, com antes e depois medido."]},
+        {"titulo": "Garantia", "sub": "com cuidado",
+         "texto": ["\"Se em 90 dias você não estiver satisfeito, não paga\" fecha contrato e quebra quem depende daquele dinheiro. Só ofereça garantia total com caixa para honrar e histórico para prever o resultado.", "Antes disso, prefira uma garantia parcial e específica."]},
+        {"titulo": "Gosto", "sub": "o filtro dos criativos",
+         "texto": ["Empresas pequenas acham qualquer imagem gerada impressionante e não veem o texto malfeito na peça. Quem tem repertório visual vê, e é isso que se vende. Sem repertório, é disputa de preço."]}
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "A análise de funil é diagnóstico: mostra onde a empresa perde gente, antes de qualquer construção.",
+      "blocos": [
+        {"rot": "Prompt · análise de funil alheio", "icone": "lupa",
+         "conteudo": "Você é um especialista em conversão, direto e sem elogios. Vou descrever o funil público de uma empresa.\n\nO que eu observei: <o que a página inicial promete; onde está o botão de ação e o que ele diz;\nquantos campos tem o formulário; que mensagens chegam depois; que prova social existe; o que a\noferta pede que a pessoa faça em seguida>\n\nEntregue:\n1. Os 5 pontos onde essa empresa está perdendo gente, em ORDEM de quanto custa cada um.\n2. Para cada ponto, a correção específica: não \"melhore a copy\", e sim a frase exata que entra no lugar.\n3. Uma estimativa honesta de ganho por correção, com a faixa e a incerteza declarada.\n4. O que eu NÃO sei sem dados internos, e que pergunta faço para descobrir."}
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Prática",
+      "sub": "Dois exercícios.",
+      "exercicios": [
+        {"id": "e1", "titulo": "1 · Análise de funil", "min": "30 min",
+         "texto": "Escolha uma empresa do seu nicho com funil público e rode a análise com o que você observou.",
+         "pronto": "você tem 5 pontos em ordem de custo, cada um com a frase exata que entra no lugar, e a lista do que não dá para saber sem dado interno."},
+        {"id": "e2", "titulo": "2 · Antes e depois declarado", "min": "20 min",
+         "texto": "Escreva um antes e depois da operação de uma empresa fictícia porém realista, no formato da reforma: o tour, o que está quebrado, o que muda. Lance 11 a 19 na tabela do filtro.",
+         "pronto": "o texto diz em letras claras que é hipotético, tem no máximo uma alavanca, e as 9 linhas estão na tabela."}
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Teste rápido",
+      "sub": "3 perguntas.",
+      "perguntas": [
+        {"p": "Qual é o pré-requisito real de uma agência de criativos com IA?",
+         "opcoes": ["Ter as ferramentas de geração mais caras", "Repertório visual: ver que algo ficou genérico", "Formação em design"],
+         "certa": 1, "ref": "passos",
+         "explica": "A ferramenta é igual para todo mundo. O que separa é perceber o que ficou genérico; sem isso, é disputa de preço numa caixa já saturada."},
+        {"p": "Por que a reforma de IA cai na caixa do Auditor?",
+         "opcoes": ["Porque constrói um sistema novo", "Porque começa revisando o que a empresa já tem e ninguém sabe o que roda", "Porque faz pentest"],
+         "certa": 1, "ref": "diagrama",
+         "explica": "É inventário do que existe e do que está quebrado, com antes e depois. Revisar o que já existe é o trabalho do Auditor, que não é pentest."},
+        {"p": "Você está começando e sem reserva. Que garantia oferecer na reforma?",
+         "opcoes": ["Garantia total de 90 dias", "Uma garantia parcial e específica", "Nenhuma, nunca"],
+         "certa": 1, "ref": "passos",
+         "explica": "Garantia total exige caixa para honrar e histórico para prever. Antes disso, a parcial e específica protege os dois lados."}
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo",
+      "itens": [
+        {"t": "Construção saturada", "texto": "Criativos, SaaS, canais e funis: a ferramenta é igual para todos."},
+        {"t": "Posição vale mais", "texto": "O fracionado é dono do plano; a reforma revisa o que já existe."},
+        {"t": "Funil vira diagnóstico", "texto": "Analisar onde a empresa perde gente é isca, antes de construir."},
+        {"t": "Garantia com caixa", "texto": "Total só com histórico; antes, parcial e específica."}
+      ]
+    }
+  ]
+}

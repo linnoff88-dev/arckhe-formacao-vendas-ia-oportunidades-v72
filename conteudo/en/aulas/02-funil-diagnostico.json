@@ -1,0 +1,355 @@
+{
+  "slug": "funil-diagnostico",
+  "num": 2,
+  "menu": "Funnel",
+  "titulo": "The trust funnel and the 15-minute conversation",
+  "titulo_curto": "Funnel and 15-min conversation",
+  "minutos": 18,
+  "lead": "Nobody buys on the first sentence. Between \"this person exists\" and \"this person is going to get my money\" there are small steps, and each one is a separate sale. In the 43 Opportunities the path is the same: proof, lead magnet, conversation, diagnostic and follow-up. The piece that decides everything is the 15-minute conversation.",
+  "objetivo": "run the 15-minute diagnostic conversation and propose the next paid step without selling building before its time.",
+  "competencias": [
+    "conduzir-conversa-de-diagnostico",
+    "quantificar-a-dor",
+    "separar-diagnostico-de-mapa-de-rota"
+  ],
+  "aprende": [
+    {
+      "t": "The five funnel steps that appear in all 43"
+    },
+    {
+      "t": "Why a good lead magnet is finished work"
+    },
+    {
+      "t": "The script for the 15-minute conversation"
+    },
+    {
+      "t": "Diagnostic and roadmap: two different services"
+    }
+  ],
+  "hero_alt": "A consultant on a video call with the owner of a distributor, taking handwritten notes in a notebook, with a small timer on the desk.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The trust funnel",
+      "sub": "Five steps. Only the last two involve payment. Click each one.",
+      "nos": [
+        {
+          "icone": "megafone",
+          "titulo": "Public proof",
+          "sub": "costs only time",
+          "detalhe": "You show real work in public: a task solved from start to finish, a sample diagnostic, a before and after. This is what makes a stranger recognize you later."
+        },
+        {
+          "icone": "arquivo",
+          "titulo": "Lead magnet",
+          "sub": "value before billing",
+          "detalhe": "Finished work, specific to that business, with their name and data visible, delivered with no strings attached. It has to be genuinely good: if the free piece is bad, people assume the paid one is worse. It usually takes two to four hours of your time."
+        },
+        {
+          "icone": "relogio",
+          "titulo": "15-minute conversation",
+          "sub": "is there a fit?",
+          "forte": true,
+          "detalhe": "One goal: find out whether it makes sense to work together. Frame it, narrow the pain to one sentence, quantify it, propose the paid next step and end on time."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Diagnostic and roadmap",
+          "sub": "the money changes hands",
+          "detalhe": "The diagnostic identifies what exists today and where time and revenue leak. The roadmap solves it: what to do, in what order, at 30, 60, 90 and 180 days. The first opens the door; the second is where the value is."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Follow-up",
+          "sub": "the door stays open",
+          "detalhe": "Ongoing team training, quarterly review with a short report, mentoring. It matters less for its price and more for the reason to keep talking: the next project comes out of conversation."
+        }
+      ],
+      "legenda": "The first three steps bill nothing, and they are what make the last two exist."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "The 15-minute script",
+      "sub": "Five moves. The time for each is in parentheses.",
+      "passos": [
+        {
+          "titulo": "Frame",
+          "sub": "30 seconds",
+          "texto": [
+            "State the rule of the conversation right at the start. It takes the pressure off both sides."
+          ],
+          "exemplo": {
+            "rot": "Line",
+            "texto": "We have 15 minutes to see if it makes sense to work together. If it doesn't, I'll tell you right then."
+          }
+        },
+        {
+          "titulo": "Narrow it down",
+          "sub": "5 minutes",
+          "texto": [
+            "The classic mistake is opening with \"how do you think about using AI?\" and getting five minutes of venting, much of it complaints. The tool is the one-sentence constraint."
+          ],
+          "exemplo": {
+            "rot": "Line",
+            "texto": "In just one sentence: what is the problem we're trying to solve?"
+          }
+        },
+        {
+          "titulo": "Quantify",
+          "sub": "5 minutes",
+          "texto": [
+            "How many times a week it happens, how much time it takes, how much revenue doesn't come in. Each question is answered with a number, not an opinion."
+          ]
+        },
+        {
+          "titulo": "Propose and close",
+          "sub": "3 minutes + time",
+          "texto": [
+            "Propose the paid diagnostic with the deadline and price said out loud, no beating around the bush. Finishing before the agreed time signals more competence than stretching it to an hour.",
+            "The stance is calm indifference: you lead like someone who has other commitments. It's not arrogance, it's structure."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "simconversa",
+      "titulo": "Simulated conversation: the distributor's owner",
+      "sub": "A fictional conversation to practice, with the company from the Professional 2030 lab. Choose the answer you would give; the comment appears right after.",
+      "personagem": {
+        "nome": "Carlos, owner of Horizonte Distribuidora",
+        "papel": "fictional company · 40 people · decides alone"
+      },
+      "inicio": "abre",
+      "falas": {
+        "abre": {
+          "cliente": "The WhatsApp agent sells at night and doesn't ask for commission. Now I want one just like it for collections. How much do you charge to build it?",
+          "opcoes": [
+            {
+              "t": "I'll build the collections agent with the same model as the sales one. I'll send you the price today.",
+              "vai": "fim-construcao",
+              "nota": 0,
+              "comenta": "You sold the building before knowing whether the first one delivered results. It turned into a price fight with anyone who can build an agent."
+            },
+            {
+              "t": "We have 15 minutes to see if it makes sense to work together. If it doesn't, I'll tell you right then. Is that okay?",
+              "vai": "restringe",
+              "nota": 3,
+              "comenta": "Frame it in 30 seconds. You took the conversation off price and took the lead."
+            },
+            {
+              "t": "Tell me: how do you use AI in the company today?",
+              "vai": "desabafo",
+              "nota": 1,
+              "comenta": "Too open a question. It usually yields five minutes of venting and little useful information."
+            }
+          ]
+        },
+        "desabafo": {
+          "cliente": "Ah, there's the orders app Rafael made, Patrícia's spreadsheet, the support summary… and the team complains about everything. The email is a mess too.",
+          "opcoes": [
+            {
+              "t": "Got it. In just one sentence: what is the problem we're trying to solve today?",
+              "vai": "restringe",
+              "nota": 1,
+              "comenta": "One-sentence constraint: you took the conversation back. He'll use three, and that's fine: three, not three hundred. But five minutes are already gone."
+            },
+            {
+              "t": "Go on, I want to hear everything.",
+              "vai": "fim-tempo",
+              "nota": 0,
+              "comenta": "Listening is good, but without direction the time runs out and you leave with no number and no next step."
+            }
+          ]
+        },
+        "restringe": {
+          "cliente": "In one sentence? I want to know if the agent is worth what it costs before putting another one on collections.",
+          "opcoes": [
+            {
+              "t": "Per week: how many conversations does the agent handle and how many become orders? And how was it before it?",
+              "vai": "quantifica",
+              "nota": 3,
+              "comenta": "Questions that ask for a number and a frequency. The last one asks for the baseline, the \"before.\""
+            },
+            {
+              "t": "Sure, absolutely. AI always pays off.",
+              "vai": "fim-construcao",
+              "nota": 0,
+              "comenta": "You answered with an opinion to a question that asks for a measurement. Anyone who guarantees results without measuring loses trust at the first bad number."
+            }
+          ]
+        },
+        "quantifica": {
+          "cliente": "The dashboard shows the conversations per week. Now, how many turned into orders and what it was like before… nobody knows.",
+          "opcoes": [
+            {
+              "t": "So the first step is a diagnostic: measure the before and after of the agent and deliver a roadmap of what to do, in what order. Two weeks, fixed price. Then you decide how to charge with numbers in hand.",
+              "vai": "fecho",
+              "nota": 3,
+              "comenta": "A paid next step, with a deadline and a price stated plainly. You sell judgment and order, not one more agent."
+            },
+            {
+              "t": "I can take a look for free and tell you what I think.",
+              "vai": "fecho",
+              "nota": 1,
+              "comenta": "A free lead magnet has its place before the conversation. Here he already has the pain and the decision; the diagnostic that measures the before and after is paid work."
+            }
+          ]
+        },
+        "fecho": {
+          "cliente": "What if we just solved everything together right now? I have another half hour.",
+          "opcoes": [
+            {
+              "t": "I'd rather respect the 15 minutes. I'll send you a one-page scope today, and we start on the date you choose.",
+              "vai": "fim-bom",
+              "nota": 3,
+              "comenta": "Ending on time signals that you've done this before. The next step left with a date."
+            },
+            {
+              "t": "Sure, let's take advantage and design the whole solution.",
+              "vai": "fim-tempo",
+              "nota": 0,
+              "comenta": "You gave away, in an extended call, the roadmap that was the service."
+            }
+          ]
+        },
+        "fim-construcao": {
+          "fim": true,
+          "titulo": "Building without a diagnostic",
+          "texto": "You'll build a second agent without knowing whether the first one helped. If the billing doesn't pay off, the blame falls on your work, and the next quote gets decided on price."
+        },
+        "fim-tempo": {
+          "fim": true,
+          "titulo": "Long conversation, no next step",
+          "texto": "It was a good conversation and nobody left with a task. Without a number and without a date, the decision goes back to \"I'll think about it.\""
+        },
+        "fim-bom": {
+          "fim": true,
+          "titulo": "Diagnostic before the second agent",
+          "texto": "Carlos leaves with a one-sentence statement of the problem, the question still to answer (how many conversations turn into orders), and a diagnostic with a deadline and a price. You come in as someone who measures and prioritizes, not as one more agent vendor."
+        }
+      },
+      "licao": "In the 15-minute conversation, frame it, narrow it to one sentence, ask for a number, and propose the diagnostic: the building comes later, if the number calls for it."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "And the price?",
+      "paragrafos": [
+        "Pricing has an owner in the program. The pricing ladder and the menu of options are in <a href=\"https://inematds.github.io/formacao-vendas-ia-consultoria-v72/\">course 2, Consulting Playbook</a>. The price ranges by service and \"price is a test\" are in <a href=\"https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/\">course 4, From Zero to First Client</a>.",
+        "From here, take one rule: the price comes from the value the client receives, not from the hours you spend. And the short diagnostic today works better as a lead magnet, because the client can get something similar on their own with an AI tool. What still holds is judgment: what to prioritize, what the AI gets wrong, and the right order."
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Template to copy",
+      "sub": "Run it before your next real conversation.",
+      "blocos": [
+        {
+          "rot": "Prompt · your 15-minute script",
+          "icone": "chat",
+          "conteudo": "Build the script for a 15-minute diagnostic conversation.\nI offer <the role you chose: consultant, auditor, mentor or trainer> to <type of company>.\n\nDeliver, in this order:\n1. The opening line that frames the conversation in 30 seconds.\n2. The one-sentence restriction question, written the way I would say it out loud.\n3. Five quantification questions that turn his pain into a number per month.\n   Each one has to be answerable with a number, not with an opinion.\n4. The line that proposes the paid next step (diagnostic or roadmap), with a deadline and a price stated without apology.\n5. Three signs, during the conversation, that this person will NOT buy, so I can end early."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Three short exercises. The third uses the lab's fictional company.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Your 15-minute script",
+          "min": "20 min",
+          "texto": "Run the prompt for the role at the top of your table. Read the five quantification questions out loud.",
+          "pronto": "the script is saved and none of the 5 questions can be answered with \"I think so\": all of them ask for a number, a frequency or a value."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Simulated conversation with a scoreboard",
+          "min": "10 min",
+          "texto": "Do this lesson's simulated conversation. If you don't reach the top score, read the comments, click restart and try again.",
+          "pronto": "you finished the conversation with the top score and can say why the \"I'll build the agent\" option was the weakest."
+        },
+        {
+          "id": "e3",
+          "titulo": "3 · The missing number",
+          "min": "15 min",
+          "texto": "Open the <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">Horizonte Distribuidora agent dashboard</a> (the lab's fictional company). Write down which number Carlos would need to answer \"did the agent help or not?\" and how you would measure the before.",
+          "pronto": "you have in writing the missing indicator on the dashboard, where the data would come from, and what the baseline (the \"before\" period) would be."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick test",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "The client starts venting about everything that goes wrong in the company. What do you do?",
+          "opcoes": [
+            "Listen until he's done, without interrupting",
+            "Ask for the problem in one sentence",
+            "Present your solution right away"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "The one-sentence restriction cuts the venting and brings the focus back. Listening with no direction burns the 15 minutes; presenting a solution before understanding is selling a build in the dark."
+        },
+        {
+          "p": "What is the difference between a diagnostic and a roadmap?",
+          "opcoes": [
+            "They are the same service with different names",
+            "A diagnostic identifies where it leaks; a roadmap says what to do, in what order and in how long",
+            "A roadmap is the free version of the diagnostic"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "They are two services. The diagnostic looks at the present; the roadmap looks at the future in 30, 60, 90 and 180 days. Mixing them up costs money."
+        },
+        {
+          "p": "Why does the short diagnostic work today as a free lead magnet?",
+          "opcoes": [
+            "Because it takes no work at all",
+            "Because the client can get something similar on their own with AI; what's worth paying for is the judgment and the order",
+            "Because charging for a diagnostic is unethical"
+          ],
+          "certa": 1,
+          "ref": "texto",
+          "explica": "The client can already get a decent report by chatting with an AI tool. The value has moved to prioritizing, saying what the AI gets wrong, and the right order."
+        },
+        {
+          "p": "The conversation hit 15 minutes and the client offers another half hour. What's the best move?",
+          "opcoes": [
+            "Take the chance and design the whole solution",
+            "Wrap up on time with the next step and the date agreed",
+            "Ask for a discount on the diagnostic in exchange for the time"
+          ],
+          "certa": 1,
+          "ref": "simconversa",
+          "explica": "Wrapping up on time signals competence and protects the service: designing everything on the call is giving away the roadmap for free."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Five steps",
+          "texto": "Public proof, lead magnet, conversation, diagnostic and roadmap, follow-up."
+        },
+        {
+          "t": "A lead magnet is finished work",
+          "texto": "Specific to that business, genuinely good and with no strings attached."
+        },
+        {
+          "t": "Fifteen minutes",
+          "texto": "Frame it, one sentence, a number, the paid next step, and end on time."
+        },
+        {
+          "t": "Every price has an owner",
+          "texto": "Pricing ladder in course 2, ranges per service in course 4."
+        }
+      ]
+    }
+  ]
+}
