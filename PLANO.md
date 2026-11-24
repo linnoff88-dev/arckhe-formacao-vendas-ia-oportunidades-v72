@@ -4,7 +4,7 @@ Subtítulo: **escolha o seu papel**. Curso 1 de 5 da Formação Vendas com IA (o
 
 Visão: construir ficou fácil, confiar não. As 43 oportunidades passam por um filtro de **5 caixas**: os 4 papéis + **construção que perde valor**. Ensinar, diagnosticar e mapa de rota sobem; loja, site de ticket baixo, agendamento e afins viram **parte** de um serviço de confiança.
 
-Fonte (não alterada): `~/projetos/formacao-vendas-ia-oportunidades` (COURSE_PLAN.md + `curso/trilha*/modulo-*.html`). Laboratório: `https://inematds.github.io/prof2030-lab/` (Horizonte Distribuidora, peça `pecas/painel/` = F11 "painel sem linha de base").
+Fonte (não alterada): `~/projetos/formacao-vendas-ia-oportunidades` (COURSE_PLAN.md + `curso/trilha*/modulo-*.html`). Laboratório: `https://linnoff88-dev.github.io/ (Horizonte Distribuidora, peça `pecas/painel/` = F11 "painel sem linha de base").
 
 Regras: sem promessa de renda (as contas de faturamento da fonte — "são US$ 200.000", "US$ 60.000 por ano", "ganhando de US$ 7.000 a 20.000", "fatura sete dígitos" — saem); preço é dos cursos 2 (escada) e 4 (faixas por serviço), aqui só ponteiro; sem citar a fonte original; nada inventado; simconversa é ficção rotulada.
 
@@ -89,4 +89,4 @@ Ensina, da fonte 1.2.3: enquadre de 30 s, restrição de uma frase, perguntas qu
 ## Decisões
 - Preço: 1.2.5, 1.2.6 e 2.2.6 viram um parágrafo-ponteiro para os cursos 2 e 4. Faixas por oportunidade ficam fora (o curso 4 é o dono das faixas por serviço).
 - As 43 aparecem todas nos diagramas (itens por caixa); só as que sobem ganham aba em `passos`.
-- Laboratório: só a home e `pecas/painel/` (200). Formações Prof 2030: link para `https://eventos.inema.pro/prof2030/#formacoes` (repos `prof2030-*` ainda 404).
+- Laboratório: só a home e `pecas/painel/` (200). Formações Prof 2030: link para `https://eventos.ARCKHÉ.pro/prof2030/#formacoes` (repos `prof2030-*` ainda 404).

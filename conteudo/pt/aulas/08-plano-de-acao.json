@@ -136,11 +136,11 @@
       "tipo": "links",
       "titulo": "Continue por aqui",
       "links": [
-        {"t": "Curso 3 · Fundamentos (próximo da ordem sugerida)", "href": "https://inematds.github.io/formacao-vendas-ia-fundamentos-v72/", "icone": "seta"},
-        {"t": "Curso 2 · Playbook de Consultoria (escada de preço)", "href": "https://inematds.github.io/formacao-vendas-ia-consultoria-v72/", "icone": "lupa"},
-        {"t": "Curso 4 · Do Zero ao Primeiro Cliente (faixas por serviço)", "href": "https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/", "icone": "escudo"},
-        {"t": "Área Profissional 2030: as quatro formações", "href": "https://eventos.inema.pro/prof2030/#formacoes", "icone": "camadas"},
-        {"t": "Laboratório: Horizonte Distribuidora (empresa fictícia)", "href": "https://inematds.github.io/prof2030-lab/", "icone": "pasta"}
+        {"t": "Curso 3 · Fundamentos (próximo da ordem sugerida)", "href": "https://linnoff88-dev.github.io/ "icone": "seta"},
+        {"t": "Curso 2 · Playbook de Consultoria (escada de preço)", "href": "https://linnoff88-dev.github.io/ "icone": "lupa"},
+        {"t": "Curso 4 · Do Zero ao Primeiro Cliente (faixas por serviço)", "href": "https://linnoff88-dev.github.io/ "icone": "escudo"},
+        {"t": "Área Profissional 2030: as quatro formações", "href": "https://eventos.ARCKHÉ.pro/prof2030/#formacoes", "icone": "camadas"},
+        {"t": "Laboratório: Horizonte Distribuidora (empresa fictícia)", "href": "https://linnoff88-dev.github.io/ "icone": "pasta"}
       ]
     }
   ]

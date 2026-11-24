@@ -118,7 +118,7 @@
       "tipo": "texto",
       "titulo": "E o preço?",
       "paragrafos": [
-        "Preço tem dono na formação. A escada de preço e o cardápio de opções estão no <a href=\"https://inematds.github.io/formacao-vendas-ia-consultoria-v72/\">curso 2, Playbook de Consultoria</a>. As faixas por serviço e o \"preço é teste\" estão no <a href=\"https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/\">curso 4, Do Zero ao Primeiro Cliente</a>.",
+        "Preço tem dono na formação. A escada de preço e o cardápio de opções estão no <a href=\"https://linnoff88-dev.github.io/ 2, Playbook de Consultoria</a>. As faixas por serviço e o \"preço é teste\" estão no <a href=\"https://linnoff88-dev.github.io/ 4, Do Zero ao Primeiro Cliente</a>.",
         "Daqui, leve uma regra: o preço vem do valor que o cliente recebe, não das horas que você gasta. E o diagnóstico curto hoje funciona melhor como isca, porque o próprio cliente consegue algo parecido sozinho com uma ferramenta de IA. O que continua valendo é o julgamento: o que priorizar, o que a IA erra e a ordem certa."
       ]
     },
@@ -143,7 +143,7 @@
          "texto": "Faça a conversa simulada desta aula. Se não chegar ao placar máximo, leia os comentários, clique em recomeçar e tente de novo.",
          "pronto": "você terminou a conversa com o placar máximo e consegue dizer por que a opção \"monto o agente\" era a mais fraca."},
         {"id": "e3", "titulo": "3 · O número que falta", "min": "15 min",
-         "texto": "Abra o <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">painel do agente da Horizonte Distribuidora</a> (empresa fictícia do laboratório). Escreva qual número o Carlos precisaria para responder \"o agente ajudou ou não?\" e como você mediria o antes.",
+         "texto": "Abra o <a href=\"https://linnoff88-dev.github.io/ do agente da Horizonte Distribuidora</a> (empresa fictícia do laboratório). Escreva qual número o Carlos precisaria para responder \"o agente ajudou ou não?\" e como você mediria o antes.",
          "pronto": "você tem por escrito o indicador que falta no painel, de onde viria o dado e qual seria a linha de base (o período \"antes\")."}
       ]
     },

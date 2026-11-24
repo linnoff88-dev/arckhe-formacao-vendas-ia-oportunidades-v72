@@ -234,7 +234,7 @@
       "tipo": "texto",
       "titulo": "¿Y el precio?",
       "paragrafos": [
-        "El precio tiene su lugar en la formación. La escalera de precios y el menú de opciones están en el <a href=\"https://inematds.github.io/formacao-vendas-ia-consultoria-v72/\">curso 2, Playbook de Consultoría</a>. Los rangos por servicio y el \"precio es prueba\" están en el <a href=\"https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/\">curso 4, Del Cero al Primer Cliente</a>.",
+        "El precio tiene su lugar en la formación. La escalera de precios y el menú de opciones están en el <a href=\"https://linnoff88-dev.github.io/ 2, Playbook de Consultoría</a>. Los rangos por servicio y el \"precio es prueba\" están en el <a href=\"https://linnoff88-dev.github.io/ 4, Del Cero al Primer Cliente</a>.",
         "De aquí, llévate una regla: el precio viene del valor que el cliente recibe, no de las horas que tú gastas. Y el diagnóstico corto hoy funciona mejor como imán de clientes, porque el propio cliente consigue algo parecido por su cuenta con una herramienta de IA. Lo que sigue valiendo es el criterio: qué priorizar, en qué se equivoca la IA y el orden correcto."
       ]
     },
@@ -273,7 +273,7 @@
           "id": "e3",
           "titulo": "3 · El número que falta",
           "min": "15 min",
-          "texto": "Abre el <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">panel del agente de Horizonte Distribuidora</a> (empresa ficticia del laboratorio). Escribe qué número necesitaría Carlos para responder \"¿el agente ayudó o no?\" y cómo medirías el antes.",
+          "texto": "Abre el <a href=\"https://linnoff88-dev.github.io/ del agente de Horizonte Distribuidora</a> (empresa ficticia del laboratorio). Escribe qué número necesitaría Carlos para responder \"¿el agente ayudó o no?\" y cómo medirías el antes.",
           "pronto": "tienes por escrito el indicador que falta en el panel, de dónde vendría el dato y cuál sería la línea base (el período \"antes\")."
         }
       ]

@@ -33,7 +33,7 @@
          "detalhe": "Site, loja, agendamento, agente de voz, criativos. Quando o cliente consegue fazer sozinho com IA, entregar só a construção vira disputa de preço. Não some: vira parte de um dos quatro serviços. Nas 43: as outras 27."}
       ],
       "legenda": "Quatro papéis vendem confiança. A quinta caixa não é proibida: é peça de um serviço, não o serviço inteiro.",
-      "dica": "Mais sobre cada papel na <a href=\"https://eventos.inema.pro/prof2030/#formacoes\">área Profissional 2030</a>."
+      "dica": "Mais sobre cada papel na <a href=\"https://eventos.ARCKHÉ.pro/prof2030/#formacoes\">área Profissional 2030</a>."
     },
     {
       "tipo": "passos",
@@ -127,8 +127,8 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Área Profissional 2030: as quatro formações", "href": "https://eventos.inema.pro/prof2030/#formacoes", "icone": "camadas"},
-        {"t": "Área Consultoria de IA", "href": "https://eventos.inema.pro/consultoria-ia/", "icone": "seta"}
+        {"t": "Área Profissional 2030: as quatro formações", "href": "https://eventos.ARCKHÉ.pro/prof2030/#formacoes", "icone": "camadas"},
+        {"t": "Área Consultoria de IA", "href": "https://eventos.ARCKHÉ.pro/consultoria-ia/", "icone": "seta"}
       ]
     }
   ]

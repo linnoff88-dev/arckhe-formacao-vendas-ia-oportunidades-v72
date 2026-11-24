@@ -66,7 +66,7 @@
         }
       ],
       "legenda": "Cuatro roles venden confianza. La quinta caja no está prohibida: es una pieza de un servicio, no el servicio completo.",
-      "dica": "Más sobre cada rol en el <a href=\"https://eventos.inema.pro/prof2030/#formacoes\">área Profesional 2030</a>."
+      "dica": "Más sobre cada rol en el <a href=\"https://eventos.ARCKHÉ.pro/prof2030/#formacoes\">área Profesional 2030</a>."
     },
     {
       "tipo": "passos",
@@ -264,12 +264,12 @@
       "links": [
         {
           "t": "Área Profesional 2030: las cuatro formaciones",
-          "href": "https://eventos.inema.pro/prof2030/#formacoes",
+          "href": "https://eventos.ARCKHÉ.pro/prof2030/#formacoes",
           "icone": "camadas"
         },
         {
           "t": "Área Consultoría de IA",
-          "href": "https://eventos.inema.pro/consultoria-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/consultoria-ia/",
           "icone": "seta"
         }
       ]

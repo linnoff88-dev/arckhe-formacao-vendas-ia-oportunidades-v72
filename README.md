@@ -1,9 +1,9 @@
-﻿
-## Mais no INEMA.CLUB
 
-- Ficha do curso: https://www.inema.club/cursos/330-formacao-vendas-com-ia-1-43-oportunidades-escolha-o-seu-papel-v7-2/
-- Guia: https://www.inema.club/aprender-inteligencia-artificial/
-- Todos os cursos: https://www.inema.club/cursos/
+## Mais no ARCKHÉ AI
+
+- Ficha do curso: https://www.ARCKHÉ AI/cursos/330-formacao-vendas-com-ia-1-43-oportunidades-escolha-o-seu-papel-v7-2/
+- Guia: https://www.ARCKHÉ AI/aprender-inteligencia-artificial/
+- Todos os cursos: https://www.ARCKHÉ AI/cursos/
 
 ---
 
