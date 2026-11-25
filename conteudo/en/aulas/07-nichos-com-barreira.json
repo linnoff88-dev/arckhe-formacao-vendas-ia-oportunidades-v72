@@ -143,7 +143,7 @@
         {
           "rot": "Barrier checklist before proposing",
           "icone": "escudo",
-          "conteudo": "CHECKLIST DE BARREIRA · <empresa> · <data>\n\n[ ] DADOS: os contatos/dados que vou usar foram autorizados para esse uso? Quem confirmou, por escrito?\n[ ] LIMITE: estou vendendo ferramenta/pesquisa ou estou decidindo pelo cliente? (decidir = fora)\n[ ] AVISOS: preciso de aviso de que não sou profissional da área? Onde ele aparece?\n[ ] MATEMÁTICA: sei a margem líquida e o custo de atender cada venda antes de dizer um número?\n[ ] LINHA DE BASE: qual é o número de antes, em que período, e o que não pode mudar durante a medição?\n[ ] ESPECIALISTA: em que ponto eu chamo alguém habilitado (jurídico, saúde, finanças)?\n\nSe algum item ficou sem resposta, a proposta espera."
+          "conteudo": "CHECKLIST DE BARREIRA · <empresa> · <data>\n\n[ ] DADOS: os contatos/dados que vou usar foram autorizados para esse uso? Quem confirmou, por escrito?\n[ ] LIMITE: estou vendendo ferramenta/pesquisa ou estou decidindo pelo cliente? (decidir = fora)\n[ ] AVISOS: preciso de aviso de que nêo sou profissional da área? Onde ele aparece?\n[ ] MATEMÁTICA: sei a margem líquida e o custo de atender cada venda antes de dizer um número?\n[ ] LINHA DE BASE: qual é o número de antes, em que período, e o que nêo pode mudar durante a mediçêo?\n[ ] ESPECIALISTA: em que ponto eu chamo alguém habilitado (jurídico, saúde, finanças)?\n\nSe algum item ficou sem resposta, a proposta espera."
         }
       ]
     },
